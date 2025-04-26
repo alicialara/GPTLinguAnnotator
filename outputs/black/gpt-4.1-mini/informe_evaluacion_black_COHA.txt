@@ -1,0 +1,32 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: COHA
+Palabra: black
+Modelo: gpt-4.1-mini
+Accuracy global: 0.8000
+Cohen's Kappa: 0.7221 (Acuerdo substancial)
+Número de muestras: 50
+
+Métricas por categoría:
+  BO_CONSCIOUSNESS: Precision=1.0000, Recall=0.9600, F1=0.9796, Count=25.0
+  ADJECTIVE: Precision=0.7500, Recall=0.5000, F1=0.6000, Count=6.0
+  PAINT_BODY_BLACK: Precision=0.6250, Recall=1.0000, F1=0.7692, Count=5.0
+  BO_LIGHTS_OFF: Precision=0.6667, Recall=1.0000, F1=0.8000, Count=4.0
+  BO_TURN_OFF: Precision=1.0000, Recall=1.0000, F1=1.0000, Count=2.0
+  MAKE_BLACK: Precision=1.0000, Recall=0.5000, F1=0.6667, Count=2.0
+  NONE: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=2.0
+  NOUN: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=2.0
+  APPLY_BLACKING: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=1.0
+  BRUISE: Precision=1.0000, Recall=1.0000, F1=1.0000, Count=1.0
+  BO_OBLITERATE: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=0.0
+
+Mejor categoría por F1: BO_CONSCIOUSNESS (F1: 0.9796)
+Peor categoría por F1: ADJECTIVE (F1: 0.6000)
+
+Patrones de confusión más comunes:
+  HUMANO: ADJECTIVE -> GPT: BO_LIGHTS_OFF: 2 casos
+  HUMANO: NONE -> GPT: PAINT_BODY_BLACK: 2 casos
+  HUMANO: NOUN -> GPT: NONE: 2 casos
+  HUMANO: APPLY_BLACKING -> GPT: PAINT_BODY_BLACK: 1 casos
+  HUMANO: BO_CONSCIOUSNESS -> GPT: ADJECTIVE: 1 casos
+  HUMANO: ADJECTIVE -> GPT: NOUN: 1 casos
+  HUMANO: MAKE_BLACK -> GPT: BO_OBLITERATE: 1 casos
