@@ -1,0 +1,371 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "blacken",
+  "corpus": "EHCB",
+  "date": "27/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "not be dulled. </s><s> Dendroide, a kind of ſpurge. </s><s> Denegare, to denie, to refuſe. </s><s> Denigrare, to obſcure, to darken, to taxe, to blacken , to blemiſh. </s><s> Denominare, to nominate, to name by. </s><s> Denominatione, a denomination. </s><s> Denominatiuo, that is deriued of a",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "if pardons preuaile not, for that they reach neither quicke nor dead: why doe wee listen to these vngodly Sirens? who blacken the ayre with the fogge of their dearne diuinitie, and driue away al comfort from distressed soules, with these wofull",
+      "human_category": "CORRUPT",
+      "model_category": "CORRUPT",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": ", their bulles are divulged, their antichristian doctrine is traduced by Symancha, Costerus and Dolman, who haue blackened the aire with their derne diuinitie, whilest they auerre that subiects may rise, rebell, & kill their kings, if they be",
+      "human_category": "CORRUPT",
+      "model_category": "CORRUPT",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": ", Vignols, Eſurgni: Carkanets of iron, and of gold. </s><s> CHAP. </s><s> XIII. </s><s> Of mariage: The Iewes cuſtome: The widdowes do blacken their faces: the proſtituting of Maidens: the continency of the Souriquois women: the maner to make ſute to a maid for",
+      "human_category": "BO_COVER",
+      "model_category": "PAINT_BODY_BLACK",
+      "match": false
+    },
+    {
+      "id": 5,
+      "text": "my selfe, so neare am I to the brinke: yet see what light thoughts sparkle out of this dead Turffe! </s><s> My eyes darken; my teeth blacken ; my heart heateth; my hoarse throat ruttleth; my countenance hath lost her colour; all my powers and motions their",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": true
+    },
+    {
+      "id": 6,
+      "text": "they are all wicked. </s><s> Seeing the Pope can haue no more right; thē a Teacher, if he were learned: al frō him is like an hand blackened with pitch. </s><s> And S. Paul taught the Romans; that euery ſoule ſhould ſubmitt himſelfe to the higher power. </s><s> Nero was then in",
+      "human_category": "MAKE_BLACK",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 7,
+      "text": "& cōtinueth in doing wel, but truſteth not in her merits or weldoings, but reioyceth in them, becauſe the Sun doth blacken & darken thē, whileſt that ſhee frō time to time doth mortifie the old man, by humbling her ſelf, & voluntary ſuffering",
+      "human_category": "MAKE_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": false
+    },
+    {
+      "id": 8,
+      "text": "in the State: wherein many acts of iniustice, by the sway of power and passion, were committed, which did much blacken that time of peace, and made a good man (not by doing, but induring ill) held to be a bad king. </s><s> And it is sayd, that Emme the",
+      "human_category": "MAKE_BLACK",
+      "model_category": "DEFAME",
+      "match": false
+    },
+    {
+      "id": 9,
+      "text": ", or near the effect of common Salt: It gave a Red with Tincture of Logwood (as Cellar-salt but more red) which Vitriol blackens and Alum purples. </s><s> With Syrup of Cloves it gave a dull pale with a blewish cast, as Alkalies do, but more like to Saltpetres",
+      "human_category": "MAKE_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "that which our Reformers taught in oppoſition to the Church of Rome; and after all the Endeavours that have been uſed to blacken them by the moſt horrid Calumnies, as well as to deſtroy them by the cruelleſt Inquiſitions and Croiſades, the",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": ": I know very well, that he has done nothing, but repeat the old Calumnies wherewith the Papiſts formerly endeavoured to blacken that great Man, without taking the leaſt notice of the Apologies that have been made in his behalf. </s><s> But either Men muſt",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 12,
+      "text": ", by his calling them Paterines; for as for the name of Publicans, it was like that of Cathari, given them on purpoſe to blacken them, and is the ſame with that of Bulgarians and Paphlagonians, all relating to the Original of the Manichees who came",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "the whole Hiſtory of Wicklef, and of his Diſciples, to the bottom: The Biſhop of Meaux hath done his Endeavours to blacken them, and to load them with the fouleſt Calumnies; I only ſay in ſhort, that the Biſhop did not take the pains to conſult",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "Malice of theſe Hearts of Tygers; who under the name of Defenders of the Chriſtian Faith, have rack''d their Brains to blacken the moſt innocent Lives of the moſt religious Chriſtians; and who have made it their Diverſion to exterminate them by",
+      "human_category": "CORRUPT",
+      "model_category": "DEFAME",
+      "match": false
+    },
+    {
+      "id": 15,
+      "text": "of Christ considered in it self, is a most beauteous and lovely Doctrine. </s><s> 2. </s><s> That this Doctrine has been miserably blackened , and blemished, by those that should have given it a better treatment. </s><s> 3. </s><s> That whoever professeth this Doctrine, is",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "the Doctrine of God our Saviour, presupposes, that however beautiful this Doctrine is in it self, it has been miserably blackened , defaced, defiled, and much dirt thrown in the Face of it: which is done various ways. </s><s> 1. </s><s> First when from the Doctrine of",
+      "human_category": "DEFAME",
+      "model_category": "CORRUPT",
+      "match": false
+    },
+    {
+      "id": 17,
+      "text": "of Promiſes, as this pretended Saint, and Mirror of Juſtice has afforded us. </s><s> And though three preceding Kings have been blackened by a ſet of Villains and Profligates, that are a ſcandal to all the reſt of Mankind, as Neroes, Julians, and Imps of Hell,",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 18,
+      "text": "and then in seeming Charity to the Church of England deny that, because the Doctor used those Words, it is honest hence to blacken the Church of England, with this Disloyal Principle, as if she allowed her Members, though not to fight against, yet to",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": "of their meetings to raise odious stories of him, which they will publish in all their neighbourhoods, and so blacken him, as if he were a Devil, though he be the most innocent person breathing. </s><s> They will propagate and improve all the",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 20,
+      "text": "accused Anthony of any thing while he was present, but would now value himself upon this opportunity of his absence to blacken him with a multitude of Crimes, I present my self to make appear the falsity of his Accusations; which I hope to do in few",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": "less occasion they have for their Malice, the less trouble it will give us; and while their Endeavours are employed to blacken and expose us, let ours be as busie to defeat and disappoint them. </s><s> Thus we shall tire their Spight, put their Ignorance to",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 22,
+      "text": "Lutheri, quae in Bernardi Augustinique libris, ut Orthodoxa, imo ut pia leguntur Erasmus is perversly brought in to blacken Ls. reputation: what he says of him would not disparage the best of Saints: for it amounts to no more then this, that he had",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 23,
+      "text": ", a Place that has not been thought apt to instill into its Members a Disesteem of their Holy Mother, or a love of blackening and betraying their Brethren. </s><s> Methinks Men, who talk so much of Moderation and Temper, would do well to shew it, in",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 24,
+      "text": "according to my Skill, &c. </s><s> It is very obvious, that when he is upon doing real Service to his Friends, he may be allowed to blacken the Swearers with mental Reſervations, and to carry the meaning of this preſent Oath further than they will allow it to",
+      "human_category": "CORRUPT",
+      "model_category": "DEFAME",
+      "match": false
+    },
+    {
+      "id": 25,
+      "text": "would never have granted it: These are the very Words of the Prince. </s><s> That it was as strange as insupportable, that a Man blacken ''d with Adultery, Poisoning, Incest, and Parricide, should make a Crime of a Marriage approved of by Monsieur de",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "abandon the States; he says the Spanish Folly and Impertinence cannot be sufficiently admired, who endeavouring to blacken and defame him, raise his Reputation, by owning that he preferrs the Safety of the States, and their Liberty, to his own",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": "the other Colours with which it is mingled, I believe that Piece would have been fresh and fine to this day; but that has so blackened it, that it seems as it were Tinto. </s><s> I have made this Discourse at the end of Raphael''s Life, to show how much Care, Study,",
+      "human_category": "MAKE_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": true
+    },
+    {
+      "id": 28,
+      "text": "moſt Sacred MAJESTY. </s><s> Now, as Life, and an honeſt Reputation, are to me of an equal Value, and one Sir Richard Blackam hath blackened and whiſpered away my Reputation on the Grounds of a Cauſeleſs Statute of Bankrupt, maliciouſly taken out againſt me by",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 29,
+      "text": "of any one particular Error; and not knowing but theſe may be part of the things with which Sir Richard Blackam hath blackened my Reputation I have for that Reaſon ſet them forth. </s><s> Alſo to make manifeſt the cruel Conſequences of Mr. Moyer''s",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 30,
+      "text": "odious Imputation of Schiſm from themſelves, always indeavour to prove the cauſe to be in the Church: To which end they blacken , and beſpatter her all they can, as guilty of Willworſhip, Superſtition, Idolatry, Lukewarmneſs, or any other vile",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 31,
+      "text": "ſuch Arbitrary Arts, Tricks, and Devices to acquit and Juſtifie the worſt of Villains that have come before them, and to blacken the Reputations of Honeſt Men, that certainly the like has not been known, for an Inſtance of which I refer you to the",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 32,
+      "text": ", That they turn''d me out of their Office for Miſdemeanour, hoping by the help of that monſtrous untruth to have blacken ''d my Reputation, and extenuated their own miſcarriages. </s><s> French Popiſh Merchant, that formerly liv''d in London, but",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 33,
+      "text": "for Accounts, in order to ſtop the Mouths of the Commiſſioners for Sick and Wounded, or any of their Party, from blackening him in his Reputation, as they have done by me and all others who have oppoſed their Evil Practices. </s><s> To the Honourable,",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 34,
+      "text": "money upon the Subject; which ſhews how ready ſome perſons are to lay hold on all little Opportunities to defame and blacken the Reputations of thoſe that endeavour to detect publick Frauds. </s><s> April 11th, Thurſday, had another Hearing, when the",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 35,
+      "text": "damn him to the flames of Hell, as they are wont to canonize all their own for Saints. </s><s> They make it their buſineſs alſo to blacken his Memory amongſt men;Paul''s Church, and another that was placed amongſt the Statues of his Predeceſſors in the Royal",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 36,
+      "text": "wou''d ſtrike for his deliverance </s><s> That himſelf has not chain''d the hand ſhould draw it? </s><s> Has not his own accuſing Tongue ſo blacken ''d him, </s><s> Painted her Murder with a face ſo monſtrous, </s><s> As lulls his ſleeping Friends into a Lethargy; </s><s> Till ſcarce their",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 37,
+      "text": "''d his great Soul, and Hermione pleaded within for Life at any Price, even that of all his Glory; the thought of her alone blacken ''d this last Scene of his Life, and for which all his past Triumphs could never atone nor excuse. </s><s> Thus taken, he suffered",
+      "human_category": "DEFAME",
+      "model_category": "CORRUPT",
+      "match": false
+    },
+    {
+      "id": 38,
+      "text": "others who writ to him, or viſited him, was condemned to the flames, as if he had been a common perſon. </s><s> They endeavour''d to blacken him, by accuſing him as a Complice in the aſſaſſination of the Preſident de St. Andre, who had been one of the",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 39,
+      "text": "them, to prevent a Conſpiracy againſt his own Perſon; ſo that after he had treacherouſly ſpilt their blood, he would blacken their memory. </s><s> You muſt not be aſtoniſhed, if there be found ſome to apologize for this cowardly Cruelty, ſince there was",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 40,
+      "text": ", who ought to look upon themſelves as Conſervators of the Liberty and Welfare of their Subjects; but they have blacken ''d the Great Henry with the Reproach of Ingratitude, which he adjudged unworthy of himſelf; by depriving an Obedient",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 41,
+      "text": "the Synod infer▪d that the ſaid Aſſemblies w neither Criminal nor Clandeſtine. </s><s> They complain''d th the Reform''d were blacken ''d by that Tacit reproach: T it revivd former hatreds, making them odious both home and abroad by thoſe oblique",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "but Illuſions; and that was evident enough, becauſe they never moleſted any of thoſe perſons that Amelot ſought to blacken with his pretended Informations. </s><s> But to bring himſelf off like a perſon of credit, after it appear''d that all his",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 43,
+      "text": "influence on the Court of Aldermen he attributed his diſmiſſion from the Recorderſhip, and uſed his Endeavours to blacken them as much as he could: Yet all his Honour was not ſunk, for he had prevailed for the Removal of Sir Job Charleton from the",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 44,
+      "text": ", you dismiss it thus, pag. 17. </s><s> And so much by way of Answer so that part of your Book, by which you have endeavoured to blacken the good King''s Reign, and to run down the Reputation of Bishop Laud; and to express your Indignation against me, for",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 45,
+      "text": "to write all things with the greateſt plauſibleneſs and ſhew of Reaſon and Juſtice on their own ſide, and will be ſure to blacken and villifie the Papiſts as much as they are able, although they have never ſo little reaſon ſo to do. </s><s> I ſhall, to back what",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 46,
+      "text": "come a very wet ſeaſon, you muſt take care of weeding it alſo, that it grow not till it be over-ripe, leſt the ſtalk ſhould blacken or mildew; yet to its full ripeneſs you muſt let it grow, the which you may perceive, both by the hurle, and by the ſeed. </s>",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": true
+    },
+    {
+      "id": 47,
+      "text": "for his fidelity to his Soveraign; And when his memory ſhould deſervedly live with honour it is moſt injuriouſly blacken ''d with this cloud of infamy. </s><s> LXVIII </s><s> Among men of Note in King Charles the firſts time, As ſome are deſervedly nominated,",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 48,
+      "text": "other States in other Circumstances, as much as it tended now to their Preservation. </s><s> Many have endeavoured to blacken this Act of the Queen''s, and others to defend and excuse it; but for my part, I think the Character God gave of King David,",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 49,
+      "text": "the Protestants. </s><s> These Treatments induced the Queen to be very severe against all Libels and Verses penned to the end to blacken the Reputation of any man; which she forbad any to read or divulge; and she ordered them to be burnt: And she extended this",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 50,
+      "text": ", and the Eccleſiaſtical Commiſſion. </s><s> And which was the height of folly, the ſame Pen which had been hired to defame and blacken the Church of England (the Author of the Publick Occurrences truly ſtated) was ordered to magnifie its Loyalty. </s><s> By",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.84,
+    "matches": 42,
+    "total": 50
+  },
+  "category_distribution": {
+    "DEFAME": 38,
+    "MAKE_BLACK": 5,
+    "CORRUPT": 4,
+    "BE(COME)_BLACK": 2,
+    "BO_COVER": 1
+  }
+}

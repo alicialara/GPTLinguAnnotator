@@ -1,0 +1,370 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "pink",
+  "corpus": "COHA",
+  "date": "27/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "and were content with the spectacle -- ladies sweeping by in silver-gauze tunics, showily pinked, crape and silk velvet dresses glittering with gold spangles, depending skirts twinkling and",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "there goes the cannon! and yonder run the cowards. How they are getting pinked in their backs! Fools! They don't know anything about war. It",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "recover. An old buckskin riding gauntlet, neatly stitched about the wrist, and pinked on the wristlet. A pretty glove, strangely, almost tragically, feminine in",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": "full size. There are 4 white and 4 red ones, and they are pinked out round the edge. In the centre of each red circle place a white",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "to overlap one another, and between each a circle of black cloth, also pinked out round the edge. The work is then fastened upon a round of cardboard",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 6,
+      "text": "Sweet Hesper stands and shines, And shines beneath an arc of golden sky, Pinked round with pointed pines. A noble scene! all breadth, deep tone and",
+      "human_category": "NONE",
+      "model_category": "BE(COME)_PINK",
+      "match": false
+    },
+    {
+      "id": 7,
+      "text": "if it heard him and were making answer to his imprecations, a column, pinked by the liberated fire below it, a burst of sparks in its core,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "waiting for me on the Pacific slope, and I don't want to get pinked by the Johnny Rebs. * ((Well, they're not very particular over",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "I was not strong yesterday, \" he said. \" But Mr. Everard is pinked in the side, and Mr. Travis, who would fight with pistols, hath",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "of the quarrel with the lad, he would probably have to risk being \" pinked \" for this jade! Susan, on the other hand, was as happy",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "(Pointing to robber) Look, there lies wither Harry Hastings or Wetheridge, pinked like a fowl at Michaelmas. p. 59 TEMPLE Hastings? AUNT TEMPLE Wetheridge?",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 12,
+      "text": "malarial valley, where stood the shining towers of Balak; he could see them pinked by the morning sun and low on the horizon. All together he was glad",
+      "human_category": "MAKE_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": false
+    },
+    {
+      "id": 13,
+      "text": "young man, who had appeared silently in the doorway of the bunkhouse. Reddy pinked violently. \" I had an accident, Denver, \" he explained. \"",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BLUSH",
+      "match": false
+    },
+    {
+      "id": 14,
+      "text": "with a hairy viper on top of him face up. The feller'd been pinked in the bridge o' the nose an' it was most horrid ghastly.",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": "out some signal; an' I shouldn't be none s'prised if my bullet pinked him. Leastwise I thought I heer'd a smothered cry. \" \" Get",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": ", the distinguishing features of which were a long, close-fitting, black waistcoat, pinked with white, a loose embroidered surtout, and buskins. The court followed his",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "n't lay down an' cry, by cripes, jes' because he gets pinked a little -- \" \" Aw, that's jest because -- it ain't",
+      "human_category": "NONE",
+      "model_category": "BLUSH",
+      "match": false
+    },
+    {
+      "id": 18,
+      "text": "at me sort of puzzled, and when I turns to Marjorie she's all pinked up like a strawberry sundae and is smotherin' a giggle with her mesh purse",
+      "human_category": "NONE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 19,
+      "text": "for the inside, I took my work-basket out under an oak tree, and pinked out yards and yards of white trimming, which was greatly admired. I cut",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 20,
+      "text": "had been slaying these gentry a dozen times a day for years. He had pinked four of them on the way across the bridge, before McCarthy, with his",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": "and when he said she was pretty, her blue-gray eyes softened, her cheeks pinked up, the sun put light in her hair nature had failed to, and",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 22,
+      "text": "from all sides it seemed like and they got me 3 times Al and never pinked this other bird once. Well Al it wasn't till 2 wks. ago that",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 23,
+      "text": "All the reply she gives is a stiff nod and I notice her face is pinked up like she was peeved at something. \" If your car isn't here",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 24,
+      "text": "\" Torchy is going to tell a story. \" Course, that gets me pinked up like the candle shades and I shakes my head vigorous. \" Hear,",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BLUSH",
+      "match": false
+    },
+    {
+      "id": 25,
+      "text": "\" Mrs. Gray and that critter out there were doing it. I reckon she pinked the pirate, for he was shooting with his left hand when he opened up",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "in sober fashion nodded their heads over the hope that he had been \" properly pinked, \" all in all sided with her, while admiring her pluck roundly denied",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": "minutes the shrewd sword thrusts of Captain Czlovoydi. When the Cavalryman at last slightly pinked the Count on the shoulder, Negress Baker flung herself hysterically between the duelists,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 28,
+      "text": "august father of the Sublime Empress Nagako. # Poorly aimed, the dagger merely pinked his Highness' chauffeur. Pouncing police not only collared would-be assassin Meika but efficiently",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 29,
+      "text": "a Conservative party picnic was being held. When reporters crowded round, the lady pinked with amiability. \" I was wondering as I entered the Zoo, \" she",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BLUSH",
+      "match": false
+    },
+    {
+      "id": 30,
+      "text": "me! \" Pow, pow, pow. Down went Clayton Clawson, neatly pinked in arms and legs. The bottle crashed to the floor, where it gave",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 31,
+      "text": "(\" Magda de Fontanges \"), Parisian journalist and actress who last spring pinked France's one-time Ambassador to Italy Count Charles Pineton de Chambrun for breaking up her",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 32,
+      "text": "is a firmly woven one, such as wool flannel, the edges may be pinked. Pinking is a saw-tooth edge given it by special shears or machine, or",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 33,
+      "text": "on a cove like you? \" From amongst the coins in his palm he pinked out two dark, glossy objects the size and shape of half lumps of sugar",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 34,
+      "text": ", Catnapper Coveleskie seized the officer's gun, took hasty but sleepy aim, pinked himself in the leg. # # Astute # In Jamestown, N. Y.,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 35,
+      "text": "errands in New Hartford. She had bought a short knife with curled tip, pinked edge and a red handle painted with forget-me-nots. On her way home she remembered",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 36,
+      "text": "gave him several units of blood plasma and he began to regain consciousness and \" pinked up \" some. We could not help, in a way, being impressed",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 37,
+      "text": ".' N so'll others. Lotsa others, I betcha! \" Blood pinked his thin, sallow flesh and his eyes praised the new world they visioned.",
+      "human_category": "MAKE_PINK",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 38,
+      "text": "with publication of a book written anonymously and titled Washington Merry-Go-Round. The book irreverently pinked prominent capital personages -- Wrong-Horse Harry, the heading of a chapter on Secretary of",
+      "human_category": "NONE",
+      "model_category": "MAKE_PINK",
+      "match": false
+    },
+    {
+      "id": 39,
+      "text": "was just a harmless expression of their ego. And children allow themselves to be pinked by hot stoves just to get a little sympathy out of their parents. -- What",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 40,
+      "text": "where to aim; and the same practice taught him the rapid expert jab that pinked you right there through any offered opening. His hit made, Lieutenant Edsell,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 41,
+      "text": "loose, but just as he did so the guide lunged again and this time pinked Colin in the shoulder. There was no pain, but blood began to drip",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "it flutter up there with the first rumors of evening, and his own heart pinked with the wind. The frail cross of the kite's frame hung as piteously",
+      "human_category": "NONE",
+      "model_category": "BE(COME)_PINK",
+      "match": false
+    },
+    {
+      "id": 43,
+      "text": "Pipe down! - Aye,' t is the cabin boy. Someone's pinked him, for certain. Blood poisoning, I shouldn't doubt. Save me",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 44,
+      "text": "time the tiny vessels that lay just under her cheeks expanded in the warmth and pinked her complexion. On occasionhe lifted his hand from the reins to caress her,",
+      "human_category": "MAKE_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": false
+    },
+    {
+      "id": 45,
+      "text": "(1696) the crafty surgeon Syringe happens to be passing when Lord Foppington is pinked by an angry husband. Oons, what a gash is here!' exclaims",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 46,
+      "text": "know where the Lodge stands. A little while on the visor as the east pinked up got me what I wanted. Because of the three-hour time difference, the",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 47,
+      "text": ". \" A doctor, quick, \" I said. \" She's been pinked with nerve poison. \" \" She's gone, then, \" he said",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 48,
+      "text": ", but some of his thoughts must have shown, for Tom Mount's face pinked up a little and his eyes mShel's finally unveiled. While Shel was unraveling",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 49,
+      "text": ", and color, kept crystallized from sixty million years before. A cloud, pinked by sunrise, floating high in a thin, expanded atmosphere. Did clouds everywhere",
+      "human_category": "MAKE_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": false
+    },
+    {
+      "id": 50,
+      "text": ". \" A few feet of stuff, brown top, blue eyes, dots pinked in the cheek, hands on the rib cage, touching her breasts. \"",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "ADJECTIVE",
+      "match": false
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.74,
+    "matches": 37,
+    "total": 50
+  },
+  "category_distribution": {
+    "NONE": 36,
+    "BE(COME)_PINK": 9,
+    "MAKE_PINK": 4,
+    "ADJECTIVE": 1
+  }
+}

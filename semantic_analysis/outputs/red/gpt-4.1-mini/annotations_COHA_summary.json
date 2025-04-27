@@ -1,0 +1,250 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "red",
+  "corpus": "COHA",
+  "date": "27/04/2025",
+  "total_samples": 33,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "just under the window; and now his wife had joined him, after \" redding up \" the kitchen, and giving orders for the next morning to the tidy",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "true cross. (MARTHA enters from the kitchen and potters about the room \" redding up. \") Look at him! Do you think he'll ever get",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "would be a good thing to have a day off for washing and general \" redding up. \" But the doctor had other intentions. In his own words,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": "proud content. Then she shooed them out and went about her work of \" redding up, \" pacing the earthen floor with the proud tread of victory. Courant",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "? Briggs shot the Later MeGavick came to my house with some women, and Redding fol. lowed him. Redding was weak. A doe? t? -,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 6,
+      "text": "in her domestic side. Harrietta did a good deal of tidying and dusting and redding up in her own two-room apartment, so high and bright and spotless. She",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": "get them. But I did. The whole two dozen. They got to Redding about ten days after I arrived. \" Well, there was something strange about",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "the Holy Land. # Last week the Buckfast monks and lay brothers busied themselves redding up the abbey as well as performing their usual work at their beehives and their",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "us made our way to Major Hill Park, and while the golden sun was redding and violeting the Ch -- teau Laurier we hunted for the watch. \" It",
+      "human_category": "MAKE_RED",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 10,
+      "text": " 197470 AN AMERICAN IN INDIA (277 pp.) - Sounders Redding - Bobbs - Merrill ($3.50). # # Saunders Redding, 48,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "shown newsreel films of U.S. infantrymen threatening a parade of workers, but, as Redding quickly pointed out, it was 20 years out of date. The workers were",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 12,
+      "text": "often I would stay in the kitchen with the Negro women till they had finished redding the table and washing the dishes and pots and that was a kind of shadowed",
+      "human_category": "NONE",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 13,
+      "text": "milking, maybe, and tending the milk, helping with the cooking, and redding up, helping, maybe, with the younguns. The work, she told",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "some writingon it. and we went back to the car and headed back for Redding the county seat of Shasta County. Pretty soon we met a hunter who had",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": "thugs, you know things, like where Falina Redding is. Who's Fauna Redding? - I was afraid you'd say that. - Open up. -",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "hard town to understand. Picture in your mind a small Connecticut village, say Redding Ridge or Easton, or one of the nicer fieldstone-wall suburbs back of the Merritt",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "another, probably a student, announced too loudly that she was meeting friends in Redding to drive to Seattle. # The Greyhound stopped in Willow Creek and picked up",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 18,
+      "text": "the wall. \" Sure, \" I said. \" Except for being in Redding in a truck I have to start with pieces of tape. Sure, \"",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": "Just having a caring, concerned adult to take him under their wing helped keep Redding on track in school and out of school. And while he had always been",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 20,
+      "text": "got to keep up these A's. \" After completing his undergraduate studies, Redding dreams of getting an MBA, a law degree and even a degree in theology",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": "agents seized records involving two heart specialists suspected of billing Medicare for unnecessary procedures at Redding Medical Center. # Several days later, the medical center's owner, Tenet",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 22,
+      "text": "at Manzanita Lake. Trip Planner Location Northern California, about 60 miles east of Redding Season La te May through September; the main park road can be closed into",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 23,
+      "text": "at once bridge, trail, eco-landmark, and the world's largest sundial-and yet Redding, CA's $23.5-million Sundial Bridge pulls it off. When it opened in July",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 24,
+      "text": ", the importance of the span is clear. Santiago Calatrava didn't simply give Redding a bridge-he gave the city its river. // Weekend in Redding Redding is 220",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 25,
+      "text": "closed Sun; from $20 per day; 2400 Athens Ave.; 530/244-1954) and Redding Sports Ltd. (from 7 $7 per hour, $28 per day; 950 Hilltop",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "paid $54 million to settle government allegations that two doctors did unnecessary heart surgery at Redding Medical Center, which has since been sold. # PNC Financial Services Group,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": ") - BRUCE KLUCER 18 mos to 3 yrs BOOKS Up Above Down Below sue Redding Bright swarms of toylike little people and animals crowd the stage of Redding's eyecatching",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 28,
+      "text": "final score. # * She blocked a three-point attempt by the Vols' Dominique Redding from the baseline with seven seconds left. # * She hawked Shanna Zolman,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 29,
+      "text": "more to say after that. \" When dinner was over, and everything \" redded up, \" Hildegarde sent Dame Hartley upstairs to take a nap, and escorted",
+      "human_category": "NONE",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 30,
+      "text": "I will moreover warn goodwife Billington to-night, that she may have the Common house redded betimes. \" \" Well thought on, John, \" replied Carver smiling,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 31,
+      "text": "out thar, \" she whispered vehemently from under her raised arm, as she redded back the straying locks with it. Nancy had the reckless, dare-devil courage those",
+      "human_category": "NONE",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 32,
+      "text": "went up there with Aunt Lucy to dust and clean. For Aunt Lucy \" redded up \" the attic just as she did the other rooms. All over the",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 33,
+      "text": "I'm blond and attractive, to sound vain, where he's puny and redded. He was the runt of the litter and he hanging onto Ma all day",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.8787878787878788,
+    "matches": 29,
+    "total": 33
+  },
+  "category_distribution": {
+    "NONE": 31,
+    "MAKE_RED": 1,
+    "ADJECTIVE": 1
+  }
+}

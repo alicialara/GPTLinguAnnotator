@@ -1,0 +1,372 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "redden",
+  "corpus": "BNC_congreso",
+  "date": "27/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "we're very grateful,' Ross told him. </s><s> 'In fact, both my wife and I are quite overcome by all your kindness.' </s><s> Ben's cheeks reddened slightly at the warm, deeply sincere note in Ross's voice. </s><s> 'Think nothing of it. </s><s> We're just anxious to do what we can. </s><s> Now",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "'Yes, we were pretty engrossed... there was something we needed to discuss...' </s><s> She trailed off and, feeling her cheeks redden , she glanced up to find David's eyes on her. </s><s> He was sprawled in an armchair opposite and the expression on his face",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "conscious of his presence, and it was with relief that she completed her task and sat back in the chair. </s><s> She felt herself redden slightly under his gaze. </s><s> 'Well?' he asked. </s><s> 'Well, what?' </s><s> 'You promised to tell me all about it. </s><s> You haven't gone back on",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": "This is your boyfriend, I suppose? </s><s> You want to find your roots before you get married, is that it?' </s><s> Juliet felt her cheeks redden . </s><s> She was too embarrassed to look at David, but she knew he must be amused. </s><s> 'Something like that,' she heard him say",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": ", and she hated him for that, too. </s><s> She'd been wasting her time. </s><s> Her eyes fell from his, widening as she caught sight of a reddening patch on his cheek. </s><s> She must have caught him with her fist, though she hadn't felt it. </s><s> She'd never done anything so",
+      "human_category": "NOUN",
+      "model_category": "BLUSH",
+      "match": false
+    },
+    {
+      "id": 6,
+      "text": "are you frightened of?' </s><s> The deep voice was quietly probing, slightly mocking. </s><s> 'Me?' </s><s> 'Don't be so absurd!' she snapped, reddening . </s><s> 'Why on earth should I be frightened of you?' </s><s> She glanced round as she spoke, wondering if the beautiful Tara was nearby",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": "!' </s><s> The child looked at her father accusingly. </s><s> 'Dad – what about Rufus and Candy? </s><s> Have they had that injection?' </s><s> He reddened slowly. </s><s> 'Well, they had the first one, of course but –' he shrugged ' – time slips by, you know, and I think they're a bit",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "into the thick navy wool without inhibition. </s><s> It was a long time before she drew away, knuckling the tears away from her reddened eyes. </s><s> 'Hey – come on,' he said softly, and smiled at her as he reached over to tear off a sheet of kitchen-towel. </s><s> Leonora",
+      "human_category": "EYES_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 9,
+      "text": "you have no objection to dining with your father on his first night out of hospital?' </s><s> 'Of course not!' she said angrily, reddening . </s><s> 'I'd just like to be asked, that's all!' </s><s> He gave her a look of contempt that made her want to hit him. </s><s> Then he drawled, '",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "a murderer!' yelled Pike again. </s><s> 'Leo,' came a voice that I recognized as my mum's. </s><s> 'You're not a murderer!' </s><s> Pike's face reddened with fury. </s><s> The truck turned right by the big houses at the south edge of the Common and started along the straight stretch",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "described could inspire what Thorkel undoubtedly felt for him. </s><s> Prior Tuathal pulled his hood absently over his reddening crown and sat, his chin in the sun, bending his sharp intelligence to the exchange between the Earl and the King by which",
+      "human_category": "ADJECTIVE",
+      "model_category": "BLUSH",
+      "match": false
+    },
+    {
+      "id": 12,
+      "text": "is. 1 don't see what harm they're doing!' </s><s> They're evil!' said Maisie. </s><s> 'They are the scum of the earth! </s><s> They're –' her face reddened with fury – 'intolerant! </s><s> Do you know why they wear one shoe? </s><s> It's to shame the rest of the Dharjees, because they say that",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "– but who didn't, these days? – they lived in Cultra, but they were only ordinary, not millionaires or anything. </s><s> She reddened as she explained, but Rory understood. </s><s> He felt the embarrassment himself sometimes, as all his friends were stony",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "on the button which he seemed so loath to irrevocably press. </s><s> He had a very Irish face, although he was a Protestant, pale reddened skin, white hair, hooded watchful eyes of green-flecked hazel. </s><s> He did not smile. </s><s> 'I expected four. </s><s> Well done. </s><s> The",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": "windows. </s><s> She was a widow, fleshy, piggy-eyed, slack-mouthed, with a taste for sweet sherry. </s><s> She wore a cross around her reddened crinkly neck, wore black as befitted her widowed state, and her hair in tight grey curls between which lines of white,",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "sanguine about these pleasant arrangements. </s><s> 'That's outrageous. </s><s> Don't you feel like a second-class citizen?' </s><s> Riva reddens and bridles in her turn. </s><s> 'Listen, we like it the way it is. </s><s> We don't need an apikoros like you to tell us how oppressed we are",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "her face. </s><s> Arms akimbo, she made herself ready for battle. </s><s> Ranging on her side, a flare from the window lit up the coarse, reddening features, followed immediately by the uncouth clatter of the skies, echoing her strident voice. </s><s> 'And what might be the",
+      "human_category": "ADJECTIVE",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 18,
+      "text": ", is that it? </s><s> My fortune was denied you at the last, and that was the spur. </s><s> Was it not, Warren?' </s><s> His coarsened features reddened . </s><s> 'I had need of money, it is true. </s><s> But I cared for you, Theodosia. </s><s> Can you doubt it?' </s><s> Theda fell back against the desk, a",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": "? </s><s> I always thought my intelligence was more than adequate.' </s><s> She had the satisfaction of seeing Mr Clarke's face redden with embarrassment. </s><s> At least it got her out of his office without more lecturing, and when Glyn presented himself",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 20,
+      "text": "long, have you? </s><s> At least you're not in a top flat like me. </s><s> You're lucky.' </s><s> She heaved her bulk up the next flight, her face reddening and her breath coming in short, painful puffs. </s><s> Madge had offered to carry her bag but she drew away and clung to the",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": ", looking very tall and brown; like a sailor, Emmie thought. </s><s> 'How's Alice?' </s><s> The words came out rough and abrupt and he reddened . </s><s> 'She's all right,' Emmie mumbled, keeping her head low. </s><s> He said in a lost way, 'Is she? </s><s> I just wondered.' </s><s> He jerked his",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 22,
+      "text": "to his injury, relieved to see that he was now losing very little blood, and that although the area about the wound was reddened and irritated the edges of the gash where the arrow had entered were not jagged, which would have delayed healing. </s><s> She",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 23,
+      "text": "on his stool. </s><s> I notice he does that whenever I talk about my 'amours', my little love trysts. </s><s> The colour of his face always reddens just as it does when fat Margot, the launderess, who keeps me supplied with cups of sack, bends and dips to provide me with",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 24,
+      "text": "subtle flavours; and invent recipes. </s><s> Prepare a fire base of larch kindling; add well-seasoned oak until the logs redden deeply; place one large back-log of holly, and add, from the fire back to the front, one crab-apple log, one of",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 25,
+      "text": "the overlying Permo-Triassic red beds, just as in the Avon Gorge at Bristol, the topmost Carboniferous Limestone is reddened by the overlying Permo-Triassic deposits. </s><s> Similarly, right up in the Canadian Rockies, the Mississippian Rundle",
+      "human_category": "MAKE_RED",
+      "model_category": "MAKE_RED",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "the hall door, opening it wider and shouting. </s><s> In a high voice he used expressions she'd never heard before. </s><s> His face had reddened . </s><s> His eyes had a wildness about them, as though he might attack the boy, who was looking at him with his mouth open. </s><s> \" The",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": ", he said: 'Edward, does the name Carruthers mean anything to you? </s><s> I have another one: Hannele.' </s><s> Edward flinched, then reddened . </s><s> Even after eight months the nerve was there. </s><s> Foley turned, and dragged the white steel door open. </s><s> 'Yes,' he said. </s><s> 'We",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 28,
+      "text": ". </s><s> Cathy was surprised how ill she looked, there was an area of paleness about her eyes, and her nose was pinched and reddened about the nostrils; perhaps a summer cold, though Alan had said she was depressed. </s><s> 'Forasmuch as it hath pleased",
+      "human_category": "BE(COME)_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 29,
+      "text": "between us that as soon as it was possible we would go away together and start afresh.' </s><s> He could not keep still and his eyes reddened as though at any moment he might burst into tears. </s><s> 'What would have made your plans possible?' </s><s> 'It was understood that we",
+      "human_category": "EYES_RED",
+      "model_category": "EYES_RED",
+      "match": true
+    },
+    {
+      "id": 30,
+      "text": "'ll lie awake </s><s> to sing it, uncandled and insomniac. </s><s> I'll pen my sad matutinal verse... </s><s> but here and now I shall disguise </s><s> my reddened eyes </s><s> and have her whorish, orgiastic, fierce. </s><s> III </s><s> You laugh. </s><s> We've sunk to bitterness then. </s><s> I'll learn some",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 31,
+      "text": ", a stage-set </s><s> in the desert, trimmed with orange branches, </s><s> the willow's spiky flame, or the pruned inches </s><s> of its reddened life. </s><s> The water </s><s> in the marsh is hosting a fire </s><s> that feeds untended like jealousy or wrath, </s><s> choler on black bile. </s><s> I keep to",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 32,
+      "text": "bathroom, her woebegone face stared at her from the mirror. </s><s> She scowled in disgust at the sight of her drooping mouth and reddened eyes. </s><s> 'You look a fright!' she said aloud. </s><s> 'You've been making a fool of yourself, dripping around like some lovesick",
+      "human_category": "ADJECTIVE",
+      "model_category": "EYES_RED",
+      "match": false
+    },
+    {
+      "id": 33,
+      "text": "to thrive on responsibility when she was given it. </s><s> 'Thanks, Lisa. </s><s> You've coped extremely well.' </s><s> She saw the other girl redden with pleasure. </s><s> Together they worked swiftly through the rest of the queue until at last the flow stopped and the little",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 34,
+      "text": "with the sheep. </s><s> I liked shooting with him. </s><s> I like his wolfhounds but my mother wouldn't let me feed them.' </s><s> She took her reddened eyes from the fire and looked at her host. </s><s> 'A week ago I played with the Rectory children. </s><s> I liked that. </s><s> And I saw Mrs",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 35,
+      "text": "the soft skin of her breast. </s><s> She didn't feel pain, only a small burst of pleasure that intensified as he then licked her reddened skin. </s><s> 'I want to hear you say it, Jessamy.' </s><s> His head dipped and his teeth nipped again, only this time at the vulnerable",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 36,
+      "text": "<s> Even in the pulpit there are moments when mildness of manner is not enough. </s><s> It is certainly the case in bed.' </s><s> Frere's face reddened – a blush, yes, but also a hint of anger too. </s><s> 'I have exhorted my wife to the point where I am at a loss for patient words,' he",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 37,
+      "text": ", </s><s> For air past our gate. </s><s> Barked at his dog knout and whipcrack </s><s> And cowerings of India: five or six wars </s><s> Stiffened in his reddened neck; </s><s> Brow bull-down for the stroke. </s><s> Wife dead, daughters gone, lived on </s><s> Honouring his own caricature. </s><s> Shot through",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 38,
+      "text": "her sister could tell, and Irena, too. </s><s> They saw, couldn't help seeing, the eyes shadowed by nights of sleeplessness, reddened by tears. </s><s> bella was of the opinion that Randall had done them all an immense favour by dying when he did, but Louise",
+      "human_category": "MAKE_RED",
+      "model_category": "EYES_RED",
+      "match": false
+    },
+    {
+      "id": 39,
+      "text": "to breathe her last, you appear to have an awful lot to say for yourself. </s><s> I doubt very much that your wrist is even slightly reddened , let alone broken. </s><s> What did you expect of me? </s><s> Did you imagine I'd stand passively by while you used me for bayonet",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 40,
+      "text": "than a man could walk. </s><s> The timbers of the Widdershin Gate were already on fire when Rincewind, his face blistered and reddened from the flames, reached them. </s><s> By now he and Twoflower were on horseback – mounts hadn't been that hard to obtain. </s><s> A wily",
+      "human_category": "BE(COME)_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 41,
+      "text": "sensuality, she tucked her woolly scarf more firmly around her neck then dragged her pom-pom hat further over her reddening ears. </s><s> He'd already left her, however, slipping into a tunnel leading right beneath a crumbling building. </s><s> Hesitantly",
+      "human_category": "ADJECTIVE",
+      "model_category": "BLUSH",
+      "match": false
+    },
+    {
+      "id": 42,
+      "text": ", she thought wildly. </s><s> Sleek, with skin gleaming like a rich satin – </s><s> 'Ohhh!' she gasped, coming to her senses. </s><s> Reddening with a flush that heated her whole body, she grabbed her wash-bag and night things, and fled for the bathroom, locking",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 43,
+      "text": "<s> after a first communion, </s><s> after a wedding. </s><s> Sugar shone on his mouth, </s><s> spilled as he thrust into the dancers, </s><s> his moist lips reddened . </s><s> Later he saw the girls in shawls, distorted </s><s> by early corpulence. </s><s> Not one of the kids below decks is his. </s><s> The steamer",
+      "human_category": "BE(COME)_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 44,
+      "text": "gloomily on the bed, a chastened dog. </s><s> But Viola had reassumed all her wonted, iron-clad voluptuousness, and only her reddened eyes – had they, Greg wondered, been rubbed since she saw him coming up the path? – suggested that she might have gone",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 45,
+      "text": "of these films. </s><s> ISO 1000 films may be needed to collect CL images of thermally unstable quartz grains which rapidly redden under excitation. </s><s> Each worker is advised to experiment with a range of films, both colour and monochrome, and then to",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 46,
+      "text": "a hood half-covering her greying wisps of hair. </s><s> Her face was lined and raddled, the toothless mouth slack, displaying reddened gums, yet her eyes were full of life. </s><s> She wiped her dripping, hooked nose, clasped her hands together and cackled. </s>",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 47,
+      "text": "<s> 'She's got a great wee figure – face like a tram smash though.' </s><s> The doctor looked up, startled, and the Inspector his face reddening , turned to the sergeant. </s><s> 'Get – him – out – of – here,' he hissed. </s><s> 'I'll see Martin home myself.' </s><s> It took Martin a long time",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 48,
+      "text": "concerns the level of contact. </s><s> This must always be controlled and if injury is caused – other than perhaps a slight reddening – a penalty rather than a score will result. </s><s> In general terms, heavier impacts may be made on the body because of the",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 49,
+      "text": "chin. </s><s> Do not confuse it with the head, for the latter can be struck harder and still score. </s><s> A face attack may cause a slight reddening but that is all. </s><s> It is often said that penalties automatically follow when blood appears following a facial attack, but",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 50,
+      "text": "Just as well to check though,' agreed Henry gravely. </s><s> 'The doctor had decanted it himself,' the policeman informed him, reddening slightly, 'before the guests arrived.' </s><s> 'You can't be too careful with a really crusty port,' said Henry. </s><s> 'Someone,'",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.8,
+    "matches": 40,
+    "total": 50
+  },
+  "category_distribution": {
+    "BLUSH": 23,
+    "ADJECTIVE": 15,
+    "BE(COME)_RED": 5,
+    "NOUN": 3,
+    "EYES_RED": 2,
+    "MAKE_RED": 2
+  }
+}

@@ -1,0 +1,25 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: COHA
+Palabra: redden
+Modelo: gpt-4.1-mini
+Accuracy global: 0.7800
+Cohen's Kappa: 0.6636 (Acuerdo substancial)
+Número de muestras: 50
+
+Métricas por categoría:
+  BLUSH: Precision=0.9286, Recall=1.0000, F1=0.9630, Count=26.0
+  BE(COME)_RED: Precision=0.8333, Recall=0.4545, F1=0.5882, Count=11.0
+  MAKE_RED: Precision=0.8000, Recall=0.5000, F1=0.6154, Count=8.0
+  ADJECTIVE: Precision=0.2222, Recall=0.6667, F1=0.3333, Count=3.0
+  EYES_RED: Precision=1.0000, Recall=1.0000, F1=1.0000, Count=2.0
+
+Mejor categoría por F1: BLUSH (F1: 0.9630)
+Peor categoría por F1: BE(COME)_RED (F1: 0.5882)
+
+Patrones de confusión más comunes:
+  HUMANO: BE(COME)_RED -> GPT: ADJECTIVE: 5 casos
+  HUMANO: MAKE_RED -> GPT: ADJECTIVE: 2 casos
+  HUMANO: BE(COME)_RED -> GPT: MAKE_RED: 1 casos
+  HUMANO: ADJECTIVE -> GPT: BLUSH: 1 casos
+  HUMANO: MAKE_RED -> GPT: BLUSH: 1 casos
+  HUMANO: MAKE_RED -> GPT: BE(COME)_RED: 1 casos

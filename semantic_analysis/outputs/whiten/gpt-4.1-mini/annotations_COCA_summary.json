@@ -1,0 +1,374 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "whiten",
+  "corpus": "COCA",
+  "date": "27/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "  social and material benefits in the Brazilian society. In addition, racism manifests through whitening, stating the superiority of being white in racist societies. Making whitening something fundamental",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "  manifests through whitening, stating the superiority of being white in racist societies. Making whitening something fundamental for racialization mean seeing whitening not as a property of certain bodies but",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "  of being white in racist societies. Making whitening something fundamental for racialization mean seeing whitening not as a property of certain bodies but as part of the social relations by",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": "  supremacy and superiority is stated, and the end of racism requires the end of whitening (Jensen, 2011). Moreover, in the Brazilian context, social class",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "  Wagley, 1952). Thus, social class can act as a form of whitening or blackening (Azevedo, 1995; M. N. da Silva, 2000; N.",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 6,
+      "text": "  process by which race is resignified, it was verified that social class acts as whitening in the Brazilian context. Whitening through social class evidence how race is classified and",
+      "human_category": "NOUN",
+      "model_category": "MAKE_IDENTITY_WHITE",
+      "match": false
+    },
+    {
+      "id": 7,
+      "text": "  , it was verified that social class acts as whitening in the Brazilian context. Whitening through social class evidence how race is classified and constituted by aspects related to social",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "  level of racial miscegenation in Brazil (Degler, 1971) in the search for whitening (Lacerda, 1912; Schwarcz, 2012). # However, as E8",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "  in the Brazilian context. It is not simply racial miscegenation with whites that produces whitening. The social class to which the subject belongs is an important factor for whitening",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "  whitening. The social class to which the subject belongs is an important factor for whitening and resignification of race, making racial intelligibility exceed phenotypic characteristics (Hall, 2000",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "  of race, making racial intelligibility exceed phenotypic characteristics (Hall, 2000). Whitening in the Brazilian society is obtained not only by the miscegenation between African and European",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 12,
+      "text": "  of E10 (Black, Middle) clarifies social class performance as a form of whitening (Azevedo, 1966; M. N. da Silva, 2000; N. do V.",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "  , social class is fundamental to the process of Brazilian racialization, demonstrating that both whitening and blackening are not a phenotypic property of the bodies themselves (DuBois, 1970",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "  by the social class and not race. However, in an indirect way, whitening by social class shows the existence of structural racism in Brazil. Whitening through social",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": "  way, whitening by social class shows the existence of structural racism in Brazil. Whitening through social class demonstrates the existence of structural racism, even when operating through class",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "  race beyond the phenotypic characteristics that underlie race prejudice, acting as a form of whitening or blackening of the subjects. The boundaries between race and class identities are so",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "  three others, a godown on very high stilts, and a mound of graves whitened by the petals of the Frangipani, with a great many cocoa-nut and other trees",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 18,
+      "text": "  observe this is to try using ovulation predictors and as well never-ending circuit supervising teeth whitening products. # Combined with these cheese, We had arrived possibly aware do not",
+      "human_category": "ADJECTIVE",
+      "model_category": "NOUN",
+      "match": false
+    },
+    {
+      "id": 19,
+      "text": "  ????????????? Wonderful Teeth Whitening Suggestions For A Brighter Smile! Let Your Smile Shine A Mile Away With These",
+      "human_category": "ADJECTIVE",
+      "model_category": "NOUN",
+      "match": false
+    },
+    {
+      "id": 20,
+      "text": "  Mile Away With These Simple Recommendations! Pearly Whites Are Possible By Following These Teeth Whitening Ideas Dental ansvar Care For The",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": "  are experiencing. # To combat global warming, they are using solar engineering to whiten skies to reflect sunlight back out into space; however this aluminum aerosol sprayed into",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 22,
+      "text": "  My hands are tied at this point. I kind of also got a teeth whitening package. So, you know... don't stay up. Meet us out",
+      "human_category": "ADJECTIVE",
+      "model_category": "NOUN",
+      "match": false
+    },
+    {
+      "id": 23,
+      "text": "  four hours. Pick this egg up now! But my teeth have just been whitened! These teeth here, they make for a pretty good stool. - You",
+      "human_category": "BLEACH",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 24,
+      "text": "  chem-trail jets have white underbellies so as to probably make them less visible as the whiten our skies with their pollution. They also fly much higher and leave very long",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 25,
+      "text": "  also fly much higher and leave very long and thick trails that now dissipate and whiten the skies. # Neno # This white layer they're adding to our sky",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "  , oranges, pinks and reds. Other than that, just make sure to whiten your teeth, bring a concealer stick in case of bleeds (huge help)",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": "  oppressed and turning them into criminals. The true history of the world has been whitened. Blacks have been brainwashed for hundreds of years, told they are worth less",
+      "human_category": "MAKE_IDENTITY_WHITE",
+      "model_category": "MAKE_IDENTITY_WHITE",
+      "match": true
+    },
+    {
+      "id": 28,
+      "text": "  it must be the same. Don't you know about it? Haemophilia can whiten the color of the blood. When the blood is damaged, would be hair",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 29,
+      "text": "  forms on your teeth. Hydrogen peroxide will not only kill the plaque but also whiten your teeth. Caution: You must use only 1% hydrogen peroxide or you will",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 30,
+      "text": "  cover implants. In addition, services for strictly cosmetic reasons, such as teeth whitening, are rarely covered by dental insurance. However, discounts for these services may",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 31,
+      "text": "  to be absorbed before rinsing. # Use Epsom salt and liquid dish detergent to whiten floor tiles and dissolve dirt. By adding some Epsom salt to your sudsy water",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 32,
+      "text": "  She knows they come to her for cleanings, fillings, root canals, and whitening. This dentist will make sure her website can be found on Google, Yahoo",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 33,
+      "text": "  black. I read in your pdf file that you add a yellow filter to whiten a blue light. Pigments are not altogether different than light. # Yellow transparent",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 34,
+      "text": "  known) -- aren't necessary. There are plenty of non-toxic chemicals that can whiten paper, including the same stuff that's in Oxy-Clean. # When you do",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 35,
+      "text": "  \" Life has loveliness to sell, all beautiful and splendid things, blue waves whitened on a cliff, soaring fire that sways and sings, and children's faces",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": false
+    },
+    {
+      "id": 36,
+      "text": "  a big difference when I've done that (much more noticable than bleach's whitening power). # I have been using the liquid version for months and my",
+      "human_category": "ADJECTIVE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 37,
+      "text": "  bought the cheap detergent which would ruin our clothes at the end. It would whiten them and make them loose their color. Has anyone tried it long enough to",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 38,
+      "text": "  and also mouthwash # : Wash, head of hair conditioner, hair styling teeth whitening gel # : Water cosmetics (that features mascara, girls) # : Palm",
+      "human_category": "ADJECTIVE",
+      "model_category": "NOUN",
+      "match": false
+    },
+    {
+      "id": 39,
+      "text": "  : Scent, cologne, after-shave product # : Water drugs # : Huge teeth whitening gel lids (for instance Vitamin e antioxidant) # : Yogurt, applesauce,",
+      "human_category": "ADJECTIVE",
+      "model_category": "NOUN",
+      "match": false
+    },
+    {
+      "id": 40,
+      "text": "  # : Lips shine # : Water palm sanitizer # : Head of hair teeth whitening gel # : Sunshine bronze product # Enhance the previously mentioned record almost any merchandise",
+      "human_category": "ADJECTIVE",
+      "model_category": "NOUN",
+      "match": false
+    },
+    {
+      "id": 41,
+      "text": "  n't going to feel like I needed to get a spray-tan, get my teeth whitened, or go to bridal boot camp because I love my dress, exactly as",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "  become one of those gymnasts who weigh 83 lbs and have feet which are permanently whitened with chalk dust, I'd really like to her to be able to have",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 43,
+      "text": "  and placed it next to it, in full view of the class. May whitened, she only did this for one reason. She had seen it happen before",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 44,
+      "text": "  here. \" Her mother said. \" You know the rules. \" May whitened. \" No mum, please, not another spanking. \" \" You know",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 45,
+      "text": "  \" Life has loveliness to sell, all beautiful and splendid things, blue waves whitened on a cliff, soaring fire that sways and sings, and children's faces",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 46,
+      "text": "  ? Since we were talking about Richard Hammond, your car's had its teeth whitened. (both_laughing) RICHARD: Lillehammer has one of the most formidable bobsleigh runs",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 47,
+      "text": "  shining, exceedingly white, like snow, such as no launderer on earth can whiten them. And Elijah appeared to them with Moses, and they were talking with",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 48,
+      "text": "  shining, exceedingly white, like snow, such as no launderer on earth can whiten them. This powerful scene of transfiguration takes place soon after Peter's confession.",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 49,
+      "text": "  left stained through your smoking habit, then take a look at the newest Teeth Whitening Pens # This may seem like an expensive long winded exercise for some. But",
+      "human_category": "ADJECTIVE",
+      "model_category": "NOUN",
+      "match": false
+    },
+    {
+      "id": 50,
+      "text": "  figuratively fissured, physical structures like the abandoned mills (\" never quite stripped and whitened to a skeleton's decency: like corpses at their most horrible \" 178)",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.68,
+    "matches": 34,
+    "total": 50
+  },
+  "category_distribution": {
+    "NOUN": 19,
+    "MAKE_WHITE": 11,
+    "ADJECTIVE": 8,
+    "BLEACH": 6,
+    "BE(COME)_WHITE": 2,
+    "BE(COME)_PALE": 2,
+    "MAKE_IDENTITY_WHITE": 1,
+    "COAT_WITH_WHITE": 1
+  }
+}

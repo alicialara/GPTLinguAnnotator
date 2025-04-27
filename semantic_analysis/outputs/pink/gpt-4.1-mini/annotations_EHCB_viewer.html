@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Annotations for 'pink' - EHCB (gpt-4.1-mini)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .metrics {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        .metric-card {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            flex: 1;
+            min-width: 200px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .annotations {
+            margin-bottom: 30px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        .match-true {
+            background-color: #d4edda;
+        }
+        .match-false {
+            background-color: #f8d7da;
+        }
+        .highlight {
+            font-weight: bold;
+            background-color: #ffeeba;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+        .category-distribution {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .category-chip {
+            background-color: #e9ecef;
+            padding: 8px 12px;
+            border-radius: 16px;
+            font-size: 14px;
+        }
+        #searchInput {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        .pagination {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+            margin-bottom: 40px;
+        }
+        .pagination button {
+            margin: 0 5px;
+            padding: 8px 15px;
+            background-color: #f8f9fa;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .pagination button.active {
+            background-color: #007bff;
+            color: white;
+            border-color: #007bff;
+        }
+        .pagination button:hover:not(.active) {
+            background-color: #e9ecef;
+        }
+        .controls {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Semantic Analysis: 'pink' - EHCB</h1>
+            <p>Model: <strong>gpt-4.1-mini</strong> | Date: 27/04/2025 | Samples: 50</p>
+        </div>
+
+        <h2>Global Metrics</h2>
+        <div class="metrics">
+
+            <div class="metric-card">
+                <h3>Accuracy</h3>
+                <p style="font-size: 24px; font-weight: bold;">0.7800</p>
+            </div>
+
+            <div class="metric-card">
+                <h3>Matches</h3>
+                <p style="font-size: 24px; font-weight: bold;">39</p>
+            </div>
+
+            <div class="metric-card">
+                <h3>Total</h3>
+                <p style="font-size: 24px; font-weight: bold;">50</p>
+            </div>
+
+        </div>
+
+        <h2>Category Distribution</h2>
+        <div class="category-distribution">
+
+            <div class="category-chip">
+                NONE: 44
+            </div>
+
+            <div class="category-chip">
+                NOUN: 2
+            </div>
+
+            <div class="category-chip">
+                ADJECTIVE: 2
+            </div>
+
+            <div class="category-chip">
+                APPLY_PINK: 2
+            </div>
+
+        </div>
+
+        <h2>Annotations</h2>
+        <div class="controls">
+            <input type="text" id="searchInput" placeholder="Search in annotations...">
+            <div>
+                <label>
+                    <input type="checkbox" id="showMismatchesOnly"> 
+                    Show Mismatches Only
+                </label>
+            </div>
+        </div>
+        <div class="annotations">
+            <table id="annotationsTable">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Text</th>
+                        <th>Human Category</th>
+                        <th>Model Category</th>
+                        <th>Match</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr class="match-true">
+                        <td>1</td>
+                        <td>els beside, </s><s> For sweet varietie herselfe did throw </s><s> To euery banke, here all the ground she dide </s><s> In lillie white, there <span class="highlight">pink</span>s eblazed wide; </s><s> And damask''t all the earth, and here shee shed </s><s> Blew violets, and there came roses red, </s><s> And euery sight the</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>2</td>
+                        <td>there in one day: then euer I did in London at any time, for at Ostend, Newport, and Dunkirke, where and when the Holland <span class="highlight">pink</span>s commeth in, there daily the Merchants, that be but women, but not such women as the fishwiues of Billinsgare, for these</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>3</td>
+                        <td>in Greeke atrophia opthalmou, in Latin imm tio profunditas macies oculi: Alſo of the litle eyes, co monlie called <span class="highlight">pink</span>ing eies, and in Greek Micropthalmos, in latine paruus oculus. </s><s> Atrophia opthalmou is an affection of the eye when al the</td>
+                        <td>NONE</td>
+                        <td>NOUN</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>4</td>
+                        <td>suffred quietly to land and water, and diuers of them with their king came aboord our ship in a gowne of crimosine Sattin <span class="highlight">pink</span>ed after the Moorish fashion downe to the knee, whom we entertained in the best maner, and had some conference with him of</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>5</td>
+                        <td>which wil soone make thee be one of Terence his parasits: in wounds thou shalt exceed Cass anus which was so pittifully <span class="highlight">pink</span>ed of his own Schollers: & now whilst I am in the hot inuectiue I haue a message to doe to you, the townsmen of Cherrihinton</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>6</td>
+                        <td>and composure. </s><s> Both sexe goe naked, a linnen cloth only about their middles, which stiles them modest. </s><s> They vse <span class="highlight">pink</span>ing and cutting their brest and faces; and dilate their eares much, by those massie weights they fixe there. </s><s> Gold and Siluer</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>7</td>
+                        <td>by my nose, I neuer spent the least lip labour on mistris Mirable neuer so much as glaunc''d, neuer vs''d any winking or <span class="highlight">pink</span>ing , neuer nodded at her, no not so much as when I was asleep neuer askt her the questiō so much as whats her name, if you can</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>8</td>
+                        <td>vppon his footeclothe, attended vpon as a ſatrapas with a traine of daſhbucklers or ſquaringe toſpottes, and hym ſelfe <span class="highlight">pink</span>ed and razed in thattire of a yonge bridegrome, with hys heare curled by art, fallinge in lockes, as it were by appointment,</td>
+                        <td>NONE</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>9</td>
+                        <td>, & by nature apt & towardly. </s><s> As touching ye outward caſe of their body, they cōmōly breake out, & haue their bodyes <span class="highlight">pink</span>ed ful of ſcabs, & by reasō of ill humours, ouerwhealed & engrayled with lothſome bliſters, blaines,t in growth they</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>10</td>
+                        <td>by a Moore, that had a great tooth ſticking in his vpper lip, with a broade knife in his hand, and all his body raſed and <span class="highlight">pink</span>ed as I ſaide before, where he brought them into a houſe among the Moores, wherein were certaine couerlets, made of the</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>11</td>
+                        <td>paine lyeth, vntil the bloud doth iſſue forth. </s><s> The women in Florida are great and verie wiſe, and coloured like men, and <span class="highlight">pink</span>ed on their bodies, legges, and armes, putting ſuch colour into the places, that will not eaſily come forth: but the women</td>
+                        <td>APPLY_PINK</td>
+                        <td>MAKE_PINK</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>12</td>
+                        <td>I might see more knauerie filde in: within a while appeared olde Martin with a wit worn into the socket, twinkling and <span class="highlight">pink</span>ing like the snuffe of a candle; quantum mutatus ab illo, how vnlike the knaue hee was before, not for malice but for</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>13</td>
+                        <td>a ſinging, </s><s> When one ſad ſoule anothers breſt doth borrow: </s><s> There make a Chaplet of the ſweeteſt flowers, </s><s> That prettie <span class="highlight">pink</span>ed Groue or Dale doth yeeld: </s><s> There ſhade thy temples in thoſe templed bower: </s><s> That canopize the haunters of the field: </s><s> And</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>14</td>
+                        <td>hall, a Ladie, séeming to bée of great authoritie, accompanyed with two faire Nymphs, all apparelled in russet Satten, <span class="highlight">pink</span>ed & cut, and lined with gréene Satten, which coulours were verie pleasant, and greatly delighted the sight. </s><s> And when shée</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>15</td>
+                        <td>a Lady on a blacke Palfray, ſhée being attyred after the Turkiſh manner, in a Robe of white Sattine, which was cutte and <span class="highlight">pink</span>ed in many places, ſo that the Blacke ſilkes lying vnder the white, gaue a very braue grace vnto her Apparell, becauſe the</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>16</td>
+                        <td>get Beast, Bird, or Fish, in toil, or snare, or net. </s><s> What though his Wardrobe be not stately stuft With sumptuous silks ( <span class="highlight">pink</span>ed , and powne''t, and puft) With gold-ground Velvets, and with siluer Tissue, And all the glory of old Eues proud Issue? </s></td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>17</td>
+                        <td>at the Sunne out of a barne but dares not come to it, ſo we peepe at Religion and will not come neere it, but ſtande a loofe off <span class="highlight">pink</span>ing and winking as though we were more afraid of GOD than the diuell: For ſelfe-loue, and regarde of perſons, and feare of</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>18</td>
+                        <td>their sliced flesh. </s><s> The very paralell whereof is also by I sidore set downe touching our Picts whose bodies sliced and <span class="highlight">pink</span>ed be an artificiall punchion, did suck in the tuice of the stayning herb, carying these rasures on their pictured limmes,</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>19</td>
+                        <td>''vnnūbred birds do bring their Bee to bed. </s><s> 65. </s><s> And there he sleeps & slumbers til the morne, </s><s> when he awakes and wipes his <span class="highlight">pink</span>ing eies, </s><s> And vp he starts and bloweth like a horne, </s><s> where all his souldiers in a swarme do rise, </s><s> Attending on him wheresoeuer</td>
+                        <td>NONE</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>20</td>
+                        <td>; So we detached out a small party for a forlorn, supposing we must have fought our way through; But as soon as we began to <span class="highlight">pink</span> some of their Jackets for them with our Fuzees, they got out of our reach, and went to their ruin''d Town leaving us to go</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>21</td>
+                        <td>in his Eye, and could not tell how to come at him; cast himself at his Length upon the Ground, and there he lay winking and <span class="highlight">pink</span>ing as if he had Sore Eyes. </s><s> Ah, (says he to the Cock) I have gotten a Thorn here, with Creeping through a Hedge t''other Day; ''</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>22</td>
+                        <td>is cured by thoſe medicaments that humect and moiſten (and chiefly the breſt milk of a woman) laid therein. </s><s> , that is, the <span class="highlight">pink</span>ing eye, is, when any one hath from his birth ſo little eyes that they ſeem ſcarcely opened, albeit they are not ſunk down</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>23</td>
+                        <td>it, and shrinks back, letting go his Hand. </s><s> Scar. </s><s> Who the Devil can this be? </s><s> I felt a Poniard, and am glad I sav''d my Skin from <span class="highlight">pink</span>ing . </s><s> [Steals out. </s><s> [Harlequin groping about, finds the Table, on which there is a Carpet, and creeps under it, listning. </s></td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>24</td>
+                        <td>in her Eyes, Such Magick in her Eyes, in her Eyes, does my wo—nd''ring Heart Surpriſe: Her prinking, mimping, twinking, <span class="highlight">pink</span>ing ; whilſt I''m courting, for transporting, how like an Angel She panting lyes, She pa—nting lyes, lyes. </s><s> For the Flute. </s><s> A</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>25</td>
+                        <td>matches, yea, the parts of ſhame </s><s> Stuff''d with gun-powder, burſt with horrid flame. </s><s> With knives and bodkins they do <span class="highlight">pink</span> the skin </s><s> And fleſh of ſome, draw ſtiff cords out and in. </s><s> Some roſted were with gentle fires, ſome ſmok''d </s><s> Like bacon-hogs;</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>26</td>
+                        <td>, Mules come a gallop to draw him out of the Liſts, and another is let looſe. </s><s> About a ſcore were killed that day, the skins ſo <span class="highlight">pink</span>ed , they could be of no uſe but to make Sives; Dogs are ſometimes ſet againſt them when it is too troubleſome and dangerous</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>27</td>
+                        <td>ayre, to bee devouted by Marrlets and other birds, and now let''s goe a plaine pace on the ground: and though wee weare no <span class="highlight">pink</span>ed Spanish-leather shoos, yet wee shall not want course pack-thread Sandals. </s><s> Like to like, quoth the Devill to the</td>
+                        <td>NONE</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>28</td>
+                        <td>, four fingers thick, and between three and four foot in length; over which was ſpread a very fine Coverlet of Indian Work <span class="highlight">pink</span>ed with Gold, being a moſt admirable piece of Workmanſhip. </s><s> This Carpet covered all the Quilt, and hung down four fingers on</td>
+                        <td>NONE</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>29</td>
+                        <td>coasts. </s><s> The Sea-hedgehog is restaurative, being enclosed in a round shell like a loaf of bread, handsomely wrought and <span class="highlight">pink</span>ed , and guarded with prickcles) the Sheathfish (which is also found upon the coast: it is as big, and as long as a mans finger</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>30</td>
+                        <td>sort of linnen wrought with gold, and silk: about their wast a peece of Calico, all the rest naked: the vulgar sort <span class="highlight">pink</span> their skins in many places: some are Mahometans, others Gentiles: the Mahometan women use vails like other Indians:</td>
+                        <td>NONE</td>
+                        <td>MAKE_PINK</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>31</td>
+                        <td>. </s><s> Their habit is thin and fine; they wear no beards: they dye their teeth black, because Dogs teeth are white, they cut and <span class="highlight">pink</span> their flesh as a mark of bravery. </s><s> The King of Pegu on festival dayes rides abroad in his triumphant Chariot all guilded,</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>32</td>
+                        <td>men are semi-Eunuches, one stone being exsected in their infancy by their nurses. </s><s> Both sexes hideously cut, gash, and <span class="highlight">pink</span> their brows, nose, cheeks, arms, breast, back, belly, thighs, and legs in sundry works, and Figures. </s><s> They have no</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>33</td>
+                        <td>curled: They wear a few leaves plaited about their wasts, but are elsewhere naked; their ears are bored and wide; they <span class="highlight">pink</span> , and cut their flesh; and whilst the men seek their prey abroad, the women keep constantly at home and spin. </s><s> The boys</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>34</td>
+                        <td>near Charingcroſs, and the ſame day met the ſame Gentleman (then ſo much famed) going to ſpeak, in an old-faſhioned <span class="highlight">pink</span>ed Fuſtian Jerkin, and clouted ſhooes, and Breeches faced with Leather, and a Carters Whip in his hand, altogether</td>
+                        <td>NONE</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>35</td>
+                        <td>, he must refund— or Bilbo''s the Word, and Slaughter will ensue—If he refuse, tell him—But whisper that—Tell him—I''ll <span class="highlight">pink</span> his Soul—but whisper that softly to him. </s><s> Sir Io. </s><s> So softly, that he shall never hear on''t I warrant you—Why what a Devil''s</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>36</td>
+                        <td>. </s><s> Nay then I''l be beforehand with you, take that—Oafe. </s><s> Cuffs him. </s><s> Bluff. </s><s> Sir Io. </s><s> Captain, will you see this? </s><s> Won''t you <span class="highlight">pink</span> his Soul? </s><s> Bluff. </s><s> Husht, ''tis not so convenient now—I shall find a time. </s><s> Sharp. </s><s> What do you mutter about a time, Rascal—</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>37</td>
+                        <td>of Fetu''s Son had fourteen Sons and twelve Daughters, and kept an hundred Slaves to wait upon them; At Cape Gonsalvo they <span class="highlight">pink</span> and colour their bodies, and offer their Wives to Strangers; The King uses his own Daughters when grown up as Wives, and</td>
+                        <td>APPLY_PINK</td>
+                        <td>MAKE_PINK</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>38</td>
+                        <td>, ye Tub of Cheeſe-curds and Hogs-waſh, I''ll kick your Guts out.—Oounz, why don''t you draw, you eternal Lubbard; I''ll <span class="highlight">pink</span> you, I''ll <span class="highlight">pink</span> you as full of holes as a Cullender; I''ll rip your heart out, you Joulterhead. </s><s> Sap. </s><s> Nea, nea, but hold ye</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>39</td>
+                        <td>and Hogs-waſh, I''ll kick your Guts out.—Oounz, why don''t you draw, you eternal Lubbard; I''ll <span class="highlight">pink</span> you, I''ll <span class="highlight">pink</span> you as full of holes as a Cullender; I''ll rip your heart out, you Joulterhead. </s><s> Sap. </s><s> Nea, nea, but hold ye Maſter Eager.—</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>40</td>
+                        <td>me </s><s> The fondneſs of a Bride, without the fear. </s><s> My whole Deſires and Wiſhes are in you. </s><s> Phaed. </s><s> aſide. </s><s> My Ladies Eyes are <span class="highlight">pink</span>ing to Bedward too; Now is She to look very ſleepy, counterfeiting yauning, but She ſhall ask me leave firſt. </s><s> Alc. </s><s> Great Juno</td>
+                        <td>NONE</td>
+                        <td>BE(COME)_PINK</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>41</td>
+                        <td>i''faith? </s><s> Warn. </s><s> Pray pacifie your self, Sir, ''twas a Plot of my own devising. </s><s> Sir Mart. </s><s> Leave off your winking and your <span class="highlight">pink</span>ing , with a Horse-pox t''ye, I''ll understand none of it; tell me in plain English the truth of the business: for an''you were my</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>42</td>
+                        <td>particulars, </s><s> The why and wherefore I must draw my Sword, </s><s> For I''me not so in love with the French garb, </s><s> T'' expose my skin to <span class="highlight">pink</span>ing for the Mode. </s><s> Hon. </s><s> You shall— </s><s> Setting a part your late inconstancy, (which I am▪ </s><s> Bound to pardon by an Oath) receive in</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>43</td>
+                        <td>. </s><s> Here de are! fall on. </s><s> D. Pier. </s><s> Harkee, Diable! </s><s> Rascale! </s><s> Teefe! or what do you call your self? </s><s> Get you gon, or I shall so <span class="highlight">pink</span> your Guts, d''ee hear? </s><s> La Mur. </s><s> Morbleu, Villain! <span class="highlight">pink</span>a my Guts. </s><s> Courage. </s><s> D. Pier. </s><s> Nay, if you will be paunch''d, have at</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>44</td>
+                        <td>and thin, that are perpetually harrass''d and fatigu''d, that lie whole Nights up to the chin in water, that venture the <span class="highlight">pink</span>ing of their Carcasses, and the damming of their Souls, for that most valuable consideration a Groat a day, which is not</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>45</td>
+                        <td>theIudas, and before the election of Matthias. </s><s> In a word, the chanels of Nilus, daily decreased in number, because (as <span class="highlight">pink</span>ed or slashed clothes have the fewer holes the longer they are worn) so his streams fret one into another; especially, the</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>46</td>
+                        <td>relief where occasion did most require.Carate. </s><s> Pedro de Alvarado wore over his Arms a Coat of white Satten, slashed and <span class="highlight">pink</span>ed , saying, That when Archers shoot at Butts, there are very few which hit the white Mark. </s><s> In this posture they remained in</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>47</td>
+                        <td>the Portugals, they ſpeak that tongue alſo. </s><s> The Women of the like complexion: to amend which, and ſeem more lovely, they <span class="highlight">pink</span> their arms and faces in ſeveral ſhapes. </s><s> Both ſexes no otherwiſe apparalled then their natural garments, with ſome</td>
+                        <td>NONE</td>
+                        <td>MAKE_PINK</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>48</td>
+                        <td>Soles. </s><s> Pumps, are shooes with single Soles and no heels, some term them Lacky-Boys, Foot-men, or running shooes. </s><s> <span class="highlight">Pink</span>ed or raised Shooes, have the over leathers grain part cut into Roses, or other devices. </s><s> Laced shooes, have the over</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>49</td>
+                        <td>, Argent. </s><s> This was the fashion of the Gentry in the beginning of King Iames his Reigh: the sleeves being either slashed or <span class="highlight">pink</span>ed as they then called it; and the Breeches so full in the wast, that they fell into Pleats and Folds, and being gathered at</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>50</td>
+                        <td>or beating too the stitch. </s><s> Sowing the Heel. </s><s> Pegging on the Heel pieces. </s><s> Slickening it off, polishing the upper Leather. </s><s> <span class="highlight">Pink</span>ing the over Leather, cutting the grain of the Leather into Roses, Knots, and orderly devices. </s><s> Colouring the soles,</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+        <div class="pagination" id="pagination"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Variables
+            const table = document.getElementById('annotationsTable');
+            const rows = table.getElementsByTagName('tr');
+            const searchInput = document.getElementById('searchInput');
+            const mismatchesCheckbox = document.getElementById('showMismatchesOnly');
+            const paginationContainer = document.getElementById('pagination');
+            
+            const rowsPerPage = 15;
+            let currentPage = 1;
+            let filteredRows = [];
+            
+            // Initial setup
+            function initializePagination() {
+                updateFilteredRows();
+                displayRows();
+                setupPagination();
+            }
+            
+            // Update filtered rows based on search and filter
+            function updateFilteredRows() {
+                filteredRows = [];
+                const searchTerm = searchInput.value.toLowerCase();
+                const showMismatchesOnly = mismatchesCheckbox.checked;
+                
+                // Start from index 1 to skip the header row
+                for (let i = 1; i < rows.length; i++) {
+                    const row = rows[i];
+                    const text = row.textContent.toLowerCase();
+                    const isMatch = row.classList.contains('match-true');
+                    
+                    // Apply filters
+                    const matchesSearch = !searchTerm || text.includes(searchTerm);
+                    const matchesMismatchFilter = !showMismatchesOnly || !isMatch;
+                    
+                    if (matchesSearch && matchesMismatchFilter) {
+                        filteredRows.push(row);
+                    }
+                    
+                    // Hide all rows initially
+                    row.style.display = 'none';
+                }
+            }
+            
+            // Display rows for current page
+            function displayRows() {
+                const start = (currentPage - 1) * rowsPerPage;
+                const end = start + rowsPerPage;
+                
+                for (let i = 0; i < filteredRows.length; i++) {
+                    if (i >= start && i < end) {
+                        filteredRows[i].style.display = '';
+                    } else {
+                        filteredRows[i].style.display = 'none';
+                    }
+                }
+            }
+            
+            // Setup pagination buttons
+            function setupPagination() {
+                paginationContainer.innerHTML = '';
+                const pageCount = Math.ceil(filteredRows.length / rowsPerPage);
+                
+                // No need for pagination if only one page
+                if (pageCount <= 1) {
+                    return;
+                }
+                
+                // Previous button
+                if (currentPage > 1) {
+                    const prevButton = document.createElement('button');
+                    prevButton.innerHTML = '&laquo; Prev';
+                    prevButton.addEventListener('click', function() {
+                        currentPage--;
+                        displayRows();
+                        setupPagination();
+                    });
+                    paginationContainer.appendChild(prevButton);
+                }
+                
+                // Page buttons
+                let startPage = Math.max(1, currentPage - 2);
+                let endPage = Math.min(pageCount, startPage + 4);
+                
+                if (endPage - startPage < 4) {
+                    startPage = Math.max(1, endPage - 4);
+                }
+                
+                for (let i = startPage; i <= endPage; i++) {
+                    const button = document.createElement('button');
+                    button.textContent = i;
+                    
+                    if (i === currentPage) {
+                        button.classList.add('active');
+                    }
+                    
+                    button.addEventListener('click', function() {
+                        currentPage = i;
+                        displayRows();
+                        setupPagination();
+                    });
+                    
+                    paginationContainer.appendChild(button);
+                }
+                
+                // Next button
+                if (currentPage < pageCount) {
+                    const nextButton = document.createElement('button');
+                    nextButton.innerHTML = 'Next &raquo;';
+                    nextButton.addEventListener('click', function() {
+                        currentPage++;
+                        displayRows();
+                        setupPagination();
+                    });
+                    paginationContainer.appendChild(nextButton);
+                }
+            }
+            
+            // Event listeners
+            searchInput.addEventListener('input', function() {
+                currentPage = 1;
+                initializePagination();
+            });
+            
+            mismatchesCheckbox.addEventListener('change', function() {
+                currentPage = 1;
+                initializePagination();
+            });
+            
+            // Initialize
+            initializePagination();
+        });
+    </script>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,380 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "redden",
+  "corpus": "COCA",
+  "date": "27/04/2025",
+  "total_samples": 51,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "they had no manners, and seized on my hands, which are coarsened, reddened, and swelled from heat and mosquito bites, all exclaiming, \" chanti!",
+      "human_category": "BE(COME)_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 2,
+      "text": "in the jungles of the GOLDEN CHERSONESE. # THE snowy dome of Fujisan, reddening in the sunrise, rose above the violet woodlands of Mississippi Bay as we steamed",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "more charming because of it. They powder their faces and have a way of reddening their under lip just at the tip that gives them a most tempting look.",
+      "human_category": "MAKE_RED",
+      "model_category": "MAKE_RED",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": "teeth of both sexes are blackened by the constant chewing of the betel-nut, which reddens the saliva, which is constantly flowing like blood from the corners of their mouths",
+      "human_category": "MAKE_RED",
+      "model_category": "MAKE_RED",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "pigs from this distance. At the last moment the sun flames out gloriously; reddens all the heavens, and gilds a rippling road for me across the waterly world",
+      "human_category": "MAKE_RED",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 6,
+      "text": "One famous tale concerns Charlotte Corday, the killer of Marat, whose cheek supposedly reddened after the executioner slapped it even though, at that point, she was just",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": ". # Another often criticized POV' error' is when the pov's face reddens. Sure they can't see it but we know they can feel it.",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "a boy. I am a girl. I am transgender. \" My face reddened, and tears blurred my vision. I braced myself for her rejection and the",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "Blair was there. But with his senses, that was impossible. His cheeks reddened slightly. \" You're probably right, but I want to get it as",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "daddy, too. \" # \" Tara, \" Lisa scolded, her face reddening. # The girl didn't seem to be fazed by her faux pas and",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "from zero to four as follows: A painless nipple = 0, a slightly reddened nipple =1, a reddened nipple with pain = 2, a nipple beginning to",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 12,
+      "text": "# \" The dawn was close upon me: and as soon as the sky reddened I took my bath, dressed and went downstairs. And there at the pantry",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "to steel or a musical note); yellow (paper does); but redden? Blacken, but black when referring to eyes or veto on strike-breaking goods (",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "let them in the school. # Christine # The solution, in addition to reddening those brats' backsides, is to throw them off the bus. Make it",
+      "human_category": "MAKE_RED",
+      "model_category": "MAKE_RED",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": "a boy. I am a girl. I am transgender. \" My face reddened, and tears blurred my vision. I braced myself for her rejection and the",
+      "human_category": "REPEATED",
+      "model_category": "BLUSH",
+      "match": false
+    },
+    {
+      "id": 16,
+      "text": "than that bleached white lolsubmarinelol look I was sporting. # Sunburn -- the skin reddening caused by overexposure to the sun's harmful ultraviolet (UV) radiation -- may",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "sentence back then -- but hearing that Friday liked something I had written made me redden with pleasure. # Later, when working for UNC's student newspaper, I",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 18,
+      "text": "see when you walk into the exhibition is this desk that changed history. DAVID REDDEN, Executive Vice President, Sotheby's: Well, it's the desk on",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 19,
+      "text": "10th, 1936. LISA McREE: How much will it go for? DAVID REDDEN: Well, the estimate's $30,000 to $50,000. Could bring a bit more",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 20,
+      "text": "a private citizen? Shouldn't it be in a museum in England? DAVID REDDEN: Oh, it would be wonderful in a museum. It really would be",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 21,
+      "text": "yes. LISA McREE: Let's see the rest of the house. DAVID REDDEN: Yes, yes, let's go to have a look at the salon",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 22,
+      "text": ", settees, tables. What is this painting? This looks magnificent. DAVID REDDEN: This is one of the great works of art on sale. It's",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 23,
+      "text": ", $600,000 to $800,000. LISA McREE: Could it go for more? DAVID REDDEN: Conceivably. This is the dining room. We've laid out the table",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 24,
+      "text": "some of the servants who are standing over here. How many servants... DAVID REDDEN: Numerous. LISA McREE:... did they have? DAVID REDDEN: Well",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 25,
+      "text": "... DAVID REDDEN: Numerous. LISA McREE:... did they have? DAVID REDDEN: Well, they had a total of 31 in staff, about 18 indoors",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 26,
+      "text": "McREE: Tell me about her clothes. How many outfits are here? DAVID REDDEN: Well, there are about 50 or 60. LISA McREE: Now,",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 27,
+      "text": "was she an important person in fashion? Did she define a style? DAVID REDDEN: Well, a very austere style. I mean, she was always one",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 28,
+      "text": "walking in with the king, you've got to look your best. DAVID REDDEN: She had to look the part, yes. LISA McREE: Now,",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 29,
+      "text": "was even -- was probably more important in fashion, I've heard. DAVID REDDEN: Well, he was. He set endless styles for men. LISA McREE",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 30,
+      "text": "for men. LISA McREE: Well, this is quite a style. DAVID REDDEN: This is a style, this is not a style, actually, that",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 31,
+      "text": "a woman could wear his clothes easier than a man. He was... DAVID REDDEN: I think you'd look fabulous. LISA McREE:... he was tiny",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 32,
+      "text": "... he was tiny. This was the Duchess of Windsor's bedroom. DAVID REDDEN: Yes, all in Wallis blue. LISA McREE: And what is this",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 33,
+      "text": ", all in Wallis blue. LISA McREE: And what is this? DAVID REDDEN: The pug guardians at the foot of the bed. LISA McREE: Now",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 34,
+      "text": "for your pet. This is almost a fetish, isn't it? DAVID REDDEN: There are a lot of pug-related objects in this house. LISA McREE:",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 35,
+      "text": "this house. LISA McREE: About how many, would you say? DAVID REDDEN: Hundreds. LISA McREE: There are things that you can buy, like",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 36,
+      "text": "the pugs, that are only a couple of hundred dollars, right? DAVID REDDEN: Oh, yes, those pillows are for a couple hundred dollars for a",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 37,
+      "text": "four pillows. LISA McREE: Tell me about the duke's room. DAVID REDDEN: Above the bed is the tapestry of the -- with the coat of arms",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 38,
+      "text": "room, as in elsewhere in the house, are pictures of Wallis. DAVID REDDEN: Oh, there's pictures of Wallis everywhere. LISA McREE: Were they",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 39,
+      "text": "pictures of Wallis everywhere. LISA McREE: Were they really in love? DAVID REDDEN: Well, he certainly was in love with her. LISA McREE: Was",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 40,
+      "text": "love with her. LISA McREE: Was she in love with him? DAVID REDDEN: I hope so. LISA McREE: Mohammed Al-Fayed, who owns the contents",
+      "human_category": "NOUN",
+      "model_category": "NONE",
+      "match": false
+    },
+    {
+      "id": 41,
+      "text": "twice. When the prosecutors brought up the cigar, his eyes widened, he reddened very quickly and he recoiled. And I think he was quite surprised to see",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "must be the African, Native American, and European mingling in my skin, reddened by the sun, and glossed over by sweat dripping from my brow. My",
+      "human_category": "MAKE_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 43,
+      "text": "on top of it. Some of the details (tusks and ears) are reddened and contrast with the shiny black color of the rest of the helmet mask.",
+      "human_category": "BE(COME)_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 44,
+      "text": "before they raise the canoe to their shoulders and enter town. A man, reddened with camwood to signify his heightened ritual state, represents Boupere (Fig. 20)",
+      "human_category": "MAKE_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 45,
+      "text": "honor of his ancestors, he instructed the mother to qaba the child, to redden its body and face with ochre. The mother prepared herself by drawing a red",
+      "human_category": "MAKE_RED",
+      "model_category": "MAKE_RED",
+      "match": true
+    },
+    {
+      "id": 46,
+      "text": "doctors find several things physically wrong with him (poor vision, dry scalp, reddened throat, fallen arches) # After the local economy stalls, everyone in town",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 47,
+      "text": "hasn't done anything wrong. \" He was right, of course. I reddened and slunk into my seat. What was happening to me? My ire should",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 48,
+      "text": "and dissipates as a method of cooling down. The dissipation causes the skin to redden. To cool down, the body produces sweat. When the external temperature decreases",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 49,
+      "text": "was thinking to myself. # With such goings-on, when the sky was all reddened by the setting sun, we started homeward; and not long after, the",
+      "human_category": "MAKE_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 50,
+      "text": "Barry's one of those guys whose abuses--unwashed hair, fair skin long marred and reddened by the sun, the nicotine stains around his teeth--will not carry well into middle",
+      "human_category": "MAKE_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 51,
+      "text": ", privilege, and information arose from the minority side of the dais, and reddened Leach's cheeks as he struggled to restore decorum. Democrat Barney Frank, the",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.39215686274509803,
+    "matches": 20,
+    "total": 51
+  },
+  "category_distribution": {
+    "NOUN": 24,
+    "BLUSH": 9,
+    "MAKE_RED": 9,
+    "BE(COME)_RED": 5,
+    "ADJECTIVE": 2,
+    "NONE": 1,
+    "REPEATED": 1
+  }
+}

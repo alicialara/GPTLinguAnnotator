@@ -1,0 +1,381 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "blacken",
+  "corpus": "COCA",
+  "date": "27/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "1952). Thus, social class can act as a form of whitening or blackening (Azevedo, 1995; M. N. da Silva, 2000; N. do V.",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "class is fundamental to the process of Brazilian racialization, demonstrating that both whitening and blackening are not a phenotypic property of the bodies themselves (DuBois, 1970).",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "dead Blackened is the end To begin whipping dance of the dead Color our world blackened Blistering of Earth Terminate is worth I don't think that's fucking safe...",
+      "human_category": "MAKE_BLACK",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 4,
+      "text": "incense, foul with the ashes of innumerable joss-sticks, and above it an equally blackened and much worn figure of a tiger in granite. To this beast, which",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": ". Both men and women are short, and the teeth of both sexes are blackened by the constant chewing of the betel-nut, which reddens the saliva, which is",
+      "human_category": "MAKE_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": true
+    },
+    {
+      "id": 6,
+      "text": "flat nose, open wide nostrils, thick lips, and filed teeth, much blackened by betel-nut chewing. Her expression is pleasant, and her manner is prepossessing.",
+      "human_category": "MAKE_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": "which they are cleaned by winnowing. Black pepper consists of such berries wrinkled and blackened in the process of drying, and white pepper of similar berries freed from the",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 8,
+      "text": "awake, he looked at his feet, to perceive that some wag had neatly blackened them with shoe polish from the porter's closet. He immediately reached under his",
+      "human_category": "APPLY_BLACKING",
+      "model_category": "APPLY_BLACKING",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "cleared from pots, and to a great pool of blood and dust mingled, blackening in the sun, then another and another, till there were five of them",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "very repulsive look. It produces much the same appearance of wreck and ruin as blackening the teeth does in Japan, and makes a smile a thing to be dreaded",
+      "human_category": "PAINT_BODY_BLACK",
+      "model_category": "NOUN",
+      "match": false
+    },
+    {
+      "id": 11,
+      "text": "land bloom. This \" right of return \" is another lie cooked up to blacken the image of Israel. Just poor Egyptians and Syrians who are jealous of their",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 12,
+      "text": "Dumbledore would have died much more quickly. Regardless, the curse left his hand blackened and dead-looking, and no amount of healing could repair the appearance. According to",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "the election process with fictional nonsense, try to suppress the vote, and/or \" blacken \" their opponents, they'd be very much a minority party. # As",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "rulers before and after her, she also made tragic mistakes - and those mistakes blackened her reputation irreparably. The Queen's Vow portrays the complex, fallible woman behind",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": "running a household without Geraldine are illustrated in the details, such as the slowly blackening rotten casserole in the back of their fridge or their fragile efforts at dinner conversation",
+      "human_category": "ADJECTIVE",
+      "model_category": "BE(COME)_BLACK",
+      "match": false
+    },
+    {
+      "id": 16,
+      "text": "are deep, very deep pockets behind the constant drumbeat to denigrate, and thus blacken the public's perception of public education. Diane is right: \" You MUST",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "closer they went. Now it was bits of pumice, and rocks that were blackened and burned and shattered by the fire.' # The fit and healthy stood",
+      "human_category": "BURN",
+      "model_category": "BURN",
+      "match": true
+    },
+    {
+      "id": 18,
+      "text": "the other cookie. He rubs them both around his mouth, the external shells blackening his lips and cheeks. Janet appears in the doorway, pausing there. Her",
+      "human_category": "MAKE_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": ". But still that set me up for pretty crushing post-Fielding depression once the lights blackened and the stage was swept. I had foolishly thought that an acknowledgement from a",
+      "human_category": "BO_TURN_OFF",
+      "model_category": "BO_LIGHTS_OFF",
+      "match": false
+    },
+    {
+      "id": 20,
+      "text": ": # It is not as though we got anything out of torture. We blackened our reputation for a generation and did substantial damage to our national security. We",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": "first victim was Eustathius of Antioch, whose reputation with the emperor they succeeded in blackening and who was sent into exile. They then turned their intrigues against young Athanasius",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 22,
+      "text": "blackout. We couldn't go nowhere. No more lights. We had to blacken up our house. \" # With the nation at war, she applied for",
+      "human_category": "BO_LIGHTS_OFF",
+      "model_category": "BO_LIGHTS_OFF",
+      "match": true
+    },
+    {
+      "id": 23,
+      "text": "\" but \" subject to miscontrual. \" But if this is true, why blacken out key details about the nature of the equipment, its purpose, and the",
+      "human_category": "BO_OBLITERATE",
+      "model_category": "BO_OBLITERATE",
+      "match": true
+    },
+    {
+      "id": 24,
+      "text": "dissipation leads to a sharp decrease in the reflection coefficient of a nanostructured surface (blackening) as compared to an ideal flat surface made of the same metal. #",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 25,
+      "text": "Really, the man is looking from behind the neon tubes. He had to blacken his face and he always looked kind of funny. It looked like a big",
+      "human_category": "PAINT_BODY_BLACK",
+      "model_category": "PAINT_BODY_BLACK",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "s success culminated in Noam Chomsky's biting remark that Obama is a white man blackened by a couple of hours of sun-tanning. \" # This libellous misquote appeared in",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "DEFAME",
+      "match": false
+    },
+    {
+      "id": 27,
+      "text": "beautiful sculpture. A perfect captured moment of a man in bondage, his heart blackened by hopelessness and pain. # It really spoke to me. Made me feel",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "CORRUPT",
+      "match": false
+    },
+    {
+      "id": 28,
+      "text": "a blond man in a white shirt and gray pants, his nose and mouth blackened by soot and body fluids. They dragged him out through the window at the",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": false
+    },
+    {
+      "id": 29,
+      "text": "truth in beauty; Lorenzo may be devastatingly handsome, but he has a soul blackened by his desire for revenge. And to give in to such a man,",
+      "human_category": "CORRUPT",
+      "model_category": "CORRUPT",
+      "match": true
+    },
+    {
+      "id": 30,
+      "text": "appear endless, eventually disappearing at horizon's end. Enormous groups of these birds blacken the limbs of the great Cottonwoods in my yard, resting for an afternoon,",
+      "human_category": "MAKE_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": false
+    },
+    {
+      "id": 31,
+      "text": "I would be when I committed my first post-confession sin and started the business of blackening it once again. # When face-to-face confession came along, I was not a",
+      "human_category": "CORRUPT",
+      "model_category": "CORRUPT",
+      "match": true
+    },
+    {
+      "id": 32,
+      "text": "pocket. Get a picture. Sew up the mouth with dove's blood. Blacken the eyes. Now, go. I got work. Boy... Take these",
+      "human_category": "MAKE_BLACK",
+      "model_category": "PAINT_BODY_BLACK",
+      "match": false
+    },
+    {
+      "id": 33,
+      "text": "or a musical note); yellow (paper does); but redden? Blacken, but black when referring to eyes or veto on strike-breaking goods (British trade-unionism",
+      "human_category": "NONE",
+      "model_category": "BE(COME)_BLACK",
+      "match": false
+    },
+    {
+      "id": 34,
+      "text": "of my favourite types of vegetables and when they are roasted until their skins are blackened their flesh becomes smokey and juicy. And when you chop them up and add",
+      "human_category": "COOKERY",
+      "model_category": "COOKERY",
+      "match": true
+    },
+    {
+      "id": 35,
+      "text": "had a twinkle in his eye, so I didn't do anything militant like blacken it. After Ed got home he found my original boarding pass in his raincoat",
+      "human_category": "BRUISE",
+      "model_category": "BE(COME)_BLACK",
+      "match": false
+    },
+    {
+      "id": 36,
+      "text": "class action gender-discrimination suit filed against Merrill Lynch a year later, did more than blacken the image of the nation's two largest investment firms. # For Wall Street",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 37,
+      "text": "'d see her, there was blood running out of her mouth and her eyes blackened and everything. Of course. I thought he'd killed her. And then",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": true
+    },
+    {
+      "id": 38,
+      "text": "that nothing can go missing in action inside this package, so it's not blackened, your pens don't get camouflaged. CHARLES-GIBSON-# (Off-Camera) And that on you said is",
+      "human_category": "ADJECTIVE",
+      "model_category": "MAKE_BLACK",
+      "match": false
+    },
+    {
+      "id": 39,
+      "text": "out this one and showed it again and again and again, in order to blacken the face of the right. TED KOPPEL: Let me ask you a question",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 40,
+      "text": ", pouring tons of carbon dioxide, soot and noxious gases into the atmosphere, blackening the skies at midday, polluting the water and creating acid rain. Just how",
+      "human_category": "MAKE_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": true
+    },
+    {
+      "id": 41,
+      "text": "of anything. DIANE SAWYER: voice-over There was Chinatown, that tale of hearts blackened by corruption and lust, and the edgy blend of horror and heightened reality in",
+      "human_category": "CORRUPT",
+      "model_category": "CORRUPT",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "Shepard reports. GARY SHEPARD: Of the more than 1,200 miles of Alaskan coastline blackened by oil last year, most has now been cleaned up. In fact new",
+      "human_category": "MAKE_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": true
+    },
+    {
+      "id": 43,
+      "text": "fashioned a gun out of a bar of soap, took some shoe polish and blackened it. And this looked incredibly real. FORREST SAWYER: (voice-over) Connor",
+      "human_category": "APPLY_BLACKING",
+      "model_category": "APPLY_BLACKING",
+      "match": true
+    },
+    {
+      "id": 44,
+      "text": "Mother's got claws, and mother's got news. Mother's going to blacken both of your baby blues. Don't mess with mother, or you're",
+      "human_category": "NONE",
+      "model_category": "BRUISE",
+      "match": false
+    },
+    {
+      "id": 45,
+      "text": ", will witness images of devastation first hand: the shell of a brick house blackened by explosion, a front lawn littered with rotting sheet rock, a demolished stove",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 46,
+      "text": "themselves in the way of untrained worldly people. But King Pasenadi wanted to avoid blackening those monks' characters and just wanted to give the Buddha a hint, so",
+      "human_category": "CORRUPT",
+      "model_category": "DEFAME",
+      "match": false
+    },
+    {
+      "id": 47,
+      "text": "looks a little too- I don't know- healthy. Don't you think? Blacken the eye sockets, for your Purim costume. Rex, hold still. And",
+      "human_category": "PAINT_BODY_BLACK",
+      "model_category": "PAINT_BODY_BLACK",
+      "match": true
+    },
+    {
+      "id": 48,
+      "text": "river, \" the old man began most of his stories. His hand, blackened by the Jericho sun, would be raised above his brow to shield his eyes",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": true
+    },
+    {
+      "id": 49,
+      "text": "the purpose, in order to be ready for the next lesson. The water blackened by charcoal is considered sacred, impregnated with letters from the Quran. It is",
+      "human_category": "MAKE_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": true
+    },
+    {
+      "id": 50,
+      "text": "of Doguldougou turn their attention to one or more small fires of pots to be blackened. They take sticks and scythes and hook the pots from the fire red hot",
+      "human_category": "BURN",
+      "model_category": "BURN",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.68,
+    "matches": 34,
+    "total": 50
+  },
+  "category_distribution": {
+    "MAKE_BLACK": 9,
+    "DEFAME": 8,
+    "BE(COME)_BLACK": 8,
+    "ADJECTIVE": 4,
+    "CORRUPT": 4,
+    "PAINT_BODY_BLACK": 3,
+    "NOUN": 3,
+    "APPLY_BLACKING": 2,
+    "BURN": 2,
+    "NONE": 2,
+    "BO_TURN_OFF": 1,
+    "BO_OBLITERATE": 1,
+    "BO_LIGHTS_OFF": 1,
+    "COOKERY": 1,
+    "BRUISE": 1
+  }
+}

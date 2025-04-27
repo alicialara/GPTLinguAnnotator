@@ -1,0 +1,370 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "pink",
+  "corpus": "EHCB",
+  "date": "27/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "els beside, </s><s> For sweet varietie herselfe did throw </s><s> To euery banke, here all the ground she dide </s><s> In lillie white, there pinks eblazed wide; </s><s> And damask''t all the earth, and here shee shed </s><s> Blew violets, and there came roses red, </s><s> And euery sight the",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "there in one day: then euer I did in London at any time, for at Ostend, Newport, and Dunkirke, where and when the Holland pinks commeth in, there daily the Merchants, that be but women, but not such women as the fishwiues of Billinsgare, for these",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "in Greeke atrophia opthalmou, in Latin imm tio profunditas macies oculi: Alſo of the litle eyes, co monlie called pinking eies, and in Greek Micropthalmos, in latine paruus oculus. </s><s> Atrophia opthalmou is an affection of the eye when al the",
+      "human_category": "NONE",
+      "model_category": "NOUN",
+      "match": false
+    },
+    {
+      "id": 4,
+      "text": "suffred quietly to land and water, and diuers of them with their king came aboord our ship in a gowne of crimosine Sattin pinked after the Moorish fashion downe to the knee, whom we entertained in the best maner, and had some conference with him of",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "which wil soone make thee be one of Terence his parasits: in wounds thou shalt exceed Cass anus which was so pittifully pinked of his own Schollers: & now whilst I am in the hot inuectiue I haue a message to doe to you, the townsmen of Cherrihinton",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 6,
+      "text": "and composure. </s><s> Both sexe goe naked, a linnen cloth only about their middles, which stiles them modest. </s><s> They vse pinking and cutting their brest and faces; and dilate their eares much, by those massie weights they fixe there. </s><s> Gold and Siluer",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": "by my nose, I neuer spent the least lip labour on mistris Mirable neuer so much as glaunc''d, neuer vs''d any winking or pinking , neuer nodded at her, no not so much as when I was asleep neuer askt her the questiō so much as whats her name, if you can",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "vppon his footeclothe, attended vpon as a ſatrapas with a traine of daſhbucklers or ſquaringe toſpottes, and hym ſelfe pinked and razed in thattire of a yonge bridegrome, with hys heare curled by art, fallinge in lockes, as it were by appointment,",
+      "human_category": "NONE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 9,
+      "text": ", & by nature apt & towardly. </s><s> As touching ye outward caſe of their body, they cōmōly breake out, & haue their bodyes pinked ful of ſcabs, & by reasō of ill humours, ouerwhealed & engrayled with lothſome bliſters, blaines,t in growth they",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "by a Moore, that had a great tooth ſticking in his vpper lip, with a broade knife in his hand, and all his body raſed and pinked as I ſaide before, where he brought them into a houſe among the Moores, wherein were certaine couerlets, made of the",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "paine lyeth, vntil the bloud doth iſſue forth. </s><s> The women in Florida are great and verie wiſe, and coloured like men, and pinked on their bodies, legges, and armes, putting ſuch colour into the places, that will not eaſily come forth: but the women",
+      "human_category": "APPLY_PINK",
+      "model_category": "MAKE_PINK",
+      "match": false
+    },
+    {
+      "id": 12,
+      "text": "I might see more knauerie filde in: within a while appeared olde Martin with a wit worn into the socket, twinkling and pinking like the snuffe of a candle; quantum mutatus ab illo, how vnlike the knaue hee was before, not for malice but for",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "a ſinging, </s><s> When one ſad ſoule anothers breſt doth borrow: </s><s> There make a Chaplet of the ſweeteſt flowers, </s><s> That prettie pinked Groue or Dale doth yeeld: </s><s> There ſhade thy temples in thoſe templed bower: </s><s> That canopize the haunters of the field: </s><s> And",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "hall, a Ladie, séeming to bée of great authoritie, accompanyed with two faire Nymphs, all apparelled in russet Satten, pinked & cut, and lined with gréene Satten, which coulours were verie pleasant, and greatly delighted the sight. </s><s> And when shée",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": "a Lady on a blacke Palfray, ſhée being attyred after the Turkiſh manner, in a Robe of white Sattine, which was cutte and pinked in many places, ſo that the Blacke ſilkes lying vnder the white, gaue a very braue grace vnto her Apparell, becauſe the",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "get Beast, Bird, or Fish, in toil, or snare, or net. </s><s> What though his Wardrobe be not stately stuft With sumptuous silks ( pinked , and powne''t, and puft) With gold-ground Velvets, and with siluer Tissue, And all the glory of old Eues proud Issue? </s>",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "at the Sunne out of a barne but dares not come to it, ſo we peepe at Religion and will not come neere it, but ſtande a loofe off pinking and winking as though we were more afraid of GOD than the diuell: For ſelfe-loue, and regarde of perſons, and feare of",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 18,
+      "text": "their sliced flesh. </s><s> The very paralell whereof is also by I sidore set downe touching our Picts whose bodies sliced and pinked be an artificiall punchion, did suck in the tuice of the stayning herb, carying these rasures on their pictured limmes,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": "''vnnūbred birds do bring their Bee to bed. </s><s> 65. </s><s> And there he sleeps & slumbers til the morne, </s><s> when he awakes and wipes his pinking eies, </s><s> And vp he starts and bloweth like a horne, </s><s> where all his souldiers in a swarme do rise, </s><s> Attending on him wheresoeuer",
+      "human_category": "NONE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 20,
+      "text": "; So we detached out a small party for a forlorn, supposing we must have fought our way through; But as soon as we began to pink some of their Jackets for them with our Fuzees, they got out of our reach, and went to their ruin''d Town leaving us to go",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": "in his Eye, and could not tell how to come at him; cast himself at his Length upon the Ground, and there he lay winking and pinking as if he had Sore Eyes. </s><s> Ah, (says he to the Cock) I have gotten a Thorn here, with Creeping through a Hedge t''other Day; ''",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 22,
+      "text": "is cured by thoſe medicaments that humect and moiſten (and chiefly the breſt milk of a woman) laid therein. </s><s> , that is, the pinking eye, is, when any one hath from his birth ſo little eyes that they ſeem ſcarcely opened, albeit they are not ſunk down",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 23,
+      "text": "it, and shrinks back, letting go his Hand. </s><s> Scar. </s><s> Who the Devil can this be? </s><s> I felt a Poniard, and am glad I sav''d my Skin from pinking . </s><s> [Steals out. </s><s> [Harlequin groping about, finds the Table, on which there is a Carpet, and creeps under it, listning. </s>",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 24,
+      "text": "in her Eyes, Such Magick in her Eyes, in her Eyes, does my wo—nd''ring Heart Surpriſe: Her prinking, mimping, twinking, pinking ; whilſt I''m courting, for transporting, how like an Angel She panting lyes, She pa—nting lyes, lyes. </s><s> For the Flute. </s><s> A",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 25,
+      "text": "matches, yea, the parts of ſhame </s><s> Stuff''d with gun-powder, burſt with horrid flame. </s><s> With knives and bodkins they do pink the skin </s><s> And fleſh of ſome, draw ſtiff cords out and in. </s><s> Some roſted were with gentle fires, ſome ſmok''d </s><s> Like bacon-hogs;",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": ", Mules come a gallop to draw him out of the Liſts, and another is let looſe. </s><s> About a ſcore were killed that day, the skins ſo pinked , they could be of no uſe but to make Sives; Dogs are ſometimes ſet againſt them when it is too troubleſome and dangerous",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": "ayre, to bee devouted by Marrlets and other birds, and now let''s goe a plaine pace on the ground: and though wee weare no pinked Spanish-leather shoos, yet wee shall not want course pack-thread Sandals. </s><s> Like to like, quoth the Devill to the",
+      "human_category": "NONE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 28,
+      "text": ", four fingers thick, and between three and four foot in length; over which was ſpread a very fine Coverlet of Indian Work pinked with Gold, being a moſt admirable piece of Workmanſhip. </s><s> This Carpet covered all the Quilt, and hung down four fingers on",
+      "human_category": "NONE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 29,
+      "text": "coasts. </s><s> The Sea-hedgehog is restaurative, being enclosed in a round shell like a loaf of bread, handsomely wrought and pinked , and guarded with prickcles) the Sheathfish (which is also found upon the coast: it is as big, and as long as a mans finger",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 30,
+      "text": "sort of linnen wrought with gold, and silk: about their wast a peece of Calico, all the rest naked: the vulgar sort pink their skins in many places: some are Mahometans, others Gentiles: the Mahometan women use vails like other Indians:",
+      "human_category": "NONE",
+      "model_category": "MAKE_PINK",
+      "match": false
+    },
+    {
+      "id": 31,
+      "text": ". </s><s> Their habit is thin and fine; they wear no beards: they dye their teeth black, because Dogs teeth are white, they cut and pink their flesh as a mark of bravery. </s><s> The King of Pegu on festival dayes rides abroad in his triumphant Chariot all guilded,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 32,
+      "text": "men are semi-Eunuches, one stone being exsected in their infancy by their nurses. </s><s> Both sexes hideously cut, gash, and pink their brows, nose, cheeks, arms, breast, back, belly, thighs, and legs in sundry works, and Figures. </s><s> They have no",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 33,
+      "text": "curled: They wear a few leaves plaited about their wasts, but are elsewhere naked; their ears are bored and wide; they pink , and cut their flesh; and whilst the men seek their prey abroad, the women keep constantly at home and spin. </s><s> The boys",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 34,
+      "text": "near Charingcroſs, and the ſame day met the ſame Gentleman (then ſo much famed) going to ſpeak, in an old-faſhioned pinked Fuſtian Jerkin, and clouted ſhooes, and Breeches faced with Leather, and a Carters Whip in his hand, altogether",
+      "human_category": "NONE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 35,
+      "text": ", he must refund— or Bilbo''s the Word, and Slaughter will ensue—If he refuse, tell him—But whisper that—Tell him—I''ll pink his Soul—but whisper that softly to him. </s><s> Sir Io. </s><s> So softly, that he shall never hear on''t I warrant you—Why what a Devil''s",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 36,
+      "text": ". </s><s> Nay then I''l be beforehand with you, take that—Oafe. </s><s> Cuffs him. </s><s> Bluff. </s><s> Sir Io. </s><s> Captain, will you see this? </s><s> Won''t you pink his Soul? </s><s> Bluff. </s><s> Husht, ''tis not so convenient now—I shall find a time. </s><s> Sharp. </s><s> What do you mutter about a time, Rascal—",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 37,
+      "text": "of Fetu''s Son had fourteen Sons and twelve Daughters, and kept an hundred Slaves to wait upon them; At Cape Gonsalvo they pink and colour their bodies, and offer their Wives to Strangers; The King uses his own Daughters when grown up as Wives, and",
+      "human_category": "APPLY_PINK",
+      "model_category": "MAKE_PINK",
+      "match": false
+    },
+    {
+      "id": 38,
+      "text": ", ye Tub of Cheeſe-curds and Hogs-waſh, I''ll kick your Guts out.—Oounz, why don''t you draw, you eternal Lubbard; I''ll pink you, I''ll pink you as full of holes as a Cullender; I''ll rip your heart out, you Joulterhead. </s><s> Sap. </s><s> Nea, nea, but hold ye",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 39,
+      "text": "and Hogs-waſh, I''ll kick your Guts out.—Oounz, why don''t you draw, you eternal Lubbard; I''ll pink you, I''ll pink you as full of holes as a Cullender; I''ll rip your heart out, you Joulterhead. </s><s> Sap. </s><s> Nea, nea, but hold ye Maſter Eager.—",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 40,
+      "text": "me </s><s> The fondneſs of a Bride, without the fear. </s><s> My whole Deſires and Wiſhes are in you. </s><s> Phaed. </s><s> aſide. </s><s> My Ladies Eyes are pinking to Bedward too; Now is She to look very ſleepy, counterfeiting yauning, but She ſhall ask me leave firſt. </s><s> Alc. </s><s> Great Juno",
+      "human_category": "NONE",
+      "model_category": "BE(COME)_PINK",
+      "match": false
+    },
+    {
+      "id": 41,
+      "text": "i''faith? </s><s> Warn. </s><s> Pray pacifie your self, Sir, ''twas a Plot of my own devising. </s><s> Sir Mart. </s><s> Leave off your winking and your pinking , with a Horse-pox t''ye, I''ll understand none of it; tell me in plain English the truth of the business: for an''you were my",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "particulars, </s><s> The why and wherefore I must draw my Sword, </s><s> For I''me not so in love with the French garb, </s><s> T'' expose my skin to pinking for the Mode. </s><s> Hon. </s><s> You shall— </s><s> Setting a part your late inconstancy, (which I am▪ </s><s> Bound to pardon by an Oath) receive in",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 43,
+      "text": ". </s><s> Here de are! fall on. </s><s> D. Pier. </s><s> Harkee, Diable! </s><s> Rascale! </s><s> Teefe! or what do you call your self? </s><s> Get you gon, or I shall so pink your Guts, d''ee hear? </s><s> La Mur. </s><s> Morbleu, Villain! pinka my Guts. </s><s> Courage. </s><s> D. Pier. </s><s> Nay, if you will be paunch''d, have at",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 44,
+      "text": "and thin, that are perpetually harrass''d and fatigu''d, that lie whole Nights up to the chin in water, that venture the pinking of their Carcasses, and the damming of their Souls, for that most valuable consideration a Groat a day, which is not",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 45,
+      "text": "theIudas, and before the election of Matthias. </s><s> In a word, the chanels of Nilus, daily decreased in number, because (as pinked or slashed clothes have the fewer holes the longer they are worn) so his streams fret one into another; especially, the",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 46,
+      "text": "relief where occasion did most require.Carate. </s><s> Pedro de Alvarado wore over his Arms a Coat of white Satten, slashed and pinked , saying, That when Archers shoot at Butts, there are very few which hit the white Mark. </s><s> In this posture they remained in",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 47,
+      "text": "the Portugals, they ſpeak that tongue alſo. </s><s> The Women of the like complexion: to amend which, and ſeem more lovely, they pink their arms and faces in ſeveral ſhapes. </s><s> Both ſexes no otherwiſe apparalled then their natural garments, with ſome",
+      "human_category": "NONE",
+      "model_category": "MAKE_PINK",
+      "match": false
+    },
+    {
+      "id": 48,
+      "text": "Soles. </s><s> Pumps, are shooes with single Soles and no heels, some term them Lacky-Boys, Foot-men, or running shooes. </s><s> Pinked or raised Shooes, have the over leathers grain part cut into Roses, or other devices. </s><s> Laced shooes, have the over",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 49,
+      "text": ", Argent. </s><s> This was the fashion of the Gentry in the beginning of King Iames his Reigh: the sleeves being either slashed or pinked as they then called it; and the Breeches so full in the wast, that they fell into Pleats and Folds, and being gathered at",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 50,
+      "text": "or beating too the stitch. </s><s> Sowing the Heel. </s><s> Pegging on the Heel pieces. </s><s> Slickening it off, polishing the upper Leather. </s><s> Pinking the over Leather, cutting the grain of the Leather into Roses, Knots, and orderly devices. </s><s> Colouring the soles,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.78,
+    "matches": 39,
+    "total": 50
+  },
+  "category_distribution": {
+    "NONE": 44,
+    "NOUN": 2,
+    "ADJECTIVE": 2,
+    "APPLY_PINK": 2
+  }
+}

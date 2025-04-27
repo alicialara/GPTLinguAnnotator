@@ -1,0 +1,20 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: COHA
+Palabra: red
+Modelo: gpt-4.1-mini
+Accuracy global: 0.8788
+Cohen's Kappa: 0.4000 (Acuerdo moderado)
+Número de muestras: 33
+
+Métricas por categoría:
+  NONE: Precision=1.0000, Recall=0.9032, F1=0.9492, Count=31.0
+  ADJECTIVE: Precision=1.0000, Recall=1.0000, F1=1.0000, Count=1.0
+  MAKE_RED: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=1.0
+  BE(COME)_RED: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=0.0
+
+Mejor categoría por F1: NONE (F1: 0.9492)
+Peor categoría por F1: NONE (F1: 0.9492)
+
+Patrones de confusión más comunes:
+  HUMANO: NONE -> GPT: BE(COME)_RED: 3 casos
+  HUMANO: MAKE_RED -> GPT: BE(COME)_RED: 1 casos

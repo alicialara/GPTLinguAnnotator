@@ -1,0 +1,32 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: BNC_congreso
+Palabra: whiten
+Modelo: gpt-4.1-mini
+Accuracy global: 0.7400
+Cohen's Kappa: 0.6719 (Acuerdo substancial)
+Número de muestras: 50
+
+Métricas por categoría:
+  BE(COME)_PALE: Precision=1.0000, Recall=0.9474, F1=0.9730, Count=19.0
+  ADJECTIVE: Precision=0.7143, Recall=0.5556, F1=0.6250, Count=9.0
+  MAKE_WHITE: Precision=1.0000, Recall=0.5000, F1=0.6667, Count=8.0
+  BLEACH: Precision=0.5714, Recall=0.8000, F1=0.6667, Count=5.0
+  COAT_WITH_WHITE: Precision=0.5714, Recall=0.8000, F1=0.6667, Count=5.0
+  BE(COME)_WHITE: Precision=0.3333, Recall=1.0000, F1=0.5000, Count=2.0
+  NOUN: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=2.0
+  MAKE_IDENTITY_WHITE: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=0.0
+
+Mejor categoría por F1: BE(COME)_PALE (F1: 0.9730)
+Peor categoría por F1: ADJECTIVE (F1: 0.6250)
+
+Patrones de confusión más comunes:
+  HUMANO: MAKE_WHITE -> GPT: BLEACH: 3 casos
+  HUMANO: ADJECTIVE -> GPT: BE(COME)_WHITE: 2 casos
+  HUMANO: NOUN -> GPT: BE(COME)_WHITE: 1 casos
+  HUMANO: MAKE_WHITE -> GPT: BE(COME)_WHITE: 1 casos
+  HUMANO: COAT_WITH_WHITE -> GPT: ADJECTIVE: 1 casos
+  HUMANO: BE(COME)_PALE -> GPT: ADJECTIVE: 1 casos
+  HUMANO: ADJECTIVE -> GPT: COAT_WITH_WHITE: 1 casos
+  HUMANO: BLEACH -> GPT: COAT_WITH_WHITE: 1 casos
+  HUMANO: ADJECTIVE -> GPT: MAKE_IDENTITY_WHITE: 1 casos
+  HUMANO: NOUN -> GPT: COAT_WITH_WHITE: 1 casos

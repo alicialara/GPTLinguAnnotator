@@ -1,0 +1,374 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "whiten",
+  "corpus": "EHCB",
+  "date": "27/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "of water purge off the inueterate foulenesse and corruption of the flesh? </s><s> There is required much rensing to whiten a defiled soule. </s><s> How peruerse is their course and thought, that imagine, they may repent more in an houre, then they",
+      "human_category": "MAKE_PURE",
+      "model_category": "MAKE_PURE",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": ", should be made Iusti per homicidium; and that the bloud, which was scarce washed from their guilty hands, should now whiten their consciences. </s><s> Like that impostum''d Souldior; the blow that was thought to haue kill''d him, cur''d him. </s><s> 3. </s><s> For his",
+      "human_category": "MAKE_PURE",
+      "model_category": "MAKE_PURE",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "his Body, and the Wine his Blood and price of our Redemption. </s><s> With this one brush reached unto me by Saint Austin, I might whiten all the walls you point unto: yet partly out of respect to your selfe, but especially to S. Austin, I will take speciall",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": ", Iſe-ſickles. </s><s> Candidare, to whitten, to blanch, to purifie, to candie. </s><s> Candidato, clothed in white, bleached, whitened . </s><s> Alſo ſuch a one as stands or ſues for an office, and is like to ſpeede. </s><s> Candidezza, whitenes, puritie, vnſpottednes. </s>",
+      "human_category": "ADJECTIVE",
+      "model_category": "MAKE_PURE",
+      "match": false
+    },
+    {
+      "id": 5,
+      "text": ", to paint with ceruſe or white lead. </s><s> Imbiaccamento, a whitning, a blanching or a waſhing white. </s><s> Inbiancare, to whiten , to blanch, to waſh white, to become pale or wan. </s><s> Imbiancheggiare, as Imbiancare. </s><s> Imbianchire, chiſco, chito, as",
+      "human_category": "MAKE_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": false
+    },
+    {
+      "id": 6,
+      "text": ", to become pale or wan. </s><s> Imbiancheggiare, as Imbiancare. </s><s> Imbianchire, chiſco, chito, as Imbiancare. </s><s> Imbianchito, whitened or become pale or wan. </s><s> Imbiondire, diſco, dito, to make yellow or of a golden colour. </s><s> Imbizzarire, riſco, rito, to",
+      "human_category": "ADJECTIVE",
+      "model_category": "BE(COME)_PALE",
+      "match": false
+    },
+    {
+      "id": 7,
+      "text": ", not moued, not toſſed. </s><s> Inagnellarſi, to become a lambe or like a lambe, to become milde and gentle. </s><s> Inalbare, to whiten or make white. </s><s> Inalberare, to climbe vpon a tree. </s><s> Alſo a word about alchimie, to put into a limbike. </s><s> Alſo to furniſh with",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "lockes of haire curled or buſhie. </s><s> Alſo to make the haire on the head curled. </s><s> Inzeppare, to fill brim full. </s><s> Inzeſſare, to whiten or colour with chalke, to chalke. </s><s> Inzoppare, to become or make one to halt or to cripple. </s><s> Inzuccherare, to ſugar, to",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "<s> Alſo an azure or bright skie colour. </s><s> Sbiagio, Sbiaſo, byas, ſideline, aſlope, awry, bending wiſe. </s><s> Sbiancheggiare, to whiten , or bedaube with white. </s><s> Sbiancido, pale, wan, whitiſh, leaden colour. </s><s> Alſo ſtraw-colour. </s><s> Sbiauare, as Sbiadare. </s>",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "this swarthinesse, by the continuall tanning of vnceased sinnes. </s><s> We haue no nitre of our owne virtuall, enough to whiten vs. Iob had no water of snow, nor Dauid of Hysope, nor had the poole of Bethesda, though stirred with a thousand Angels,",
+      "human_category": "MAKE_PURE",
+      "model_category": "MAKE_PURE",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "turne into a citrine colour infinitely, and changeth all mettals into pure gold. </s><s> And the white Elixir doth insinitely whiten , and bringeth euerie mettal to perfect whitenesse. </s><s> But we know that one mettall is farther off from perfection then",
+      "human_category": "BLEACH",
+      "model_category": "MAKE_PURE",
+      "match": false
+    },
+    {
+      "id": 12,
+      "text": "is the liquefaction of the body: to incerate belongeth properly to the body, and is the subtiliation thereof: to whiten , is properly to melt speedily: to congeale, is to congeale the body with the soule alreadie prepared. </s><s> Againe, flight",
+      "human_category": "BLEACH",
+      "model_category": "MAKE_PURE",
+      "match": false
+    },
+    {
+      "id": 13,
+      "text": ", is to congeale the body with the soule alreadie prepared. </s><s> Againe, flight appertaineth to the body and soule: to melt, whiten , incerate, and dissolue, belong vnto the body, and congelation to the soule. </s><s> Bee wise and vnderstand. </s><s> CHAP XIIII. </s><s> That",
+      "human_category": "BLEACH",
+      "model_category": "MAKE_PURE",
+      "match": false
+    },
+    {
+      "id": 14,
+      "text": ", charme their tongues from Blasphemies, their heartes from Vanities; you shall almost as good bath a Moore, in hope to whiten him. </s><s> Men naturally loue any thing better then Righteousnesse, and thinke any burden lighter then Repentance: Hence it",
+      "human_category": "MAKE_PURE",
+      "model_category": "MAKE_PURE",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": "as great a difference, as betweene cleannesse and whitenesse; for that washing was to cleanse us; but this washing is to whiten us; of that it was said; Wash mee, and I shall be cleane; but of this, it is said; Wash mee, and I shall be whiter thau snow:",
+      "human_category": "MAKE_PURE",
+      "model_category": "MAKE_PURE",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "her child with her bloud, in her wombe, as to deny it her milke being borne? ſince the milk is nothing elſe but bloud whitened , beeing now brought to perfection and maturity. </s><s> But ſome will ſay that the child may bee deliuered to ſome other Woman,",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "<s> THough it were fit, that euery mother ſhould nurſe her owne child: becauſe her milke which is nothing elſe, but the bloud whitened (of which he was made, and wherwith hee had beene nouriſhed the time hee ſtaide in his Mothers wombe) will bee alwaies",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 18,
+      "text": "that fits the heart for peace, (indeed all other graces) is humility: That cloth which the Fuller would perfectly whiten , yeelds it selfe to be trampled upon; They are low pits, wherein the starres may be seen by day; They are the valleyes, and",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": "of beaſts even then permitted to be eaten, and ſo was the milke, being nothing elſe but blood refined and dealbuted or whitened in theſe gloobus mamillarie glands. </s><s> Moreover, if this had beene ſimply and in it ſelfe a ſinne, and had obliged us",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 20,
+      "text": "absent, and the house dead. </s><s> 941. </s><s> Dogs are fine in the field </s><s> 942. </s><s> Sinnes are not knowne till they bee acted. </s><s> 943. </s><s> Thornes whiten yet doe nothing▪ </s><s> 944. </s><s> All are presumed good, till they are found in a fault. </s><s> 945. </s><s> The great put the little on th hooke. </s><s> 946. </s>",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": "maieſtie of God. </s><s> This herbe Borith or Struthion, which we heere cal Sopewort or fullers weed, doth naturally (indeed) whiten and ſcowre wollen clothes, and that excellently: ſo doth Sope ſupple and ſmooth the skin; and taketh away the ſpots,",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 22,
+      "text": "be made in Italie fine Toothpickers, like as they doe in the Lowe Countries, of Iuniper and Baies, verie good to clenſe, whiten and mundifie the teeth withall. </s><s> Inſomuch that it is growen into a common byworde or prouerbe, when we wil note any",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 23,
+      "text": "into that countrie for to lade their ſhippes with it. </s><s> The fire of it is almoſt without ſmoake. </s><s> But hee that would thinke to whiten his linnen with the aſhes of that wood, would farre deceiue himſelfe. </s><s> For he ſhould finde it died in redde. </s><s> They haue alſo",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 24,
+      "text": "Factions, within and without; for the Muskets playd continually as thicke on others faces, as the Winter-hayle, which whiten the ground. </s><s> Both Nations attempted the Hornewarke in the evening, but were beaten backe againe to their great",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 25,
+      "text": "flint ſtones calcined, and made into fine powder, then colour it, and make of it what you pleaſe, and let them dry. </s><s> How to whiten copper. </s><s> TAke a thin plate of copper, heat it red-hot divers times, and extinguiſh it in common oyl of tartar, and it will",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "a foule and vncertaine waie, and I would not wish any good House-wife to vse it. </s><s> Of the scowring of yarne Bucking of yarne. </s><s> Whitening of yarne. </s><s> Of winding yarne. </s><s> Of warping and weauing. </s><s> After your cloth is wouen,Aprill and May. </s><s> Now the course and worst",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": ": but then a couple of cleane buckes as was before ſhewed in the yarne) the next fortnight following; and then being whitened enough, dry vp the cloth, and vſe it as occaſion ſhall require; the beſt ſeaſon for the ſame whitening being in Aprill and",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 28,
+      "text": "affected. </s><s> Many other are content with bread only toſted & beaten; but this following water is very effectuall to whiten the teeth. ℞. ſal. ammon. & gemmei, an. ℥i. alum. roch. ℥ſs. aquae roſ. quod ſufficit, deſtillentur. </s><s> And let the teeth be",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 29,
+      "text": "roughneſſe of the skin, as alſo oile of lillies; hares bloud of one newly killed and hot is good to fill and plaine, as alſo whiten the Pock-holes, if they bee often rubbed therewith. </s><s> In ſtead here of many uſe the ſwathe of Bacon rubbed warme thereon;",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 30,
+      "text": "adviſe. </s><s> CHAP. </s><s> XXXVIII. </s><s> Of Dentifrices. </s><s> DEntifrices are medicines prepared and ſerving divers waies for to cleanſe, whiten , and faſten the teeth; for from their uſe they take balauſtia, acornes, all ſorts of ſhels of fiſhes: all theſe are to bee",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 31,
+      "text": "diſſolved in them, & as it were ſhaved from the top of the Alembecke or head, defiles the diſtilled liquors, and whitens and turnes them into a milky ſubſtance but copper or braſſe terra belovacenſis, and theſe rather than of Lead, or any",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 32,
+      "text": "in the shauings of horne, which the finer you cut them the whiter they appear so t at in these & the like bodi s the cause of whiten sse is nothing else (as I said) then an o t r flection of the light possessing our ies and the aire or medium with many beames",
+      "human_category": "NOUN",
+      "model_category": "BE(COME)_WHITE",
+      "match": false
+    },
+    {
+      "id": 33,
+      "text": "not so small, so faire: </s><s> H r lips like Rubies, and you''d thinke, within, </s><s> In stead of teeth, that orient Pearles had bin: </s><s> The whiten sse of her dainty n ck you know, </s><s> If euer you behold the new-salne Snow; </s><s> Her Swan-like brests were like two little Spheares",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 34,
+      "text": ", trussing, buttoning, </s><s> And a that afflict humanity. </s><s> Phil. </s><s> To ! shee hath made this cheek </s><s> By much too , and hath forgot to whiten </s><s> The naturall rednesse of my nose, she knowes not </s><s> What ''tis wants dealbation! </s><s> O fine memory! </s><s> If she has not set me in the",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 35,
+      "text": "grant, the greatest spot you spie </s><s> In all my Frame, may be but as the Fly, </s><s> Which on her Ruff (whiter than whitest snowes) </s><s> To whiten white, the fairest Virgin fowes: </s><s> (Or like the Veluet on her brow: or, like </s><s> The dunker Mole on Venus dainty Cheek:) </s><s> And,",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 36,
+      "text": ", &c. and the Priest did his service in them▪ it was unlawfull. </s><s> Every Priests garment that was made filthy, they did not whiten it, or wash it, but leave it for threds (or weke,) and put on new. </s><s> The high Prists garments, when they were old, were laid up",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 37,
+      "text": "excellent, will buy their Painting deare, </s><s> Which on their cheeks lyes thick, to shew their store </s><s> Like parched Walls new whiten ''d, Oker''d ore. </s><s> Was not her face I courted, but th'' refin''d </s><s> Inestimable Iewell of her minde. </s><s> She has within her that which",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 38,
+      "text": "and sweet-sented. </s><s> Thirdly, hee hath made the persecutors his scullions, to make bright his Vessels, his Fullers to whiten his children; his Goldsmiths, to melt his gold, and purifie it, not to consume it; his Threshers, onely with this flayle",
+      "human_category": "MAKE_PURE",
+      "model_category": "MAKE_PURE",
+      "match": true
+    },
+    {
+      "id": 39,
+      "text": "offend him. </s><s> He heares the voice of the Spirit purging and cleansing him by afflictions, as by the Lords fanne, and whitening him by this sope of afflictions: Dan. 12.10. </s><s> II. </s><s> The Lord speakes inwardly by a still voice in the heart: </s><s> Many are the",
+      "human_category": "MAKE_PURE",
+      "model_category": "MAKE_PURE",
+      "match": true
+    },
+    {
+      "id": 40,
+      "text": "deepe roote in our hearts downewards, and bring forth fruit plentifully in our liues vpwards; and that as the Sunne doth whiten cloth, reſolue the ſnow, melt the hardeſt yee, and giue light vnto the world, ſo his word may melt our hearts, and whiten",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 41,
+      "text": "whiten cloth, reſolue the ſnow, melt the hardeſt yee, and giue light vnto the world, ſo his word may melt our hearts, and whiten them; and ſo diſpell the darkeneſſe of our mindes, as that we may repent of all our ſins, and ſee the riches of his grace,",
+      "human_category": "MAKE_PURE",
+      "model_category": "MAKE_PURE",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "absent, and the house dead. </s><s> 941. </s><s> Dogs are fine in the field▪ </s><s> 942. </s><s> Sinnes are not knowne till they bee acted. </s><s> 943. </s><s> Thornes whiten yet doe nothing. </s><s> 944. </s><s> All are presumed good, till they are found in a fault. </s><s> 945. </s><s> The great put the little on the hooke. </s><s> 946",
+      "human_category": "REPEATED",
+      "model_category": "BE(COME)_WHITE",
+      "match": false
+    },
+    {
+      "id": 43,
+      "text": "white teeth, whiche is the pommeiſe ſtone alone, ſo that it be of that fyne and whyte ſtone, whiche ſhoemakers doo vſe to whiten whyte leather Shoes, and well beaten in poulder: For in rubbinge youre teeth with the ſame poulder, if ſcoureth and",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 44,
+      "text": ", mixe all this togither, and ſtill water of it in a limbeck, & this water will take awaie the ſtinking of the breath, whiten the teeth and maintaine helth long. </s><s> A water to make cleane teeth. </s><s> TAke ſalt Armoniac, and ſalt Gemma, three vnces of eche",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 45,
+      "text": "daies, and with this licour diſtilled, or ſo tempered, you ſhal rubbe your teeth and they will be white. </s><s> Another water to whiten teeth. </s><s> TAke a pounde of ſalt well purged, and beaten, an vnce of Alumen Glaciale, and diſtill it in a limbeck, and mingle",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 46,
+      "text": ". </s><s> For the ſtinkyng of the breath, and to make the teeth white. idem. </s><s> A water to make cleane teeth. idem. </s><s> An other water to whiten teeth. </s><s> Fol. 39. </s><s> To take awaie the ſmell of Garlike, Leekes, or. idem </s><s> A principall remedie for the flixe or laxe. idem. </s><s> For",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 47,
+      "text": "old man is loved? </s><s> What may his body present to delight the sight? </s><s> Hee presents crooked lims, a rugged forehead, an head whitened with hoary haires, weaknesse in all parts, full of aches and complaints. </s><s> But, perchance, though this decrepit old man",
+      "human_category": "ADJECTIVE",
+      "model_category": "BE(COME)_WHITE",
+      "match": false
+    },
+    {
+      "id": 48,
+      "text": ", whatsoere they show. </s><s> Their painted Vizards couer naked sinne, </s><s> Which seeming faire, are euer foule within. </s><s> A whiten wall, a rotten odious tombe, </s><s> That prostitutes her selfe to all that come. </s><s> To all that come, hence then''s affection crost",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 49,
+      "text": "vnitie of one ſpring or fountaine, nor the diuerſitie of effects in the Sunne, to heat, to enlighten, to melt, to drie, to whiten , to make blacke, do diſſipate the vnitie and ſimplicitie of the Sunne; for ſhould they, there would be a great number of",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 50,
+      "text": "Bewtie called a Pigeon water. </s><s> 20. </s><s> A notable water for a ſtinking breath. </s><s> 21. </s><s> A Water to helpe the Morphew. </s><s> 22. </s><s> A water to whiten and faſten the teeth. </s><s> 23. </s><s> An aſſured remedy for the running of the Raines. </s><s> 24. </s><s> An excellent and approoued remedy for the",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.66,
+    "matches": 33,
+    "total": 50
+  },
+  "category_distribution": {
+    "BLEACH": 13,
+    "MAKE_WHITE": 12,
+    "MAKE_PURE": 8,
+    "COAT_WITH_WHITE": 6,
+    "ADJECTIVE": 4,
+    "BE(COME)_WHITE": 4,
+    "NOUN": 2,
+    "REPEATED": 1
+  }
+}

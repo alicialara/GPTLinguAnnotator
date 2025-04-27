@@ -1,0 +1,29 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: EHCB
+Palabra: red
+Modelo: gpt-4.1-mini
+Accuracy global: 0.4630
+Cohen's Kappa: 0.2990 (Acuerdo justo)
+Número de muestras: 54
+
+Métricas por categoría:
+  NONE: Precision=0.7500, Recall=0.2857, F1=0.4138, Count=21.0
+  ADJECTIVE: Precision=0.5556, Recall=0.8824, F1=0.6818, Count=17.0
+  NOUN: Precision=0.8000, Recall=0.3636, F1=0.5000, Count=11.0
+  REPEATED: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=4.0
+  MAKE_RED: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=1.0
+  BE(COME)_RED: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=0.0
+
+Mejor categoría por F1: ADJECTIVE (F1: 0.6818)
+Peor categoría por F1: NONE (F1: 0.4138)
+
+Patrones de confusión más comunes:
+  HUMANO: NONE -> GPT: BE(COME)_RED: 12 casos
+  HUMANO: NOUN -> GPT: ADJECTIVE: 7 casos
+  HUMANO: REPEATED -> GPT: ADJECTIVE: 3 casos
+  HUMANO: NONE -> GPT: ADJECTIVE: 2 casos
+  HUMANO: ADJECTIVE -> GPT: BE(COME)_RED: 1 casos
+  HUMANO: MAKE_RED -> GPT: NONE: 1 casos
+  HUMANO: REPEATED -> GPT: BE(COME)_RED: 1 casos
+  HUMANO: NONE -> GPT: NOUN: 1 casos
+  HUMANO: ADJECTIVE -> GPT: NONE: 1 casos

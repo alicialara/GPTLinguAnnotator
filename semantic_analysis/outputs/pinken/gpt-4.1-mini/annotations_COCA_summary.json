@@ -1,0 +1,118 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "pinken",
+  "corpus": "COCA",
+  "date": "27/04/2025",
+  "total_samples": 14,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "  wind howled as if across an opened pop bottle the flesh on my hands , pinkened and chapped. # A young woman approaching me smiled. Winter for her was as,",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "  Dr. Koons was saying, the doctor's dark eyes uncharacteristically bright, his cheeks  pinkened  as he urged the husband to express himself more daringly while his wife lay naked",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "  You can? \" # \" Yes. Your sprint through the upper garden has  pinkened  your cheeks. \" # \"' ",
+      "human_category": "MAKE_PINK",
+      "model_category": "MAKE_PINK",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": " your cheeks. \" # \"'  pinkened '? Is that even a word",
+      "human_category": "MAKE_PINK",
+      "model_category": "MAKE_PINK",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "  I nudged the boy and told him to look up at the sky which had  pinkened  at dusk. He stared for a moment and he said, \" Wow.",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 6,
+      "text": "  brightened Georgiana's eyes and loosened tendrils of honey-blond hair that fluttered becomingly around cheeks  pinkened  by the persistent sea breeze -- or perhaps by consciousness of being",
+      "human_category": "MAKE_PINK",
+      "model_category": "MAKE_PINK",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": "  eyes were green and catlike, her skin fair and clear, the type that  pinkened  from the slightest exertion, and her nose, long and thin, would have",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "  in the way a chilly breeze moved Francis's hair or how the cold had  pinkened  his face and made his eyes wet as he stood, alive, just a",
+      "human_category": "MAKE_PINK",
+      "model_category": "MAKE_PINK",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "  . \" \" Nobility wears well on you, kid. \" Whitman's cheeks  pinkened . \" In another world, I was a knight. Look, these cuffs",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "  emerge onto the deck. In haste, Frank had slipped on shorts. Sunlight  pinkened  his chest, arms and legs. He was young and beautiful -- why had",
+      "human_category": "MAKE_PINK",
+      "model_category": "MAKE_PINK",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "  sparkled underneath the heavy layer of eye coloring. Her mouth and cheeks had been  pinkened  to the same shade as her garb. Larissa glanced up at her in the",
+      "human_category": "APPLY_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": false
+    },
+    {
+      "id": 12,
+      "text": "  the unserious effect of \" birdbrain, \" because for the first time her cheeks  pinkened . She moved half-running toward the yard, and then her mother -- what,",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "  music pounding on the speakers and Jennifer stepping out of a steamy bath, skin  pinkened , wrapping her Athena-like body in a robe. He smiled. He would wait",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "  to see, \" Trent says. \" The ground is blackened, whitened and  pinkened  by the multitude of birds that fly in. \" # For many travellers,",
+      "human_category": "MAKE_PINK",
+      "model_category": "MAKE_PINK",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.9285714285714286,
+    "matches": 13,
+    "total": 14
+  },
+  "category_distribution": {
+    "BE(COME)_PINK": 6,
+    "MAKE_PINK": 6,
+    "ADJECTIVE": 1,
+    "APPLY_PINK": 1
+  }
+}

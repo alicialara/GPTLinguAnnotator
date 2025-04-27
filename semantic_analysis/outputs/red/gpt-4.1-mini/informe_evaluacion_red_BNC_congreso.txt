@@ -1,0 +1,21 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: BNC_congreso
+Palabra: red
+Modelo: gpt-4.1-mini
+Accuracy global: 0.8800
+Cohen's Kappa: 0.6725 (Acuerdo substancial)
+Número de muestras: 50
+
+Métricas por categoría:
+  NOUN: Precision=0.9730, Recall=0.9000, F1=0.9351, Count=40.0
+  ADJECTIVE: Precision=0.6154, Recall=1.0000, F1=0.7619, Count=8.0
+  BE(COME)_RED: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=1.0
+  NONE: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=1.0
+
+Mejor categoría por F1: NOUN (F1: 0.9351)
+Peor categoría por F1: ADJECTIVE (F1: 0.7619)
+
+Patrones de confusión más comunes:
+  HUMANO: NOUN -> GPT: ADJECTIVE: 4 casos
+  HUMANO: BE(COME)_RED -> GPT: ADJECTIVE: 1 casos
+  HUMANO: NONE -> GPT: NOUN: 1 casos

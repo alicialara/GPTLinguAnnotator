@@ -1,0 +1,375 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "whiten",
+  "corpus": "COHA",
+  "date": "27/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "  the Great Spirit. These jewels are from an old man, whose head is whitened with the snows of seventy winters, an old man who has thrown down his",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": false
+    },
+    {
+      "id": 2,
+      "text": "  rolls on, the feathery billows curl -- Unmindful how beneath their spray, all whitening in the deep, The bones of the young and old are strewn, where",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "  ? what do you make? we Proved him/it in marvelously the cardinality purgative of whitening substance. have care scud. this, this, this, this. this",
+      "human_category": "ADJECTIVE",
+      "model_category": "NOUN",
+      "match": false
+    },
+    {
+      "id": 4,
+      "text": "  Faithfully, truly as I love you? \" The little lass reddened, and whitened, and smiled, And answered him with her clear eyes of blue. \"",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "  close copse of young firs and elders, in whose midst a huge stump, whitened and splintered, rose some twenty-five feet into the air. Peter groaned audibly.",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 6,
+      "text": "  often beat upon them. The ground, alternately thawing and freezing, was frequently whitened with snow. And still these heroic men, with chivalry never surpassed in the",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": "  was frozen hard. Ice fringed the stream, and the flat marshy expanse was whitened with snow. For nearly a hundred miles the sluggish Kankakee flowed through a morass",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "  sugar-loaves! \" he cried. \" Quite the contrary; they are going to whiten it. The water that is contained in the clay will filter gradually through the",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "  of their course was passed, as night drew on, the sea began to whiten with swelling waves, and the east wind to blow a gale. The master",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "  woods: injured birds they had vainly nursed, dime-store turtles that had softened and whitened and died, a kitten slammed in a screen door, a chipmunk torn from",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "  his courser's mane. Swift though that courser bore his lord from home, Whitening his dusty flanks with flakes of foam, Yet for those flanks the rider felt",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": false
+    },
+    {
+      "id": 12,
+      "text": "  , between the pastor and his flock, The foamy crests are curled, That whiten o'er the waters of A quarter of the world. Footnote: 1Kb And if",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": false
+    },
+    {
+      "id": 13,
+      "text": "  Darts his glad beams to even the Atlantic shore, And lights the waves that whiten as they roar. But stop; -- while gazing upon eastern glory, The",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "  every tide, with lightning's speed, to sweep, Cleave every cloud that whitens o'er the deep, Tower o'er the heads of conquerors and kings, And soar",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": "  and hollow strain, And all thy haunts are fill'd with moans, And whitened by my nation's bones. But let me drop this strain of woe:",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "  decidedly offensive flavor; but it was little more in strength than sweetened water, whitened with milk. She drank off the cup, and then left the table,",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": false
+    },
+    {
+      "id": 17,
+      "text": "  almost looked like the parlour of a convent; with a little more austerity, whitened walls and a few thick velvet and gilt lives of the saints on the tables",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 18,
+      "text": "  into bloom; also the orange, with its flower-buds among its polished leaves, whitening for their own wedding; while high over them towered the date and other palms",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": "  I listen to thy sound, And, musing o'er the embers pale, With whitening ashes strewed around, The forms of memory unveil; Recall the many colored dreams",
+      "human_category": "ADJECTIVE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": false
+    },
+    {
+      "id": 20,
+      "text": "  arose after many weeks of suffering, with feeble and tottering steps, and locks whitened by suffering. Grief had done what time had not -- it had made him",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": "  's family. The lapse of twelve years. Change of their condition. Age whitens their locks. Conclusion. We will go back again to the Pacific valley.",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": false
+    },
+    {
+      "id": 22,
+      "text": "  ever hope to see, \" Trent says. \" The ground is blackened, whitened and pinkened by the multitude of birds that fly in. \" # For many",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 23,
+      "text": "  flaying with a whip; though the whip is generally thought to redden, not whiten, the negro.) The black did not seem at all alarmed, for",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_IDENTITY_WHITE",
+      "match": false
+    },
+    {
+      "id": 24,
+      "text": "  , a department of poetry. We hear much of the white wings of commerce whitening the shores of continents. A ship is indeed a very beautiful object, but",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 25,
+      "text": "  forest which resounds to the stroke of the woodman's axe, every field which whitens to the harvest, every road, lake, river and ocean, on which",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "  and the negro. The Ethiopian can not change his skin, but true religion whitens his soul and makes him our brother. \" \" Your sentiment is good,",
+      "human_category": "MAKE_PURE",
+      "model_category": "MAKE_PURE",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": "  , with illusions of refreshing springs, only to leave his bones at last to whiten by the side of those of his unremembered predecessors. Every day there came something",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": false
+    },
+    {
+      "id": 28,
+      "text": "  , the childs mother was taken down by a jewel- collared lioness. Alexanders hands whitened on the iron-grated door as another lioness raced after the child. Run, girl",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 29,
+      "text": "  lily hands Still as unwrinkled as her face, while snows Of threescore years had whitened on her head, Her heart and brain held a whole lifetime full Of sympathy",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": false
+    },
+    {
+      "id": 30,
+      "text": "  years. The popularity of both the undead white man and the newly dead, whitened, black man points to what anthropological studies of popular cinema have long taken into",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 31,
+      "text": "  , and those very few who were non-whites, of whatever racial background \" have whitened skin by virtue of being dead \" (Dyer 1997:212). Not only are",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 32,
+      "text": "  as he walks through a halogen-lit bar. His spray tan glows; his chemically whitened teeth shine. The girls do not look until he passes, but when he",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 33,
+      "text": "  velveteen, the over-short skirt of which barely reached to the tops of her freshly whitened spats. Her wide hat was tipped to a rakish angle. She was young",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 34,
+      "text": "  -- he spoke very gently -- \" I'll see them. \" Her face whitened. \" Oh, no! There isn't anything to say. Felix,",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 35,
+      "text": "  roll on! -- thy billows bear me far -- And if my bones must whiten in the wave, Beneath the influence of malignant star, I would not ask",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 36,
+      "text": "  was swarming through the slits of the shutter; a faint reflection from the already whitened fences glimmered in the panes. She shut the window hastily, with a little",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 37,
+      "text": "  \" he came in out of a swarming cloud of whirling flakes, blinded and whitened. There was a hurried consultation with the landlord, the exhibition of much imperious",
+      "human_category": "ADJECTIVE",
+      "model_category": "BE(COME)_WHITE",
+      "match": false
+    },
+    {
+      "id": 38,
+      "text": "  who tried to purge the African strain of his people; he dreamed of \" whitening \" his island to make it more European and even used bleach to whiten his",
+      "human_category": "MAKE_IDENTITY_WHITE",
+      "model_category": "MAKE_IDENTITY_WHITE",
+      "match": true
+    },
+    {
+      "id": 39,
+      "text": "  \" whitening \" his island to make it more European and even used bleach to whiten his own brown skin. // Yet, despite his ironfisted persona, Trujillo fancied",
+      "human_category": "BLEACH",
+      "model_category": "MAKE_IDENTITY_WHITE",
+      "match": false
+    },
+    {
+      "id": 40,
+      "text": "  McGee's blackness. Indeed, the tone, a subdued salmon pink, almost whitens Big Bo. Pink hides Big Bo in plain sight, calling attention to his",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 41,
+      "text": "  are shun like ordinary wool, and woven into cloth. And when they would whiten those cloths, they cast them into the fire for an hour, and then",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "  , Mark you, Don Leon, how the waters leap, And the seas whiten. Here are ugly rocks. Leon. Leon. The billows rush on madly",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 43,
+      "text": "  undoes us. The shrill scream Of one poor gull, that, o'er the whiten'd foam, Hung with gray wing suspended, breaks no more Fitfully on the",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 44,
+      "text": "  tumbling gulfs, To yon tall rock, now beetling black and vast Above the whiten'd billows. Boldly speed, Nothing misdoubting, howsoever strange The thing that rises",
+      "human_category": "ADJECTIVE",
+      "model_category": "BE(COME)_WHITE",
+      "match": false
+    },
+    {
+      "id": 45,
+      "text": "  which immediately follow. Here he has thrown off his youth, his hair has whitened, his voice is broken to a childish treble, his very limbs are shrunken",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 46,
+      "text": "  to me a study of singular interest. Though still young, his head was whitened and bowed like that of an old man, his face wrinkled, and his",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 47,
+      "text": "  Great bloom-laden branches swept into your face, and here and there the streams were whitened with the flakes of the fallen petals. We spent several unhappy days on the",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 48,
+      "text": "  the lottom, as shown in Figure 4, a pan of enameled iron or whitened earthen ware being inserted at the top for better N appearance. From the highest",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 49,
+      "text": "  marched on. Whether it was typhoid fever or simple \" malaria \" that had whitened his face there was no chance to inquire. He was munching an apple,",
+      "human_category": "MAKE_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": false
+    },
+    {
+      "id": 50,
+      "text": "  of basalt, stained with orange, and rust, and deep green, and whitened with bird-droppings. From the foot of the cliffs and the little crescents of shingle",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.72,
+    "matches": 36,
+    "total": 50
+  },
+  "category_distribution": {
+    "BE(COME)_WHITE": 13,
+    "ADJECTIVE": 13,
+    "MAKE_WHITE": 9,
+    "COAT_WITH_WHITE": 7,
+    "BE(COME)_PALE": 3,
+    "BLEACH": 2,
+    "MAKE_PURE": 1,
+    "MAKE_IDENTITY_WHITE": 1,
+    "MAKE_PALE": 1
+  }
+}

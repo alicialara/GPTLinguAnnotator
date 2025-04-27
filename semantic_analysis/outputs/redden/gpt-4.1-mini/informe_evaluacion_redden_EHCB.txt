@@ -1,0 +1,24 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: EHCB
+Palabra: redden
+Modelo: gpt-4.1-mini
+Accuracy global: 0.7500
+Cohen's Kappa: 0.6520 (Acuerdo substancial)
+Número de muestras: 72
+
+Métricas por categoría:
+  BLUSH: Precision=0.9355, Recall=0.9667, F1=0.9508, Count=30.0
+  NONE: Precision=1.0000, Recall=0.9000, F1=0.9474, Count=20.0
+  REPEATED: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=12.0
+  BE(COME)_RED: Precision=0.4118, Recall=0.7000, F1=0.5185, Count=10.0
+  MAKE_RED: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=0.0
+
+Mejor categoría por F1: BLUSH (F1: 0.9508)
+Peor categoría por F1: REPEATED (F1: 0.0000)
+
+Patrones de confusión más comunes:
+  HUMANO: REPEATED -> GPT: BE(COME)_RED: 10 casos
+  HUMANO: BE(COME)_RED -> GPT: MAKE_RED: 3 casos
+  HUMANO: REPEATED -> GPT: BLUSH: 2 casos
+  HUMANO: NONE -> GPT: MAKE_RED: 2 casos
+  HUMANO: BLUSH -> GPT: MAKE_RED: 1 casos

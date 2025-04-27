@@ -1,0 +1,28 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: COCA
+Palabra: whiten
+Modelo: gpt-4.1-mini
+Accuracy global: 0.6800
+Cohen's Kappa: 0.5710 (Acuerdo moderado)
+Número de muestras: 50
+
+Métricas por categoría:
+  NOUN: Precision=0.7200, Recall=0.9474, F1=0.8182, Count=19.0
+  MAKE_WHITE: Precision=0.8571, Recall=0.5455, F1=0.6667, Count=11.0
+  ADJECTIVE: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=8.0
+  BLEACH: Precision=0.4545, Recall=0.8333, F1=0.5882, Count=6.0
+  BE(COME)_PALE: Precision=1.0000, Recall=1.0000, F1=1.0000, Count=2.0
+  BE(COME)_WHITE: Precision=1.0000, Recall=0.5000, F1=0.6667, Count=2.0
+  COAT_WITH_WHITE: Precision=1.0000, Recall=1.0000, F1=1.0000, Count=1.0
+  MAKE_IDENTITY_WHITE: Precision=0.5000, Recall=1.0000, F1=0.6667, Count=1.0
+
+Mejor categoría por F1: NOUN (F1: 0.8182)
+Peor categoría por F1: ADJECTIVE (F1: 0.0000)
+
+Patrones de confusión más comunes:
+  HUMANO: ADJECTIVE -> GPT: NOUN: 7 casos
+  HUMANO: MAKE_WHITE -> GPT: BLEACH: 5 casos
+  HUMANO: NOUN -> GPT: MAKE_IDENTITY_WHITE: 1 casos
+  HUMANO: BLEACH -> GPT: ADJECTIVE: 1 casos
+  HUMANO: BE(COME)_WHITE -> GPT: MAKE_WHITE: 1 casos
+  HUMANO: ADJECTIVE -> GPT: BLEACH: 1 casos

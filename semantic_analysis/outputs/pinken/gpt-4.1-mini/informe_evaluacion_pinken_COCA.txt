@@ -1,0 +1,19 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: COCA
+Palabra: pinken
+Modelo: gpt-4.1-mini
+Accuracy global: 0.9286
+Cohen's Kappa: 0.8803 (Acuerdo casi perfecto)
+Número de muestras: 14
+
+Métricas por categoría:
+  BE(COME)_PINK: Precision=0.8571, Recall=1.0000, F1=0.9231, Count=6.0
+  MAKE_PINK: Precision=1.0000, Recall=1.0000, F1=1.0000, Count=6.0
+  ADJECTIVE: Precision=1.0000, Recall=1.0000, F1=1.0000, Count=1.0
+  APPLY_PINK: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=1.0
+
+Mejor categoría por F1: MAKE_PINK (F1: 1.0000)
+Peor categoría por F1: BE(COME)_PINK (F1: 0.9231)
+
+Patrones de confusión más comunes:
+  HUMANO: APPLY_PINK -> GPT: BE(COME)_PINK: 1 casos

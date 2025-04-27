@@ -1,0 +1,375 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "white",
+  "corpus": "EHCB",
+  "date": "27/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "cleane remoued, euen vnto the foundation, and the place where they stoode, paued, and the wall wherevnto they ioyned, whited ouer, and made vniforme with the rest, so as no breach or rupture appeare? </s><s> And whether your Roodloftes be taken downe,",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "and bright, </s><s> To stay the Canker of the Teeth, </s><s> To take away the stinking of the Mouth, </s><s> For the stinking of the Teeth, </s><s> To white and take the wrinkles out of the Hands, </s><s> For the Cough, take Hysope and Folefoot, </s><s> For the Squinancie,Carduus Benedictus",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "from the frost, 606. their diseases, and remedies thereof. 607 </s><s> he blacke Vine plant, 600. foure kinds of it. ibid. </s><s> he white Vine plant, and the kinds thereof. 601 </s><s> he husbandrie of the Vine, both young and old, and their sundrie earings. 602 </s><s> he",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": "opera tenebrarum, the workes of darknesse: And then, if you will, let this mansion be outwardly pargetted, and whited ouer. </s><s> Make they shew of hauing the Holy Ghost on Sundaies, so they retaine the foule deuill all the weeke. </s><s> These are they,",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "ſon Feu. </s><s> Bathe there bright Beauties: Honors Paradiſe </s><s> To thoſe high Mountaines well may you entiſe. </s><s> Mountaines all whited with eternall Snowe </s><s> Flancke the one part; Immortall verdures flowe, </s><s> Vpon a Plaine, that''s louely Beauties pride: </s><s> The",
+      "human_category": "MAKE_WHITE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 6,
+      "text": "whiche are commaunded Chriſtianes ſo doe (which in our religion muſt neades be done onles we </s><s> Certainlie it maye well be a whited toumbe ſet furth with colours to delite the beholders: but it ſhalbe no commō weale truely inſtitute, as in which thoſe",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": "they seeme to cary the name of the Church of Christ. </s><s> For (as the same S. Austen saith in another place) heretiques are only whited ouer with the name of Christians.Si haeretici sunt (as Tertullian saith) Christiani esse non possunt. </s><s> If they be",
+      "human_category": "MAKE_PURE",
+      "model_category": "CONCEAL",
+      "match": false
+    },
+    {
+      "id": 8,
+      "text": "doe no good to purge thy soule, thou wilt at last dwell at the signe of the labour in vaine, and at once be wash''d white with the Moore. </s><s> For, if any will be vniust, let him be vniust: if he will be filthy, let him be filthy still. </s><s> If any man will",
+      "human_category": "ADJECTIVE",
+      "model_category": "MAKE_PURE",
+      "match": false
+    },
+    {
+      "id": 9,
+      "text": "sion?) in saying that the one halfe of his sorrowe is diminished, if his freend be merrie. </s><s> NOt Amasis doubtlesse, (who whites he shewed himself very loathe to lament the calamitie of Polycrates, to whome he wished happinesse) sent vnto him an",
+      "human_category": "NONE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 10,
+      "text": "image, though it be ſet vpon an high mountaine, </s><s> EVen as a cloud darkeneth the aire, and couereth the ſunne: </s><s> AS a wall all whited on the out ſide, is not eaſily perceiued, </s><s> AS thoſe things which agrée not with our nature, and haue </s><s> EVen as the bough of a",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 11,
+      "text": "a Brother, and heire with Christ, and to apply a name appropriate to Gods Saints unto such, as they esteeme no better then whited tombes, and painted sepulchers. </s><s> And because folly is the especiall object of contempt, they are come to that height of",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "CONCEAL",
+      "match": false
+    },
+    {
+      "id": 12,
+      "text": "of minde: drerie. </s><s> Afare? </s><s> Afare ſia, nay, if it be ſo? do your worſt, I care not for you. </s><s> Affare, as Confare. </s><s> Affarinare, to white with flower or meale. </s><s> Affarſi, to beſeeme, to be ſeemely, to be conuenient, to agree with. </s><s> Affaſciare, to ſwathe, to",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "vndeſired. </s><s> Ingeríto, brought, carried, put or brought in, throwen or caste downe, preſſed into. </s><s> Ingeſſare, to white with chalke, to chalke. </s><s> Inghiottire, tiſco, tito, to englut, to glut, to ſwallow, to deuour. </s><s> Inghiottonare, to become",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": false
+    },
+    {
+      "id": 14,
+      "text": ", who it is that makes this criminall Accusation; then, against whom it is made: painted, but rotten Sepulchres, whited , but stinking Dunghills; against him that was blamelesse in his life, and in his Doctrine diuine and heauenly. </s><s> The",
+      "human_category": "ADJECTIVE",
+      "model_category": "CONCEAL",
+      "match": false
+    },
+    {
+      "id": 15,
+      "text": ", take your places quickly. </s><s> Nay, nay, leaue ceremony: sound to the entrance. </s><s> Florish. </s><s> Enter Rhetias, his face whited , blacke shag haire, long nailes, a piece of raw meate. </s><s> Rhet. </s><s> Bow, Bow, wow, wow; the Moone''s eclipsed, Ile to the",
+      "human_category": "ADJECTIVE",
+      "model_category": "MAKE_WHITE",
+      "match": false
+    },
+    {
+      "id": 16,
+      "text": "beholding that inestimable Iewell, which as farre excelled all the rest of the Ladies as the Sunne doth the Moone, or white his contrary: who with such comely modesty behaued her self, that her looke did rightly resemble a countenance ful of",
+      "human_category": "MAKE_WHITE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 17,
+      "text": "the world, were asked, how he would turne these wordes into Hebrue, Similes estis sepulchris dealbatis: you are like to whited graues: And, Sepulchrum eius apud vos est: His graue is among you: would any Hebrue I say translate it by this Hebrue",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "CONCEAL",
+      "match": false
+    },
+    {
+      "id": 18,
+      "text": "presence of ye throne of god. </s><s> Brist. saith, this word therefore, is referred to their comming out of affliction, and so whited their stoles: And yet this gloser (saith he of me) taketh it away from the affliction, whereas that whiting was nothing",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_PURE",
+      "match": false
+    },
+    {
+      "id": 19,
+      "text": "Ayre drawne in for breath, doth choake as soone as stopping of the Breath. </s><s> As by burning charcoale, or by the smell of new whited walles in a close chamber Iustinian and others have beene choaked. </s><s> Fausta, the wife of Constantine the great, was",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 20,
+      "text": "seed hauing a fine white plume like a feather fastned to it, which maketh in the winter a goodly shew, couering the hedges white all ouer with his feather-like tops. </s><s> The root is long, tough, and thicke, with many strings fastned thereto. </s><s> 2 Clusius",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": "<s> Be wash''d away, but the red guilt of blood </s><s> Sticks as a blacke infection to the soule, </s><s> That like an Aethiop cannot be wash''d white , </s><s> A shout within. </s><s> Enter Corimba and Frangipan. </s><s> Thinke upon this, and know I must with griefe </s><s> pronounce your fatall",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 22,
+      "text": "of high Treaſon. </s><s> BECH was hanged at Colcheſter, and FARINGDON with two Prieſts named RVG and OGNION at Reding. </s><s> WHITING a man very aged, and by reaſon therof doting, ſcarce perceiving that he had beene condemned, returning from the place of",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 23,
+      "text": "which gates they do shut and open by order and licence of their captaines, which is sent vnto them euery day, written in whited tables, and their fine vnto it. </s><s> These gates are the force of all the cittie, and thereon is planted all the artilerie they",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 24,
+      "text": "they shall not procure to goe about their cities, neither to see the secrets thereof. </s><s> And this is giuen in writing vpon a whited table, which is set vpon the fore partes of their ships, that when they come to an anker in any port it may be séene of the",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 25,
+      "text": "him and his seruants, and in what townes, and howe hee shall be lodged. </s><s> His safe conduct is brought him, written vppon a whited table (after the fashion as we haue tolde you heere before in manie places) and is with great l tters, wherein is",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "it the waiters or guardes of the water side, will not suffer them to put foote a land. </s><s> This licence was written vpon a borde whited , and firmed by the Iustice, whose charge it is to giue the licence. </s><s> Then when they came a shoore, there were the souldiers",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": "vnto him the religious men, and all the rest that came in their company: before them all came one that carried a table all whited , and thereon was written certaine great letters with blacke ynke, the which (as after they vnderstood) was the licence",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 28,
+      "text": "buſineſſes on the Sabbath day, and pleads conſcience, wilt thou ſmite him and whip him? </s><s> God will ſmite thee, thou whited wall. </s><s> How dareſt thou ſmite him, and ſo cauſe him to doe that for which God will whip him worſer? </s><s> Shew mercy to thoſe under",
+      "human_category": "ADJECTIVE",
+      "model_category": "CONCEAL",
+      "match": false
+    },
+    {
+      "id": 29,
+      "text": "loue tro? lett me looke as redde as scarlet a fore I see thee, and when thou comst in sight if the sunne of thy bewtie, doe not white me like a sheppards hollandl am a Iewe to my Creator. </s><s> Hip. </s><s> O excellent. </s><s> Rud. </s><s> Let mee burst like a Tode, if a frowne of thy",
+      "human_category": "MAKE_WHITE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 30,
+      "text": ", sayth Christ, beare witnesse of the euill: but if well, why smitest thou me? </s><s> So Paul to Ananias God will smite thee thou whited wall: for Sittest thou to Iudge me after the Law, and commandest me to be smitten contrary to the Law? </s><s> So Abraham pleads to",
+      "human_category": "ADJECTIVE",
+      "model_category": "CONCEAL",
+      "match": false
+    },
+    {
+      "id": 31,
+      "text": "Phariſes, whoſe whole practiſe was to bee ſeene of men, not to approue themſelues to God: and ſo Chriſt compares them to whited tombes. </s><s> For there is a contrariety be weene Gods will and mans will, and what pleaſeth man pleaſeth not him: and ſo if we",
+      "human_category": "ADJECTIVE",
+      "model_category": "CONCEAL",
+      "match": false
+    },
+    {
+      "id": 32,
+      "text": "pare ts for to pro e your birth. </s><s> She ſhowes there a mole, the Queene runs and embraceth her. </s><s> Hydaſp. </s><s> You ſtrive to wiſh me white an Aethiopian </s><s> In hin ering this ſacrifice, you ſhall </s><s> Doe one aſwell as tother, for although </s><s> I now believe ſhe is my",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 33,
+      "text": "parents for to prove your birth. </s><s> She ſhowes there a mole, the Queene runs and embraceth her. </s><s> Hydaſp. </s><s> You ſtrive to waſh me white an Aethiopian </s><s> In hin ering this ſacrifice, you ſhall </s><s> Doe one aſwell as tother, for although </s><s> I now believe ſhe is my",
+      "human_category": "REPEATED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 34,
+      "text": "a farre To be a radyant Starre Hyr butned, ruby chinne, hir face, and eke hir necke did shine, As though they were with Iu ry white all burnisht maruelous fine. </s><s> Hir prety nose is somewhat shorte, it well becōmes hyr face, Hir fryseled heare in",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 35,
+      "text": "perewigs, with hartes fro thence that hāgs, </s><s> With veluet cappes, and plumes, they doe adorne their heddes, </s><s> With red & white they painte their face, to tice thē to there beddes. </s><s> There partlets set with spangs, come close vnto their chinne, </s>",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 36,
+      "text": "and a Dragon, to whom the wicked hypocrites attribute title of Lord God the Pope. </s><s> S. Paul likened the High prieſt to a whited wall; and Dauid the wicked Princes to dogs and bulls▪ but all theſe had the ſpirit of propheſie and diſcerning. </s><s> But the",
+      "human_category": "ADJECTIVE",
+      "model_category": "CONCEAL",
+      "match": false
+    },
+    {
+      "id": 37,
+      "text": "the meale man to wipe it out of his necke, and stoopte downe his head, the meale man laughing to sée him so rayed and whited , was willing to shake off the meale, and the whilst, while hee was busie about that, the Nippe had stroken the purse and",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 38,
+      "text": "joy: and where the Embleme of whitenesse is once had; the Motto of joy and gladnesse will not long be behind. </s><s> But we must be whited first; for while the blacknesse of sinne remaines in the soule; there can be no Embleme of whitenesse engraven upon it:",
+      "human_category": "MAKE_PURE",
+      "model_category": "MAKE_PURE",
+      "match": true
+    },
+    {
+      "id": 39,
+      "text": "the blacknesse of sinne remaines in the soule; there can be no Embleme of whitenesse engraven upon it: but if once we be whited by Gods washing; and have the Embleme upon us; this Motto, wee may be sure, will be added to the Embleme; Hee will make us",
+      "human_category": "MAKE_PURE",
+      "model_category": "MAKE_PURE",
+      "match": true
+    },
+    {
+      "id": 40,
+      "text": "that his ſweat, </s><s> Then had they rather runne and the lother to lete. </s><s> And another cauſe when the Hart no more may, </s><s> Then will he white froth caſt where he goeth away: </s><s> And when the Hounds find of that then they are glad, </s><s> In hope they ſhall haue him, and run as",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 41,
+      "text": "? that neuer layeth them abroad a ſunning, to beate out the duſt of them, nor neuer layeth them in water, to waſh & white them, be they neuer ſo foule. </s><s> And albeit the beds and other implements lent to the Courtier, bee not of any great value,",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "most deceiue our sight; as of Wolues masked vnder Sheepe skinnes, of tombes, or monuments, which on the outside are whited over, and sometimes set out with curious works, in mettals and carved stones, of diverse colours, but within are ful of",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 43,
+      "text": ", wherein diuers handsome buildings and houses were set vp, and especially one which was a Church, which was tyled & whited on the outside very faire, and made with a porch, and within the Church at the vpper end was set an altar, whereon stood a",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 44,
+      "text": "thy ſelfe if thou think thoſe ſhewes that blear''d the eies of the world, can deceiue him. </s><s> God ſhal ſmite thee thou whited wall, God ſhall ſmite thee. </s><s> Doeſt thou thinke hee ſees not how ſmoothly thou haſt daubed on thine whoriſh complexion? </s>",
+      "human_category": "ADJECTIVE",
+      "model_category": "CONCEAL",
+      "match": false
+    },
+    {
+      "id": 45,
+      "text": "my will, aetheriall dietie. </s><s> Elizabeth, </s><s> Combinde with thee, oh cheerfull cordiall knot: </s><s> No priuate quarell could white Albion fame: </s><s> VVith blood and rapine fierce diſſention blot, </s><s> Fury it ſelfe, within it ſelf did rot. </s><s> Two parted Roſes",
+      "human_category": "CONCEAL",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 46,
+      "text": "<s> The church may ſubſiſt, yea, flouriſh without friars, but not without prieſts, as for many ages it hath done. </s><s> For be they white , black, or gray, they are of a latter inſtitute then the prieſts, theſe being the ſucceſſors of the Apoſtles, & the 42.",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 47,
+      "text": "the ſame.Iovinian the Emperour travelling towards Rome in the Winter-ſeaſon, by the way was lodged in a roome newly whited with lime, in the which, to aire the roome, was made a great fire of char-coale, and the next morning this Emperour was",
+      "human_category": "BLEACH",
+      "model_category": "COAT_WITH_WHITE",
+      "match": false
+    },
+    {
+      "id": 48,
+      "text": ", and comfort the patients weake ſpirits. </s><s> The colour of the walls come alſo here within our conſideration; which if whited with lime or chaulke, are likewiſe offenſive;Hippocrates. </s><s> That it is not ſufficient for the Phyſitian to play his part",
+      "human_category": "BLEACH",
+      "model_category": "COAT_WITH_WHITE",
+      "match": false
+    },
+    {
+      "id": 49,
+      "text": "with all filthyneſſe and malice, yea altogether like vnto dead mennes graues, whiche although they ſhewe outwardly whited , and garniſhed, yet inwardly they abounde with poyſoned, and abhominable filthyneſſe: therfore, they doe not gladly",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "CONCEAL",
+      "match": false
+    },
+    {
+      "id": 50,
+      "text": "this is. </s><s> To every such a one I may say as the Apostle doth in another case unto Ananias Acts 23.3. </s><s> God shall smite thee thou whited wall that usest to cover thy rottennesse with this vernish. </s><s> How soone he will smite thee, or in what manner or degree he",
+      "human_category": "ADJECTIVE",
+      "model_category": "CONCEAL",
+      "match": false
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.5,
+    "matches": 25,
+    "total": 50
+  },
+  "category_distribution": {
+    "ADJECTIVE": 23,
+    "COAT_WITH_WHITE": 10,
+    "MAKE_WHITE": 7,
+    "MAKE_PURE": 3,
+    "NOUN": 2,
+    "BLEACH": 2,
+    "NONE": 1,
+    "REPEATED": 1,
+    "CONCEAL": 1
+  }
+}

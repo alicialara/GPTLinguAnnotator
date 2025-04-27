@@ -1,0 +1,39 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: COCA
+Palabra: blacken
+Modelo: gpt-4.1-mini
+Accuracy global: 0.6800
+Cohen's Kappa: 0.6400 (Acuerdo substancial)
+Número de muestras: 50
+
+Métricas por categoría:
+  MAKE_BLACK: Precision=0.7500, Recall=0.6667, F1=0.7059, Count=9.0
+  BE(COME)_BLACK: Precision=0.4286, Recall=0.3750, F1=0.4000, Count=8.0
+  DEFAME: Precision=0.8000, Recall=1.0000, F1=0.8889, Count=8.0
+  ADJECTIVE: Precision=0.4000, Recall=0.5000, F1=0.4444, Count=4.0
+  CORRUPT: Precision=0.7500, Recall=0.7500, F1=0.7500, Count=4.0
+  NOUN: Precision=0.7500, Recall=1.0000, F1=0.8571, Count=3.0
+  PAINT_BODY_BLACK: Precision=0.6667, Recall=0.6667, F1=0.6667, Count=3.0
+  APPLY_BLACKING: Precision=1.0000, Recall=1.0000, F1=1.0000, Count=2.0
+  BURN: Precision=1.0000, Recall=1.0000, F1=1.0000, Count=2.0
+  NONE: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=2.0
+  BO_LIGHTS_OFF: Precision=0.5000, Recall=1.0000, F1=0.6667, Count=1.0
+  BO_OBLITERATE: Precision=1.0000, Recall=1.0000, F1=1.0000, Count=1.0
+  BO_TURN_OFF: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=1.0
+  BRUISE: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=1.0
+  COOKERY: Precision=1.0000, Recall=1.0000, F1=1.0000, Count=1.0
+
+Mejor categoría por F1: DEFAME (F1: 0.8889)
+Peor categoría por F1: BE(COME)_BLACK (F1: 0.4000)
+
+Patrones de confusión más comunes:
+  HUMANO: BE(COME)_BLACK -> GPT: ADJECTIVE: 2 casos
+  HUMANO: MAKE_BLACK -> GPT: ADJECTIVE: 1 casos
+  HUMANO: PAINT_BODY_BLACK -> GPT: NOUN: 1 casos
+  HUMANO: ADJECTIVE -> GPT: BE(COME)_BLACK: 1 casos
+  HUMANO: BO_TURN_OFF -> GPT: BO_LIGHTS_OFF: 1 casos
+  HUMANO: BE(COME)_BLACK -> GPT: DEFAME: 1 casos
+  HUMANO: BE(COME)_BLACK -> GPT: CORRUPT: 1 casos
+  HUMANO: BE(COME)_BLACK -> GPT: MAKE_BLACK: 1 casos
+  HUMANO: MAKE_BLACK -> GPT: BE(COME)_BLACK: 1 casos
+  HUMANO: MAKE_BLACK -> GPT: PAINT_BODY_BLACK: 1 casos

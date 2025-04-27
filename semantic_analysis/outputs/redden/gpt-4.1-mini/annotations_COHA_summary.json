@@ -1,0 +1,371 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "redden",
+  "corpus": "COHA",
+  "date": "27/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "sacrificed by a good many conscripts... my self-respect. \" The captain reddened. His voice, which had been even, rose angrily. \" And you",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "love me, Faithfully, truly as I love you? \" The little lass reddened, and whitened, and smiled, And answered him with her clear eyes of",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "as a yearlin' heifer! \" CHAPTER II. When first morning began to redden over the eastern stars, our household was astir; and, while we partook",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": "hopeless, and that advance was certain death. La Salle had no wish to redden his hands with their blood. In this emergence Father Hennepin in the peaceful garb",
+      "human_category": "MAKE_RED",
+      "model_category": "MAKE_RED",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "it reached the row of victims, over whom it crunched, taking the water reddened with their blood amid an uproar of shrieks and groans most dreadful to listen to",
+      "human_category": "BE(COME)_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 6,
+      "text": ", and there feed him like a white-man. \" Alas! how my cheeks reddened beneath their brown covering at my unworthy fate! how my blood boiled to think",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": "is for you alone. Angelina is, well... \" His face reddened and he examined the file closely. \" Whoopee! \" I shouted. \"",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": ", the feather, Are perfect nature, all together! \" The painter, reddening with despite, Whispers, \" My friend, by Jove, you're right",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "must be the African, Native American, and European mingling in my skin, reddened by the sun, and glossed over by sweat dripping from my brow. My",
+      "human_category": "MAKE_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 10,
+      "text": ", \" is the line the Mingotts mean to take. \" The young man reddened. \" I didn't have to wait for their cue, if that's",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": ", then; for somebody met' em living at Lausanne together. \" Newland reddened. \" Living together? Well, why not? Who had the right to",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 12,
+      "text": "so intelligent. Are you very much in love with her? \" Newland Archer reddened and laughed. \" As much as a man can be. \" She continued",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "all my old life, to become just like everybody else here. \" Archer reddened. \" You'll never be like everybody else, \" he said. She",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "\" he will send her a bunch of yellow roses tomorrow morning? \" Archer reddened, and his heart gave a leap of surprise. He had called only twice",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": "at him. \" Well, then -- I don't understand. \" Archer reddened, and hurried on with a rush. \" We had a frank talk -- ",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "I don't understand you! \" \" Yet you understand May! \" He reddened under the retort, but kept his eyes on her. \" May is ready",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "or in a tone less encouraging to the vanity of the person addressed. Archer reddened to the temples, but dared not move or speak: it was as if",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 18,
+      "text": "if this is the line you took with the Countess Olenska? \" M. Riviere reddened, but his eyes did not falter. \" No, Monsieur: I accepted",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": "of his own bluster. M. Riviere had succeeded in imposing himself: Archer, reddening slightly, dropped into his chair again, and signed to the young man to",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 20,
+      "text": "been in use during breakfast in the last explanations to Elmer. Ned's face reddened in new anger. He did not resent what the young reporter was doing;",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": "in any area that the boats reached, and in time the Bering Sea was reddened with their blood. But again, a shocking eighty percent of all seals killed",
+      "human_category": "BE(COME)_RED",
+      "model_category": "MAKE_RED",
+      "match": false
+    },
+    {
+      "id": 22,
+      "text": "and it was only -- interested. It was growing late, and the sun reddened and rested awhile on the hilly horizon, teaching the clouds to be inverted flames",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 23,
+      "text": "be. The ship thrust forward as the spiral galaxies dropped behind now, Doppler reddened into dying embers. The ship had swept clean the space between them, postponed",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 24,
+      "text": "\" Notice it! It fills all the horizon, \" laughed Hope, with reddening cheeks. \" We supposed that the Governor-General, at the very least, had",
+      "human_category": "ADJECTIVE",
+      "model_category": "BLUSH",
+      "match": false
+    },
+    {
+      "id": 25,
+      "text": "\" \" The villain! \" exclaimed Paul, with emphasis, as his check reddened with indignation. \" He is a hard man, Paul; but reproaches are",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": ". \" You needn't add insult to wrong. \" Mr. Gray's countenance reddened, and he looked angry. \" If there is insult in the case it",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": "\" has anything troubled you of late? \" Her face flushed and her eyes reddened. \" If there has, Polly, and I can help you in any",
+      "human_category": "EYES_RED",
+      "model_category": "EYES_RED",
+      "match": true
+    },
+    {
+      "id": 28,
+      "text": "temperament, not' arf, he thought as he saw occasional flushes of circulation redden and fade on the customer's skull. A sprinkle of witch' azel for",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 29,
+      "text": "have known how I'd feel without asking me. \" I saw his face redden at that, and I was glad if I had hurt him. \" Many",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 30,
+      "text": "or she was monstrously clever. Her sad and beautiful eyes watched blandly as Will reddened and then shifted uncomfortably; and for a moment Mrs Coulter looked uncannily like her",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 31,
+      "text": "Suppose all elucidated. I might prove after all to be a -- my face reddened then. Better to be a child of mystery than of shame. And yet",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 32,
+      "text": "box. \" Is that what you seek, my lord? \" His lordship reddened, but took the box without a word. \" I ask your lordship if",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 33,
+      "text": "and dissipates as a method of cooling down. The dissipation causes the skin to redden. To cool down, the body produces sweat. When the external temperature decreases",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 34,
+      "text": "are needed for the consumption of the one city, and broad fifty-acre fields, reddened with enormous products, send many hundred bushels of strawberries daily into the other.",
+      "human_category": "BE(COME)_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 35,
+      "text": ", and somewhat obconic; surface smooth, rich yellow with greenish specks, slightly reddened in the sun; stalk an inch and a half long, rather stout,",
+      "human_category": "BE(COME)_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 36,
+      "text": ", approaching obconic-turbinate; surface smooth, greenish yellow, a little darker and sometimes reddened towards the sun; stalk stout, an inch to an inch and a fourth",
+      "human_category": "BE(COME)_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 37,
+      "text": "; basin very shallow; skin a fine yellow, with a warm cheek brightly reddened at the crown; and with radiating stripes of greenish yellow from the calyx;",
+      "human_category": "BE(COME)_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 38,
+      "text": "agitating the flask. The oil, which is acidulated, and which then powerfully reddens litmus paper, is decanted. It is also a little colored, but remains",
+      "human_category": "MAKE_RED",
+      "model_category": "MAKE_RED",
+      "match": true
+    },
+    {
+      "id": 39,
+      "text": "even tell you how many spoonfuls to sprinkle into the inhaler. \" The contempt reddened Will's cheeks. But he still didn't move. Drew cast an anxious",
+      "human_category": "MAKE_RED",
+      "model_category": "BLUSH",
+      "match": false
+    },
+    {
+      "id": 40,
+      "text": "a process of flaying with a whip; though the whip is generally thought to redden, not whiten, the negro.) The black did not seem at all",
+      "human_category": "MAKE_RED",
+      "model_category": "MAKE_RED",
+      "match": true
+    },
+    {
+      "id": 41,
+      "text": "and close array that veteran infantry emerged from the pine trees into the clearing, reddening the whole extent with their scarlet uniforms. Jn double-quick time, with their standards",
+      "human_category": "MAKE_RED",
+      "model_category": "MAKE_RED",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "the first wild Indian that ran to pick her up. \" Edward's cheek reddened perceptibly. \" Or she might marry a snob, \" he said. \"",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 43,
+      "text": "Although I really only still had moonlight to see by, I swear his cheeks reddened. \" I had trouble sleeping. I kept doing math in my head.",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 44,
+      "text": "that there are no other ways in. \" When Ariana returned, her eyes reddened but her expression determined, they tallied up the food resources at the outpost.",
+      "human_category": "EYES_RED",
+      "model_category": "EYES_RED",
+      "match": true
+    },
+    {
+      "id": 45,
+      "text": "see it, who knew whether he cared, whether that was why his face reddened and then crumpled. # Whether that was because he had cut himself clear of",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 46,
+      "text": "his head issued navigational instructions. Outside his faceplate, the rotations about new axes reddened the blues and purples. He moved along new timelike dimensions, traveling backwards along",
+      "human_category": "MAKE_RED",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 47,
+      "text": "a family? Hell yes, I do! \" Seeing his face, she reddened and turned away from him, rinsed her empty bottle in the sink, set",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 48,
+      "text": ", with pink, heavy-framed glasses, a mane of Maraschino red hair, cheeks reddened by the cold, and a passing resemblance to a Matrix era Carrie Ann Moss",
+      "human_category": "MAKE_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 49,
+      "text": "which she used to swipe at her face. The skin beneath her nose was reddened and peeling. # \" Mrs. Kastili. \" Her voice was hoarse and slow",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 50,
+      "text": "and hands had that coarseness you see in the chronically stoned... big pored, reddened and raw. # My skin in the mirror was perfect, not pale but",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.78,
+    "matches": 39,
+    "total": 50
+  },
+  "category_distribution": {
+    "BLUSH": 26,
+    "BE(COME)_RED": 11,
+    "MAKE_RED": 8,
+    "ADJECTIVE": 3,
+    "EYES_RED": 2
+  }
+}

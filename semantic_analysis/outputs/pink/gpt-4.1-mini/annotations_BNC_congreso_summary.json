@@ -1,0 +1,328 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "pink",
+  "corpus": "BNC_congreso",
+  "date": "27/04/2025",
+  "total_samples": 44,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "said rather bitterly, ''It sounds rather like where you took Victoria in the Mercedes, Miguel. </s><s> I''m afraid I don''t run to pink body suits – and the jeep is quite glamorous enough for me.'' </s><s> ''Oops! </s><s> Your eyes are turning green, Shelley. </s><s> I was only",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "rail. </s><s> ''Hasn''t this door been locked ever since I put that coat up?'' </s><s> ''I''d better be on my way. </s><s> '' Patrick eased the faded sea pink out of the pocket and stuck it in the buttonhole of his shirt. </s><s> Then he slung the strap of the bag over his shoulder. </s><s> ''Thanks",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "would really prefer to combine merely with white to set against all the greens of the garden – but soft shades of mauve and pink also creep in. </s><s> Amid lots of blue clematis are some deep purple and striped roses as well. </s><s> The lower patio with a flight of",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 4,
+      "text": "season, appeared likely to take frame three. </s><s> But he missed a tricky black and Parrott stepped in with a 48 clearance to pink to lead 3–0. </s><s> Parrott looked likely to go further in front until he missed an easy yellow in frame four. </s><s> McManus cashed in",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "directness. </s><s> I blush in light of the many times we have floundered recently, not to mention my straying. </s><s> My cheeks pink and burn. </s><s> I hide my face, laughing into my hands. </s><s> They all think I am charming, the blushing bride, full of doubt. </s><s> ''We''d",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 6,
+      "text": ", Polly conjured up some very satisfying visions of Nathan Bryce being chased by a shark with a mouth like a huge pair of pinking shears. </s><s> Then she was overcome by panic. </s><s> Being the skipper meant she was in sole command of a million pounds'' worth of",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": ", she wasn''t aware of time passing until she noticed that the sky ahead seemed lighter. </s><s> Gradually the greyness turned to pink . </s><s> She watched, enthralled, as the sky blushed in an ever-widening arc. </s><s> Deep rose merged with the turquoise and",
+      "human_category": "NOUN",
+      "model_category": "BE(COME)_PINK",
+      "match": false
+    },
+    {
+      "id": 8,
+      "text": "to placate Penman and crumpled up a muffin. </s><s> Looking at herself in the looking-glass on the stairs she saw how small and pink her eyes looked, their lids still puffy and her skin was tired and lifeless. </s><s> ''Well?'' </s><s> Aunt Emily said. </s><s> She looked to",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "are all equally beautiful. </s><s> Species such as L. longiflorum , the master lily (blue white), L. speciosum rubrum ( pink spotted and L. tigrinum ''Splendens'' , Tiger Lily (orange/black spots) are among my great favourites. </s><s> No garden should",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "intense and Denis watched in alarm as his uncle went every shade of red before going into purple and subsiding again to pink as the tension eased. </s><s> This can''t be good for him, thought Denis, and he remembered the story he had read of an old man in",
+      "human_category": "NOUN",
+      "model_category": "BE(COME)_PINK",
+      "match": false
+    },
+    {
+      "id": 11,
+      "text": "had spiky hair. </s><s> They did pressure me quite a lot about how I looked, but I never gave in to their attempts to convert me to pink ; I wanted to look different, and in the main I was quite happy with my image. </s><s> On the third evening, I was sitting drinking",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 12,
+      "text": "valve, c) small end bearing. </s><s> The vehicle has done about 56,000. </s><s> The noise is probably pre-ignition, commonly called pinking . </s><s> As you have an 8:1 compression engine (or slightly higher if the cylinder head has been skimmed) set the timing to 3 deg A",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "an 8:1 compression engine (or slightly higher if the cylinder head has been skimmed) set the timing to 3 deg A T D C and the pinking should disappear. </s><s> A loose valve seat usually falls out totally and damages the engine very quickly. </s><s> A sticking valve",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "perpetual lockjawed scowl. </s><s> This Katherine bites the heads off rag-dolls and threatens her sister Bianca with a pair of pinking shears. </s><s> The reason for her pent-up fury is not disclosed, though we rather suspect it may have something to do with her",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": "''. </s><s> He is a shy, gentle innocent untouched by any selfish thoughts or feelings, who has long been a pupil of Mr Pecksniff </s><s> pinking and eyelet-holing, </s><s> ornamenting material by cutting small holes and shapes in it, usually to display a rich lining or",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "noise. </s><s> Cheryl listened intently, and presently it came again. </s><s> ''Golly, it sounds like – like –'' Cheryl''s cheeks pinked with sudden excitement – ''like a horse!'' </s><s> The thought of Joe came at once into her mind, but where could Joe be? </s><s> The sound",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BLUSH",
+      "match": false
+    },
+    {
+      "id": 17,
+      "text": "looking down at her, brown knees drawn up to her chin and the open V of her shirt showing the round of her breasts, even the pinking of the nipple circles. </s><s> She patted the broken wall beside her. </s><s> ''Does it scare you?'' </s><s> I didn''t say anything and she turned",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 18,
+      "text": "it. </s><s> She took a silver pin and inserted it where a dart was marked with a black V and a dot. </s><s> Madeleine picked up a pair of pinking shears and began to slice through the material. </s><s> Did Daddy like coming here? </s><s> Léonie asked: did he like this house? </s>",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": "for this as they have pointed blades. </s><s> A seam ripper is useful, but should be used with caution to avoid cutting fabric. </s><s> Pinking shears are not essential but can be useful. </s><s> They cut a zig-zag edge to prevent fraying. </s><s> Never use these scissors to cut",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 20,
+      "text": "mark the fabric to indicate the direction of the top, where necessary. </s><s> To prevent excessive fraying cut out using sharp pinking shears. </s><s> HANDLING DELICATE FABRICS </s><s> A little extra care than normal is needed when handling such fabrics as velvet,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": "at -60°C and solidifies at -85°C. </s><s> At -75°C diesel fuel has to be chopped with a hatchet. </s><s> About -80°C, antifreeze turns to pink ice and gasoline (petrol) fails to vaporize or ignite. </s><s> Scientists who have worked on the high plateau forgivably take a",
+      "human_category": "NONE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 22,
+      "text": "it up. </s><s> He had a pry-bar amongst the tools if he needed it, but ideally he wanted to get in without it being obvious. </s><s> Metal pinked against metal as he opened out the roll, and a sheaf of little plastic cards fell out of the middle. </s><s> They were joke-shop",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 23,
+      "text": "''hecticker'' and ''hecticker''. </s><s> Thank you very much indeed for your card and the £25, with which I have decided to buy some pinking shears, to encourage me to do some dressmaking now that summer is (supposedly) not far away. </s><s> I''ve no idea how much they",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 24,
+      "text": "<s> What potatoes would you want? </s><s> Pink. </s><s> Pink. </s><s> Yeah alright. </s><s> Do it yourself. </s><s> Yeah, I know. </s><s> What''s all . </s><s> They''re lovely! </s><s> Them pink potatoes are lovely! </s><s> They''re not that good. </s><s> Well have . </s><s> They''re no good. </s><s> I like the </s><s> We''ll have Egyptian </s><s> floury potatoes. </s>",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 25,
+      "text": "<s> Yeah you can''t set it by the book </s><s> so I just, you know </s><s> Till it sounded right </s><s> Mm that''s it </s><s> That''s it, I do till it peaks without pinking </s><s> Yeah </s><s> that''s it, it''s done </s><s> Yeah </s><s> so it er, it were running alright then, and er I took it for a spin I went round the block, up",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "''s my second favourite colour. </s><s> Nice bright colour. </s><s> my favourite''s that </s><s> That''s a lovely pink isn''t it? </s><s> Mm. </s><s> I like that pink I like peach as well </s><s> That''s a nice colour Everyone''s got a favourite colour I wonder what daddy''s is. </s><s> Don''t know really. </s>",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": ". </s><s> Much of it with plants rarely seen in modern flower beds. </s><s> Male speaker </s><s> It''s not subtle, it''s not delicate lavenders and pinks it''s bright sharp garish colours. </s><s> It''s light blues and salmons and golds and silvers those schemes </s><s> Voice over </s>",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 28,
+      "text": "high performance cars which have a high compression ratio and need special grades of petrol to avoid knocking and pinking and other effects detrimental to the car, and of course that leads to the need for lead to be added to petrol to stop",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 29,
+      "text": "<s> 1.5 m dark green paper twist </s><s> Dressmaking pins </s><s> 4 x 25-cm long pieces of 114 cm-wide patchwork fabric in various colours </s><s> Pinking shears </s><s> Pencil or chalk </s><s> Fine knitting needle or pointed nail file </s><s> 50 cm of 15 mm-wide ribbon </s><s> 50 cm of narrow ribbon in three",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 30,
+      "text": ". </s><s> Then fold again by taking the centre fold to the selvedges. </s><s> Secure with pins. </s><s> Trim the raw edges of the fabric with pinking shears. </s><s> Mark every 7.5 cm along the folded side edges. </s><s> Using a ruler, line up the sets of marks and draw across the folded",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 31,
+      "text": "the sets of marks and draw across the folded fabric with a pencil or chalk (illustration 2). </s><s> Cut along these lines using pinking shears. </s><s> 4 </s><s> Unfold and place the three strips on top of each other. </s><s> Using a pencil and ruler, draw a line every 7.5 cm across",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 32,
+      "text": ". </s><s> Using a pencil and ruler, draw a line every 7.5 cm across the fabric width to form squares (illustration 3). </s><s> Cut with pinking shears. </s><s> 5 </s><s> Repeat steps 3 and 4 with the remaining three fabrics. </s><s> 6 </s><s> With the right side uppermost, place the point of the",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 33,
+      "text": "a ruler, line up the sets of marks and draw across the folded fabric with a pencil or chalk. </s><s> Cut along these lines using pinking shears </s><s> 3 </s><s> Put the three strips on top of each other and draw a line every 7.5 cm </s><s> 4 </s><s> Push the fabric squares firmly into the ring",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 34,
+      "text": "semi-double, double and quartered, but have a limited colour range from the white of the base species through blush to pink – which is attractive when seen against the grey-green foliage. </s><s> They require little or no pruning or other attention,",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 35,
+      "text": "! </s><s> Around curves, use small cuts with the tips of the scissors. </s><s> Because it is ripstop, and fraying is therefore limited, pinking shears would only be decorative and not at all necessary. </s><s> Below: A kite''s trailing edge showing the double row of Flat",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 36,
+      "text": "a blue fleecy sleeping suit embroidered with ducks from which his round face seemed to have spilled over, still and pink as a porcelain, Painted doll, the delicate lashes brush-tipped on the plump cheeks. </s><s> And she, too, had something of the",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 37,
+      "text": "going to Greece. </s><s> The sky was a clear, pale dome, covered in the east by a flock of tiny clouds that were already turned to pink by the sun that was still concealed, that had not yet risen. </s><s> The garden was no longer silent but noisy with birdsong, with",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 38,
+      "text": ", it is assumed, readily available from the undertaker. </s><s> To complete the ensemble there is a loose-fitting bonnet with pinked edging and a broad white tie-tape. </s><s> It is a highly accomplished drawing, full of pathos and the grief of the artist. </s><s> Lydia",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 39,
+      "text": "<s> Meredith apologised for the delay. </s><s> A leak had developed in a portion of the roof above the flies; there was still a slight pinking of waterdrops splattering behind the flats of the living-room set. </s><s> Rose was suing the builders. </s><s> The actors, now they",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 40,
+      "text": "out to sea, surface-dived for fish, and whirred back again to feed hungry chicks. </s><s> We stayed until the sky turned to pink and the sun dropped below the horizon. </s><s> Before it grew any darker, we followed a little path to the well, a deep gap between",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 41,
+      "text": ", birds will also learn to whom they should respond. </s><s> For instance, blackbirds will mob owls, producing a high intensity pinking call. </s><s> When a stuffed owl was presented to experienced blackbirds living in aviaries, they started mobbing the mounted",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "''s only a finger nail and the, it should go white of course if you press it, then the blood should go back and it goes back pink again or an area of er skin, always check your circulation after you''ve put your bandage on. </s><s> Now when you''ve actually",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 43,
+      "text": ". </s><s> ''I want to show you this,'' Viktor said. </s><s> He put an exercise book on the old man''s lap. </s><s> The cover was faded from bright red to pink . </s><s> It was creased and frayed. </s><s> He turned the pages. </s><s> The childish drawing of rabbits sitting under the trees among the",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 44,
+      "text": "wider than the whole of the Zoo. </s><s> And the colours of the sky above them in the evening were ever-changing blues, greys and pinks so that the flamingos seemed reflections of it sometimes. </s><s> Then they would suddenly all rise up as one, their great wings",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.7045454545454546,
+    "matches": 31,
+    "total": 44
+  },
+  "category_distribution": {
+    "NONE": 20,
+    "NOUN": 16,
+    "ADJECTIVE": 6,
+    "BE(COME)_PINK": 2
+  }
+}

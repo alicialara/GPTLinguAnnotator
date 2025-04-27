@@ -1,0 +1,20 @@
+
+
+========== CONSOLIDATED PERFORMANCE SUMMARY ==========
+
+Word: redden
+Model: gpt-4.1-mini
+Categories used: 7 categories for 'redden'
+
+Corpus          Accuracy   Kappa      Best Category (F1)        Worst Category (F1)      
+-------------------------------------------------------------------------------------
+COCA            0.3922     0.3388     BLUSH (BLUSH ()           NOUN (NOUN ()            
+COHA            0.7800     0.6636     BLUSH (BLUSH ()           BE(COME)_RED (BE(COME)_RED ()
+BNC_congreso    0.8000     0.6966     BLUSH (BLUSH ()           BE(COME)_RED (BE(COME)_RED ()
+EHCB            0.7500     0.6520     BLUSH (BLUSH ()           REPEATED (REPEATED ()    
+
+Kappa Interpretation:
+COCA            Acuerdo justo
+COHA            Acuerdo substancial
+BNC_congreso    Acuerdo substancial
+EHCB            Acuerdo substancial

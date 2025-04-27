@@ -1,0 +1,524 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "redden",
+  "corpus": "EHCB",
+  "date": "27/04/2025",
+  "total_samples": 72,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "ejusdem, tabellionem seu notarium publicum valeamus: probitatis merita, & sagacitatis industriam te idoneum redden ' ad tabellionatus officium exercendum, quae & quem, diligenti examinatione praemissa in te invenimus, attendentes",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "precatus, </s><s> Temet subduces: animi nam vim puerillis </s><s> Obruit ingluvies, corpus vitiátque tenellum, </s><s> Hospitium ingratum reddens & inutile menti. </s><s> Plura comesurus quin ergò surgito mensâ, </s><s> Relliquiísque tuis oneratam tollito quadram, </s><s> Atque,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "extraneis mansuetudo negare non solet, viam ostenderet. </s><s> Porrò Archidiaconus paulò pòst Abbati eidem vicem reddens & talionem, quinimo Deus injurias Sancti sui, cujus Ecclesiam ejusque propugnatorem tantis nisibus impugnabat,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": ") as much wickedneſs as I have in my heart, was forced (upon the air I ſpoke this with, and Charlotte's and all the reſt reddening ) to make a mouth that was big enough to ſwallow up the other half of his face; crying out, to avoid laughing, Oh! </s><s> Oh!—as if",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "?—Think, brother, on what has been; tremble for what may be.\" </s><s> \"Oh! if I could believe myſelf,\" exclaimed Henry, reddening , \"capable of making a return like their's, my prayer would be to prevent that capacity by immediate death, brother—",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 6,
+      "text": "to your Ladyſhip. </s><s> Shall I dare to ſay, you have a rival, in an abject being?\" </s><s> \"I deſire, Vaurien,\" ſaid her Ladyſhip, reddening , \"that you will inform me.\" </s><s> \"I cannot; my indignation would preſerve ſilence.\" </s><s> \"Senſitive Vaurien! </s><s> You anticipate my",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": "Cancellarius, et inconcuſſa columna veritatis, ſingulis ſua jura, praecipue pauperibus ſingulis, juſte reddens , & indilate. </s><s> In multis Regni perturbationibus ſtans directe; non arundo quolibet vento agitata, nec declinans ad",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "commemorare dignatus est. </s><s> Hist. </s><s> Eccl. l. 3. c. 25. </s><s> Clementis etiam Epistolam secundam rejecit, hanc unicam rationem reddens , . Verùm hanc non perinde receptam atque approbatam fuisse pro certo habemus, quandoquidem vetustiores testimonio",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "ad ungularum, cornuum, dentiúmque fabricam cedere; Impotentia illa Progrediendi, equos caespitantes & inutiles reddens , accidit quando unguia (more clavorum in pedibus nostris) adeò induratur, ut partium vicinarum teneritudinem",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "Mother, ſays, 'Dear Madam, how much Mr. Berkeley reſembles the Doctor;' I, who know le deſous des cartes, ſee my Mother redden , and anſwer, 'Oh! dear Sir, or Madam, not the leaſt in the world'—Sometimes a ſimpler ſoul ſays, Madam, I think Mr.",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "in the Execution of her Orders, for while Dick ſtruck at the Nurſe with a counterfeited Paſſion, Harry, inſtantly, reddened , and gave his Brother ſuch a ſudden. </s><s> Paſh in the Face, that his Noſe and Mouth guſhed out with Blood. </s><s> Dick ſet up the Roar,",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 12,
+      "text": "come ſweetly into his ear? </s><s> If he is agitated rage, does the ſound of Serene, or Moſt Chriſtian, prevent his ſtaring, reddening , and gnaſhing with his teeth, like a madman? </s><s> Would not a twinge of the tooth-ach, affront from an inferior, make the",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "come ſweetly into his ear? </s><s> If he is agitated with rage, does the ſound of Serene, or Moſt Chriſtian, prevent his ſtaring, reddening , and gnaſhing with his teeth, like a madman? </s><s> Would not a twinge of the tooth-ach, or an affront from an inferior, make he",
+      "human_category": "REPEATED",
+      "model_category": "BLUSH",
+      "match": false
+    },
+    {
+      "id": 14,
+      "text": ", </s><s> It cloſe collects ſome ſcatter'd ſolar Rays; </s><s> Tho' cold the Glaſs, where'er its Focus aims, </s><s> The Object ſmokes, it reddens , and it flames: </s><s> So POPE, thro' me, ſhines full upon your Muſe; </s><s> So cold my Breaſt; and ſo your Boſom glows. </s><s> Go on, ſweet Poet",
+      "human_category": "BE(COME)_RED",
+      "model_category": "MAKE_RED",
+      "match": false
+    },
+    {
+      "id": 15,
+      "text": "with her as this morning; ſhe has bid the dear girl endeavour to know how it came, if it fell in her way: For Olivia reddened , and looked up, with a kind of conſciouſneſs, to Lady L. when ſhe told her that ſhe muſt not aſk queſtions about it. </s><s> Lady G.",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "is a gentlewoman. </s><s> She is unhappy from within. </s><s> Thank God, you are not. </s><s> And ſhe is not now, nor ever was, your ſervant. </s><s> They reddened , and looked upon each other in ſome confuſion. </s><s> He preſſed each of their hands, as in Love. </s><s> Don't let me give you concern,",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "for Scotland, ſaid, \"How ridiculous they are, calling themſelves by the names of their eſtates!\" Mr. Berkeley reddened , and ſaid, \"Pray, Sir, why ſo? how would you have them diſtinguiſh themſelves?\"—\"Why, by their Chriſtian names, as we",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 18,
+      "text": ", \"Well, if you will not attend to me, I will ſpeak to Mr. John, and he will make you do it immediately.\" Mr. Berkeley uſed to redden , and ſay, \"HE make me do it! </s><s> How ſo?\" \"Why, my dear Berkeley, I had not been intimate with your family ſix weeks before I ſaw",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": "to partake his fame, </s><s> Tho' VIRGIL, was he living, in the ſtreet </s><s> Might rot for them, or periſh in the Fleet. </s><s> See how They redden , and the charge diſclaim— </s><s> Virgil, and in the Fleet—forbid it Shame. </s><s> Hence, Ye vain Boaſters, to the Fleet repair, </s><s> And",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 20,
+      "text": "thy chariot rolls, </s><s> Chears the wide earth, and warms the distant poles; </s><s> Commands the vegetable race to grow, </s><s> The fruit to redden , and the flower to blow. </s><s> This world was born to change: the hand of Time </s><s> Makes, and unmakes the scenes of every clime. </s><s> The",
+      "human_category": "BE(COME)_RED",
+      "model_category": "MAKE_RED",
+      "match": false
+    },
+    {
+      "id": 21,
+      "text": "into the ſkies, </s><s> y cielings ſhine, and vaulted arches riſe? </s><s> Tho' fretted gold the ſculptur'd roof adorn, </s><s> The rubies redden , and the jaſpers burn! </s><s> O what, alas! avails the gay attire </s><s> To wretched man, who breathes but to expire! </s><s> Oft' on the vileſt",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 22,
+      "text": "into the ſkies. </s><s> Gay cielings ſhine, and vaulted arches riſe! </s><s> Tho' fretted gold the ſculptur'd roof adorn, </s><s> The rubies redden , and the jaſpers burn! </s><s> O what, alas! avails the gay attire </s><s> To wretched man, who breathes but to expire? </s><s> Oft' on the vileſt",
+      "human_category": "REPEATED",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 23,
+      "text": "into the ſkies, </s><s> Gay cielings ſhine, and vaulted arches riſe, </s><s> Tho' fretted gold the ſculptur'd roof adorn, </s><s> The rubies redden , and the jaſpers burn! </s><s> Or what alaſs! avails the gay attire </s><s> To wretched man, who breathes but to expire! </s><s> Oft on the vileſt",
+      "human_category": "REPEATED",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 24,
+      "text": "heave into the ſkies, </s><s> Gay cielings ſhine, and vaulted arches riſe; </s><s> Tho' f ted gold the ſculptur'd roof adorn, </s><s> The rubies redden , and the jaſpers burn▪ </s><s> O what, alas! avails the gay attire </s><s> To wretched man, who breathes but to expire! </s><s> Oft' on the vileſt",
+      "human_category": "REPEATED",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 25,
+      "text": "by the hand, he led her out of the room, and drew the door behind him.— The dignity of manhood is reſiſtleſs—the peerling reddened , and the paſtor triumphed. </s><s> He conducted her into his own apartment, and ſympathized with her in that ſtrain of humane",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "Zephyrs blow, </s><s> And for her Breaſt the Alps ſuſtain their Snow; </s><s> Compar'd with her's, the fineſt Tinctures fail, </s><s> The Lilly reddens , and the Roſe turns pale! </s><s> Thus his warm Suit the Beau with Art addreſt, </s><s> And proudly triumph'd to be ſlighted leaſt: </s><s> 'Twas",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": "ſkies exalt their ſails, </s><s> Led by new ſtars, and borne by ſpicy gales! </s><s> For me the balm ſhall bleed, and amber flow, </s><s> The coral redden , and the ruby glow, </s><s> The pearly ſhell its lucid globe infold, </s><s> And Phoebus warm the rip'ning ore to gold. </s><s> The time ſhall",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 28,
+      "text": "Skies exalt their Sails, Led by new Stars, and born by ſpicy Gales! </s><s> For me the Balm ſhall bleed, and Amber flow, The Coral redden , and the Ruby glow, The Pearly Shell its lucid Globe infold, And Phoebus warm the ripening Ore to Gold. </s><s> The Time ſhall",
+      "human_category": "REPEATED",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 29,
+      "text": "youth, </s><s> \" What various monſters wear the guiſe of Truth. </s><s> \" Deck'd with each grace, immortal Merit ſhews </s><s> \" The cheek that reddens , and the ſoul that glows; </s><s> \" With heaven's own image beaming in his eye, </s><s> \" Man ſmiles a dagger, and he looks a lie.\" </s><s> She ſpoke",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 30,
+      "text": "and the vale below were ſtill wrapt in dewy miſt. </s><s> Meanwhile, the ſullen grey of the eaſtern clouds began to bluſh, then to redden , and then to glow with a thouſand colours, till the golden light darted over all the air, touched the lower points of the",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 31,
+      "text": "and the vale below were ſtill wrapt in dewy miſt. </s><s> Meanwhile the ſullen grey of the eaſtern clouds began to bluſh, then to redden , and then to glow with a thouſand colours, till the golden light darted over all the air, touched the lower points of the",
+      "human_category": "REPEATED",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 32,
+      "text": "moment accoſted them from the gate, entreating a morſel of bread, or a farthing to buy it with. </s><s> The Doctor's countenance reddened , and turning round—'Go,' cried he, 'to your pariſh; for what do I pay ſo many poor's rates, if my purſe is to be always open",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 33,
+      "text": "rich, </s><s> In herbs and fruits; whatever greens the Spring, </s><s> When Heaven deſcends in ſhowers; or bends the bough </s><s> When Summer reddens , and when Au umn beams; </s><s> Or in the wint'ry glebe whatever lies </s><s> Conceal'd, and fatte s with the richeſt ſap: </s><s> Theſe are not",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 34,
+      "text": "rich, </s><s> In herbs and fruits; whatever greens the Spring, </s><s> When heaven deſcends in ſhowers; or bends the bough </s><s> When Summer reddens , and when Autumn beams: </s><s> Or in the wintry glebe whatever lies </s><s> Conceal'd and fattens with the richeſt ſap; </s><s> Theſe are not",
+      "human_category": "REPEATED",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 35,
+      "text": "rich, </s><s> In herbs and fruits; whatever greens the Spring, </s><s> When heaven deſcends in ſhowers; or bends the bough </s><s> When Summer reddens , and when Autumn beams: </s><s> Or in the wintry glebe whatever lies </s><s> Conceal'd, and fattens with the richeſt ſap; </s><s> Theſe are not",
+      "human_category": "REPEATED",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 36,
+      "text": ", </s><s> In herbs, and fruits; whatever greens the Spring, </s><s> When heav'n deſcends in ſhow'rs; or bends the bough, </s><s> When Summer reddens , and when Autumn beams; </s><s> Or in the Wintry glebe whatever lies </s><s> Conceal'd, and fattens with the richeſt ſap; </s><s> Theſe are not",
+      "human_category": "REPEATED",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 37,
+      "text": "vile attempt. </s><s> I communicated it to him by ſhewing him your letter from Hamſtead. </s><s> When he had read it (and he trembled and reddened , as he read), he threw himſelf at my feet, and beſought me to permit him to attend you, and to give you the protection of his",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 38,
+      "text": "fas est. </s><s> Etiam Echo culpari dicitur, quod non ubique accuratè respondeat: sed labatur interdum, balba, (a) pro (e) reddens , aut pro tenui aspiratam, & similia. </s><s> Atid, fatear, tantum abest ut fugerim, etiam decorum putavi. & si non quaesivi,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 39,
+      "text": "am now quite prepared for your ſecret.\" </s><s> While Emily was pronouncing her father's apophthegm on ſincerity, Mrs. Wilſon reddened , changed her poſture, and drew out her handkerchief to place before her eyes. </s><s> Emily was intent on her netting. </s><s> The",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 40,
+      "text": "usque ad spiritûs exhalationem afflictus, fidelis depositi custos commissumque à Domino foenore cum multo talentum reddens , diem foeliciter in terrâ Sacrâ clausit extremum. </s><s> Ut autem ad Lincolniensem revertamur; & illud de ipso, quod quasi in",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 41,
+      "text": "mus tamen tantam salutem acquisitam nobis, & annunciatam à tantâ personâ. </s><s> Rolloc. in Ioan. cap. 3.Tum causam reddens , eò inquit, quòd non credunt in me. </s><s> Peccatum igitur designat incredulitatis nomine, quam ita insignit, licet non sit",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "respicientes utilitatem ei & Ecclesiae suae defecerunt, ipsum excludentes à nominatione; sic ralionem ipsis reddens , eos omnes excluderet ab electione. </s><s> Et quoniam ei tam Ecclesia sua quàm etiam Curia Romana defecerat; aliquem",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 43,
+      "text": "potu se quidam inebrians, urinamque etsi micturiret, quamdiu ferre poterat, retinens, tandemque impetu quodam reddens , hac ratione calculos retentos in ureteribus, eumque affligentes, propellebat, saepeque emingebat: Sic & alius",
+      "human_category": "NONE",
+      "model_category": "MAKE_RED",
+      "match": false
+    },
+    {
+      "id": 44,
+      "text": "adore the fire, and I a Mahometan; ſo that ſhe raiſed in me an extraordinary aſtoniſhment. </s><s> I was diſturbed, I grew pale, I reddened , I caſt down my eyes; confuſion and perplexity took poſſeſſion of thoſe cheeks, on which joy was revelling but the",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 45,
+      "text": "the Stone. </s><s> CAsper Bauhinus in pinnace Botanic. calls this Wood, Lignum peregrinum, sive Mexicanum, Aquam caeruleam reddens , i. e. The strange, or Mexican wood, colouring Water Blew.Ash trees. </s><s> Franciscus Hernandes in his Book Intituled",
+      "human_category": "NONE",
+      "model_category": "MAKE_RED",
+      "match": false
+    },
+    {
+      "id": 46,
+      "text": ". </s><s> I will not have my commands diſputed, ſaid the lady; ſure you are not fond of him yourſelf. </s><s> 'I Madam?' cries Slipſlop, reddening , if not bluſhing. </s><s> I ſhould be ſorry to think your ladyſhip had any reaſon to reſpect me of fondneſs for a fellow; and if it",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 47,
+      "text": "the room, and fixing his eyes on Mr. Oſborn) is the man with whom my ward eloped, and I demand her at his hands. </s><s> Mr. Oſborn reddened , it ſeems, and told him that if he dared to inſiſt on having a Lady with whom he had no right, he would lead him out of the",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 48,
+      "text": "with ſuch a ſtrut and a crow—I ſee him yet!—Indulge me, Harriet!—I burſt into a hearty laugh; I could not help it: And he, reddening , looked round himſelf, and round himſelf, to ſee if any thing was amiſs in his garb. </s><s> The man, the man! honeſt friend, I",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 49,
+      "text": "Husband (Numb. 5.) </s><s> Visiting the iniquity of the Fathers upon the Children. </s><s> The Hebrew word here Interpreted by , reddens , or rendring, signifies visiting, as our Translation rightly hath it; and is usually taken in the sense of vindicating",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 50,
+      "text": "; and these are seldom seen to blush, tho' ever so bashful, whilst the texture is so fine in some young women, that they redden , or turn pale, on the least occasion. </s><s> I am apt to think the texture of this network is of a very tender kind, subject to",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 51,
+      "text": "Insignia iussû; </s><s> Vrbani ex dono Iunonia vertice pauo, </s><s> Emicuit cristis! pennisue corusca Corona. </s><s> Poslea sed Papae reddens , pendebat Hybernis </s><s> Trecentas Marcas! vti septinginta Brytannis, </s><s> Sceptris pro laceris: pater at velut anteà",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 52,
+      "text": "illis nomenclaturas addidisset Epiphanes, Monoteta & Henoteta, Monada & Hen, statim exclamet Irenaeus, , rationem reddens , quoniā ipse nomina posuit figmento quae à nemine altero posita sunt. </s><s> Hoc enim tantâ admiratione dignum non fuisset,",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 53,
+      "text": " -do -dum. recordatum u, recordans, -aturus. to remember. </s><s> Reddo—is, reddĭdi, reddĕre: endi o um: reddĭtum u; reddens , redditurus, to reſtore. </s><s> Redoleo—es—ui—ēre:—endi—do—dum;—ïtum—ĭtu; redolens, -iturus, to give a ſavor. </s>",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 54,
+      "text": "joins; Thick flames, in vollied flaſhes, fill the air, And echoing mountains give the noiſe of war; The clouds riſe reddening , round the dreadful height, And veil the ſkies and wrap the ſounding fight. </s><s> Now, in the ſkirt of night, where thouſands",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 55,
+      "text": "joins; Thick flames, in vollied flaſhes, fill the air, And echoing mountains give the noiſe of war; The clouds riſe, reddening , round the dreadful height, And veil the ſkies, and wrap the ſounding fight. </s><s> Now, in the ſkirt of night, where thouſands",
+      "human_category": "REPEATED",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 56,
+      "text": "joins; Thick flames, in vollied flaſhes, fill the air, And echoing mountains give the noiſe of war; The clouds riſe, reddening , round the dreadful height, And veil the ſkies, and wrap the ſounding ſight. </s><s> Now, in the ſkirt of night, where thouſands",
+      "human_category": "REPEATED",
+      "model_category": "BE(COME)_RED",
+      "match": false
+    },
+    {
+      "id": 57,
+      "text": "affected. </s><s> She ſtarted. </s><s> She looked again; again ſtarted; and quitting her mother's hand, now changing pale, now reddening , ſhe aroſe, and threw her arms about her Camilla—O Camilla! was all ſhe ſaid; a violent burſt of tears wounding, yet",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 58,
+      "text": "ſeen that formidable Hero General Ajax ſuffer upon your Account!—Of all his Rivals you are his eternal Torment.—He reddens , ſighs, and (as much as is conſiſtent with ſuch a bluſtering Soldier's Valour) languiſhes whenever you are near her. </s>",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 59,
+      "text": "levities, tho' but by the eye, his conſciouſneſs, however mild the look, makes him ſhew an uneaſineſs at the inſtant. </s><s> He reddens , ſits in pain; calls for favour by his eyes, and his quivering lips; and has, notwithſtanding, a ſmile ready to turn into",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 60,
+      "text": "ſwell, like Earthquakes, in his Boſom. </s><s> , at length, he breaks, in Whirlwind, from me, </s><s> Torn by ten thouſand Pangs, raves, reddens , ſtarts, </s><s> And frights me with a drea ful burſt of Paſſions! </s><s> O Uncle! what remains for Hope to ſnatch at? </s><s> Of all the wide",
+      "human_category": "BLUSH",
+      "model_category": "MAKE_RED",
+      "match": false
+    },
+    {
+      "id": 61,
+      "text": ", like earthquakes in his boſom. </s><s> Groaning, at length, he breaks in whirlwind from me; </s><s> Torn by ten thouſand pangs, raves, reddens , ſtarts, </s><s> And frights me with a dreadful burſt of paſſions! </s><s> COURTNEY. </s><s> Poor, ſuffering innocent! </s><s> I would 'twere mine </s><s> To",
+      "human_category": "REPEATED",
+      "model_category": "BLUSH",
+      "match": false
+    },
+    {
+      "id": 62,
+      "text": "small bits no larger than a filbert. </s><s> Wash them in warm water, then set them on the fire in a crucible till red hot. </s><s> When thus reddened , take them out one by one, and extinguish them in double distilled white-wine vinegar, which shall have been",
+      "human_category": "BE(COME)_RED",
+      "model_category": "MAKE_RED",
+      "match": false
+    },
+    {
+      "id": 63,
+      "text": "of flame▪ </s><s> There shine gay walls illumin'd towers ascend, </s><s> Wave round th' immense, and o'er the concave bend; </s><s> Expanding, reddening , the proud pomp aspires, </s><s> And stars faint-tremble through the wonderous fires. </s><s> Thus wide, thus bright, the splendid",
+      "human_category": "BE(COME)_RED",
+      "model_category": "BE(COME)_RED",
+      "match": true
+    },
+    {
+      "id": 64,
+      "text": "tamen fertili donatus. </s><s> Tandem die 15. </s><s> Febr. </s><s> Anno Chriſti, 1631. </s><s> Weſtmonaſterii denatus, animam Deo, exuvias terrae reddens , triſte ſui deſiderium Regi, regno & bonis omnibus reliquit, ex priore conjuge, quae in aliquibus defunctis",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 65,
+      "text": "Athelwoldum sicut in praesenti cernitur exaltavit. </s><s> Post novem verò annos cum dimidio regni sui spiritum coelo reddens , ut diximus, corpus ejus humandum Wyntoniae in Veteri Coenobio dereliquit </s><s> Minori. </s><s> Edredus regnavit annis novem &",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 66,
+      "text": ", to ſend her back into her Veſſel, than do her the leaſt Violence. </s><s> He ſpake theſe words in ſuch a manner, as made Gourdan redden , without anſwering a word. </s><s> The Knight proceeded to ſay, I know You will not take my Advice, but I would do my Duty to mind",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 67,
+      "text": "your Mirth, you hardly know, </s><s> Whether in ſtrictneſs you ſhou'd Laugh or no, </s><s> But turn upon the Ladies in the Pit, </s><s> And if they redden , you are ſure 'tis Wit. </s><s> Protect him then, ye Fair ones; for the Fair </s><s> Of all Conditions are his equal Care. </s><s> He draws a Widow,",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 68,
+      "text": ", We ended lately; And shar'd freely All. </s><s> When Thou much more than thine hadst rauisht home; With which, valde gloriosos reddens . . Reges doniuoros. </s><s> With partiall affection to thy Cause; Those gift-deuouring kings, that sway our lawes. </s><s> Who would",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 69,
+      "text": "; all in our turn; don't come before his Grace the Right Honourable Mr. Vampus.\" </s><s> \"Before whom, Sir?\" ſaid Mr. Delvile, reddening . </s><s> \"Before my Lord Don Pedigree,\" anſwered Briggs, with a ſpiteful grin, \"know him? eh? ever hear of ſuch a perſon?\" </s><s> Mr.",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 70,
+      "text": ".—\"He is of an honourable profeſſion, and incapable of clandeſtine baſeneſs.\" </s><s> \"Baſeneſs, Sir!\" exclaimed Charles reddening . </s><s> \"Yes, young man,\" returned Sir Armine.—\"It would be the laſt exceſs of baſeneſs to aid and abet an intercourſe which",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    },
+    {
+      "id": 71,
+      "text": "Peponum caro haudquaquam cruda, sed cocta; descendit autem omnino faciliter, alvum facilem & quodammodo lubricam reddens . </s><s> Alimentum autem confert exiguum, tenue, humidum frigidumque (viticsum inquit Galenus) idque potissimum cum probe",
+      "human_category": "NONE",
+      "model_category": "NONE",
+      "match": true
+    },
+    {
+      "id": 72,
+      "text": "I forget myſelf—How difficult it is to counterfeit indifference, and put a maſk upon the heart—I've ſtruck him hard; he reddens . </s><s> BELCOUR. </s><s> How could you tempt me ſo? </s><s> Had you not inadvertently dropped the name of father, I fear our friendſhip, ſhort",
+      "human_category": "BLUSH",
+      "model_category": "BLUSH",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.75,
+    "matches": 54,
+    "total": 72
+  },
+  "category_distribution": {
+    "BLUSH": 30,
+    "NONE": 20,
+    "REPEATED": 12,
+    "BE(COME)_RED": 10
+  }
+}

@@ -1,0 +1,20 @@
+
+
+========== CONSOLIDATED PERFORMANCE SUMMARY ==========
+
+Word: whiten
+Model: gpt-4.1-mini
+Categories used: 14 categories for 'whiten'
+
+Corpus          Accuracy   Kappa      Best Category (F1)        Worst Category (F1)      
+-------------------------------------------------------------------------------------
+COCA            0.6800     0.5710     NOUN (NOUN ()             ADJECTIVE (ADJECTIVE ()  
+COHA            0.7200     0.6552     ADJECTIVE (ADJECTIVE ()   COAT_WITH_WHITE (COAT_WITH_WHITE ()
+BNC_congreso    0.7400     0.6719     BE(COME)_PALE (BE(COME)_PALE () ADJECTIVE (ADJECTIVE ()  
+EHCB            0.6600     0.5844     MAKE_PURE (MAKE_PURE ()   BLEACH (BLEACH ()        
+
+Kappa Interpretation:
+COCA            Acuerdo moderado
+COHA            Acuerdo substancial
+BNC_congreso    Acuerdo substancial
+EHCB            Acuerdo moderado

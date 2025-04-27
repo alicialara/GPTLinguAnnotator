@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Annotations for 'red' - EHCB (gpt-4.1-mini)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .metrics {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        .metric-card {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            flex: 1;
+            min-width: 200px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .annotations {
+            margin-bottom: 30px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        .match-true {
+            background-color: #d4edda;
+        }
+        .match-false {
+            background-color: #f8d7da;
+        }
+        .highlight {
+            font-weight: bold;
+            background-color: #ffeeba;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+        .category-distribution {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .category-chip {
+            background-color: #e9ecef;
+            padding: 8px 12px;
+            border-radius: 16px;
+            font-size: 14px;
+        }
+        #searchInput {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        .pagination {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+            margin-bottom: 40px;
+        }
+        .pagination button {
+            margin: 0 5px;
+            padding: 8px 15px;
+            background-color: #f8f9fa;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .pagination button.active {
+            background-color: #007bff;
+            color: white;
+            border-color: #007bff;
+        }
+        .pagination button:hover:not(.active) {
+            background-color: #e9ecef;
+        }
+        .controls {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Semantic Analysis: 'red' - EHCB</h1>
+            <p>Model: <strong>gpt-4.1-mini</strong> | Date: 27/04/2025 | Samples: 54</p>
+        </div>
+
+        <h2>Global Metrics</h2>
+        <div class="metrics">
+
+            <div class="metric-card">
+                <h3>Accuracy</h3>
+                <p style="font-size: 24px; font-weight: bold;">0.4630</p>
+            </div>
+
+            <div class="metric-card">
+                <h3>Matches</h3>
+                <p style="font-size: 24px; font-weight: bold;">25</p>
+            </div>
+
+            <div class="metric-card">
+                <h3>Total</h3>
+                <p style="font-size: 24px; font-weight: bold;">54</p>
+            </div>
+
+        </div>
+
+        <h2>Category Distribution</h2>
+        <div class="category-distribution">
+
+            <div class="category-chip">
+                NONE: 21
+            </div>
+
+            <div class="category-chip">
+                ADJECTIVE: 17
+            </div>
+
+            <div class="category-chip">
+                NOUN: 11
+            </div>
+
+            <div class="category-chip">
+                REPEATED: 4
+            </div>
+
+            <div class="category-chip">
+                MAKE_RED: 1
+            </div>
+
+        </div>
+
+        <h2>Annotations</h2>
+        <div class="controls">
+            <input type="text" id="searchInput" placeholder="Search in annotations...">
+            <div>
+                <label>
+                    <input type="checkbox" id="showMismatchesOnly"> 
+                    Show Mismatches Only
+                </label>
+            </div>
+        </div>
+        <div class="annotations">
+            <table id="annotationsTable">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Text</th>
+                        <th>Human Category</th>
+                        <th>Model Category</th>
+                        <th>Match</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr class="match-true">
+                        <td>1</td>
+                        <td>did heav'n diſplay to mortal eyes </s><s> Aërial knights and combats in the ſkies! </s><s> Was it for this Northumbrian ſtreams look'd <span class="highlight">red</span> ! </s><s> And Thames driv'n backward ſhow'd his ſecret bed! </s><s> Falſe Auguries! th' inſulting victor's ſcorn! </s><s> Ev'n our own</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>2</td>
+                        <td>did Heav'n diſplay to mortal eyes Aerial knights, and combats in the ſkies! </s><s> Was it for this Northumbrian ſtreams look'd <span class="highlight">red</span> ! </s><s> And Thames driv'n backwards ſhew'd his ſecret bed! </s><s> Falſe Auguries! th' inſulting victors ſcorn! </s><s> Ev'n our own</td>
+                        <td>REPEATED</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>3</td>
+                        <td>were exceeding wealthie; for the plaines stretched almost fortie miles right foorth from each side of their towne. </s><s> I <span class="highlight">red</span> (as I remember) in a certaine storie, that they had in times past such abundance of corne, as they would giue a camels</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>4</td>
+                        <td>, containing ſuch a Spell, </s><s> ' As rarely did Epitomize </s><s> ' What e're Pluto's Wit could deviſe. </s><s> ' With that a Shirt of Lawn, dy'd <span class="highlight">red</span> , </s><s> ' And all over Characte<span class="highlight">red</span>. </s><s> ' It was a Preſent from a Fiend, </s><s> ' Sent up to me, as a True Friend. </s><s> ' Th'inchanted Clout was for a</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>5</td>
+                        <td>Helenore, with girlonds all beſp<span class="highlight">red</span>, </s><s> Whom their May-lady they had newly made: </s><s> She proud of that new honour, which they <span class="highlight">red</span> , </s><s> And of their louely fellowſhip full glade, </s><s> Daunſt liuely, and her face did with a Lawrell ſhade. </s><s> The ſilly man that in</td>
+                        <td>NONE</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>6</td>
+                        <td>did heav'n diſplay to mortal eyes </s><s> Aërial knights and combats in the ſkies! </s><s> Was it for this Northumbrian ſtreams look'd <span class="highlight">red</span> , </s><s> And Thames driv'n backward ſhow'd his ſecret bed! </s><s> Falſe auguries! th' inſulting victors ſcorn! </s><s> Ev'n our own</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>7</td>
+                        <td>did heav'n diſplay to mortal eyes </s><s> Aërial knights and combats in the ſkies? </s><s> Was it for this Northumbrian ſtreams look'd <span class="highlight">red</span> , </s><s> And Thames driv'n backward ſhow'd his ſecret bed! </s><s> Falſe auguries! th' inſulting victors ſcorn! </s><s> Ev'n our own</td>
+                        <td>REPEATED</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>8</td>
+                        <td>. </s><s> That is his Bow of Peace, but this of War, </s><s> The Skie about it was with Darkness spread, </s><s> Slaughter, and Gore had stain'd it <span class="highlight">red</span> , </s><s> Ghastly and terrible it glistned from afar. </s><s> A poysoned Arrow on the string did hang, </s><s> It hung a while, but when the Bow He</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>9</td>
+                        <td>gold is woont </s><s> by kynd to mooue the hart: </s><s> And often times a ſlight rewarde </s><s> doth cauſe a more deſart. </s><s> Ywritten haue I <span class="highlight">red</span> , </s><s> I wot not in what booke: </s><s> There is no better way to fiſhe, </s><s> then with a golden hooke. </s><s> Of Romeus theſe two, </s><s> doe ſitte and chat a</td>
+                        <td>NONE</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>10</td>
+                        <td>hir tak away perforce. </s><s> The Squyer said, be thow ane Knicht, </s><s> Cum furth to me and shaw the richt. </s><s> Bot hand for hand without <span class="highlight">red</span>ding , </s><s> That thair be na mair blude shedding. </s><s> And gif thow winnis me in the feild, </s><s> I sall my Ladie to the ȝeild. </s><s> The Knicht durst</td>
+                        <td>NOUN</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>11</td>
+                        <td>in bleases brast, </s><s> And the reeke raise so wonder fast: </s><s> The fire ouer all the Castell sp<span class="highlight">red</span>, </s><s> There might with force no man it <span class="highlight">red</span> , </s><s> Then they within drew to the wall, </s><s> That at that time was battailde all </s><s> Within, right as it was without. </s><s> That battalling</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>12</td>
+                        <td>supplies, </s><s> And takes new vigor from your sparkling eyes. </s><s> Some, who your morning Blushes saw, did swear </s><s> The Sun look'd <span class="highlight">red</span> , and a foul day was near; </s><s> But all the showre will be a maiden tear. </s><s> Fair Virgin blush not, (though a Bride) to none </s><s> Are you</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>13</td>
+                        <td>ſolution, and ſpirit of Salt well ſhaken together, upon ſome ſyrup of Violets, which was thereby immediately turn'd <span class="highlight">red</span> , and a little of the ſame Anomalous ſolution, being ſhaken together with Oyl of Tartar per Deliquium, turn'd another</td>
+                        <td>ADJECTIVE</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>14</td>
+                        <td>we sought for, and what we might possibly have found in larger Animals; for though the Lungs of the Birds appear'd very <span class="highlight">red</span> , and as it were inflam'd, yet that colour being usual enough in the Lungs of such winged Creatures, deserves not so much</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>15</td>
+                        <td>we sought for, and what we might possibly have found in larger Animals; for though the Lungs of the Birds appear'd very <span class="highlight">red</span> , and as it were inflam'd, yet that colour being usual enough in the Lungs of such winged Creatures, deserves not so much</td>
+                        <td>REPEATED</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>16</td>
+                        <td>bill at him ſcho did Inquire </s><s> The ſeuin ſeges (he ſaid) of ſapience </s><s> Did dyt that bill, ſen ȝe to ſpeir deſyir. </s><s> Sone ſcho it <span class="highlight">red</span> , and conſauit the text. </s><s> I traiſt (quod ſcho) that Venus hes the vext: </s><s> For be this writ the ſame I do perſaif. </s><s> He ſaid (</td>
+                        <td>NONE</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>17</td>
+                        <td>Kingis write of France, </s><s> Wallace on kne, with lawly obeyſance. </s><s> Richt reuerently for worſchip of Scotland, </s><s> Quhen he it <span class="highlight">red</span> , and had it vnderſtand: </s><s> At this Herald he aſkit his c<span class="highlight">red</span>ance, </s><s> With aſper ſpeiche, and manly countenance. </s><s> And he him tald</td>
+                        <td>NONE</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>18</td>
+                        <td>very Face, that what I ſaid put his Spirits into an exceeding Ferment; his Colour frequently chang'd, his Eyes look'd <span class="highlight">red</span> , and his Heart flutter'd, that it might be even perceiv'd in his Countenance; nor could he immediately anſwer me. </s><s> When I</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>19</td>
+                        <td>, </s><s> Vnder her other was the tender boy, </s><s> VVho blusht, and powted in a dull disdaine, </s><s> VVith leaden appetite, vnapt to toy, </s><s> She <span class="highlight">red</span> , and hot, as coles of glovving fier, </s><s> He <span class="highlight">red</span> for shame, but frostie in desier. </s><s> The studded bridle on a ragged bough, </s><s> Nimbly</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>20</td>
+                        <td>with it; and the other by making Lyes of Earths and ſtones, wherewith it is mix'd Allum, whoſe colour inclines to <span class="highlight">red</span> , and is call'd Roman, is accounted the beſt of all that we meet with in France. </s><s> But neither the Roman nor the reſt abound</td>
+                        <td>NOUN</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>21</td>
+                        <td>out of the Meadow in April, or the beginning of May. </s><s> To <span class="highlight">red</span>de and make Hay. </s><s> WHen the Meadows are mowed, then they ſhould be <span class="highlight">red</span>ded , and laid upon the even ground; and if the Graſs be very thick, it ſhould be ſhaken with hands, or with a ſhort Pitchfork;</td>
+                        <td>MAKE_RED</td>
+                        <td>NONE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>22</td>
+                        <td>to ouerlooke </s><s> Those cursed leaues, his charmes back to reuerse; </s><s> Full dreadfull thinges out of that balefull booke </s><s> He <span class="highlight">red</span> , and measur'd many a sad verse, </s><s> That horrour gan the virgins hart to perse, </s><s> And her faire locks vp sta<span class="highlight">red</span> stiffe on end, </s></td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>23</td>
+                        <td>to ouerlooke </s><s> Thoſe curſed leaues, his charmes backe to reuerſe; </s><s> Full dreadfull things out of that balefull booke </s><s> He <span class="highlight">red</span> , and meaſur'd many a ſad verſe, </s><s> That horror gan the virgins hart to perſe, </s><s> And her faire lockes vp ſta<span class="highlight">red</span> ſtiffe on end, </s></td>
+                        <td>REPEATED</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>24</td>
+                        <td>began, and no body with me, reading to my self alone, vpon a booke that is agreable to Gods worde, and no heresie in it that I <span class="highlight">red</span> , and when it drewe toward seruice time, there came men to the church, and some of then comming to me whō I knewe not,</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>25</td>
+                        <td>created by the laſt Pope have Green, and the reſt Purple; but they have chang'd the colours ſometimes, and us'd <span class="highlight">red</span> , and white. </s><s> During the ſaid nine days, the Cardinals do conſtantly meet, either at the Chamberlains houſe, or in the</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>26</td>
+                        <td>profess; </s><s> In grumbling clubs, your rancour shew, </s><s> And now would have me do so too. </s><s> The Major at this devilish shock; </s><s> Look'd <span class="highlight">red</span> , as any Turky-cock; </s><s> And spite of all his subtle Arts▪ </s><s> Quite dash'd and stun'd, at Collins parts; </s><s> But on a sudden,</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>27</td>
+                        <td>Fire, harden'd like the White of an Egg. 4. </s><s> Of an Apothecary of Cambray, who, being prick'd in the Arm, the Blood look'd <span class="highlight">red</span> , as it came forth; but was white in the Porringer. 5. </s><s> Of a certain Person troubl'd with the Itch. 6. </s><s> Of a Woman that gave</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>28</td>
+                        <td>white, and ſometimes <span class="highlight">red</span>, according to the colour of the wine it comes from. </s><s> White Tartar is to be prefer'd before <span class="highlight">red</span> , becauſe it is purer, and contains leſs earth; both one and t'other are had in greater abundance in hot Countries, ſuch</td>
+                        <td>NOUN</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>29</td>
+                        <td>, that it despiseth no lodging, nor passeth by any; but as poor and as despicable the stone is in that place, be it <span class="highlight">red</span> , brown, fresh, or stale, broad or small, it will press into, and mingle it self with it, and will not be forced out of it,</td>
+                        <td>NOUN</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>30</td>
+                        <td>with Vomiting, a pain in the Head, and at her Heart, eſpecially when ſhe endeavou<span class="highlight">red</span> to riſe from her Bed, her Eyes look'd <span class="highlight">red</span> , but her Tongue was well enough, and her Fever was but ſmall; a few dayes before, without my knowledge, ſhe had been at an</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>31</td>
+                        <td>was commaunded by the Kings letters patents to aunswere before those iudges. </s><s> The which letters when he had hearde them <span class="highlight">red</span> , he affirmed, that for obedience sake to the King, he woulde aunswere, otherwise he woulde haue made no aunswere at all:</td>
+                        <td>NONE</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>32</td>
+                        <td>: wherefore let hym dye. </s><s> Whan thys was put vp agaynst hym. </s><s> Lysias a Philosopher wrote an Apologie for hym, whiche whan he <span class="highlight">red</span> , he sayde: Lysias the oration is good and excellent, but surely it is nothing mete for me (for why it was more iudiciall</td>
+                        <td>NONE</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>33</td>
+                        <td>Arts-men vse, in shewing things that passe </s><s> In parts farre from vs. This presents a Flawe, </s><s> Or Storme at Sea: for what I <span class="highlight">red</span> , I sawe. </s><s> I so may speake. </s><s> Me thought I had in sight, </s><s> A Clowd, as blacke as the darke Robe of Night: </s><s> Saw that dissolue, and</td>
+                        <td>NONE</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>34</td>
+                        <td>the precious life of his Soueraine. </s><s> Any ſtates man may learne this euen of Machiauell himſelfe, which I confeſſe when I <span class="highlight">red</span> , I thought of the Diuell confeſſing Chriſt. </s><s> That Zoſimus ſhall doubt of this point, I would but turne him to Euagrius his</td>
+                        <td>NONE</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>35</td>
+                        <td>, having pronounced in a moſt graceful manner, to the admiration of all who preſent, "How much more (ſays he) would you <span class="highlight">red</span> , if you had heard him ſpeak it himſelf!" to theſe authorities the judgment of ſays, that "It is not of ſo much moment what</td>
+                        <td>NONE</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>36</td>
+                        <td>well enchaced, </s><s> Bleſſed the man that well can vſe his blis: </s><s> VVhoſe euer be the shield, faire Amoret be his. </s><s> Which when I <span class="highlight">red</span> , my heart did inly earne, </s><s> And pant with hope of that aduentures hap: </s><s> Ne ſtayed further newes thereof to learne, </s><s> But with</td>
+                        <td>NONE</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>37</td>
+                        <td>to be ſubtyled, & made thynne. </s><s> Concernyng the cullar of contentes, ſū be very whyte, ſumme pale, ſūme yealowe, ſūme <span class="highlight">red</span> , ſūme bluddy, ſūme blacke, & ſūme of diuers cullars. </s><s> Contentes very whyte be ether peces of ſlymye humors, or els</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>38</td>
+                        <td>that the Primates and chiefe men there in Rome were beneuolent auditors, and did heare her in certaine Scholes where she <span class="highlight">red</span> , there: and by their endeuours and sentence, she was prefer<span class="highlight">red</span> to the sac<span class="highlight">red</span> Senate, designed and made a woman high</td>
+                        <td>NONE</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>39</td>
+                        <td>thou what thou readest? </s><s> 31 And he said, How can I, except I had a guide </s><s> 32 Now the place of the Scripture which he <span class="highlight">red</span> , was this, * He was led as a shepe to the slaughter: and like a lābe domme before his shearer, so opened he not mouth. </s><s> 33 </s><s> 34</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>40</td>
+                        <td>I, except I had a gyde? </s><s> And he desy<span class="highlight">red</span> Philip, that he wolde come vp, & syt with hym. </s><s> The tenoure of the scripture whiche he <span class="highlight">red</span> , was this: </s><s> Philip opened his mouth, and began at the same scripture, and preached vnto hym Iesus. </s><s> And as they went on</td>
+                        <td>NONE</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>41</td>
+                        <td>away Feaver quotidian, and cureth the ſtinking of venemous Wormes. </s><s> Bole-Armoniacke, if it be good, is as it were white <span class="highlight">red</span>ded . </s><s> Balleſtianes, is the flower of the Pomgranet and P idia is the rinde, and it hath vertue to reſtraine as Bolle hath. </s></td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>42</td>
+                        <td>now, Paplet, elſe 'twould been a ſore. </s><s> Whatſo I could to bar my bluſh, I did; </s><s> Yet ween not whether ſomedeal look'd not <span class="highlight">red</span> . </s><s> But 'twas allfor his Eyes ſo ſoft did ſeem: </s><s> While Honeybreath epon my Neck would ſteam. </s><s> And oh, his ringlet-locks too,</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>43</td>
+                        <td>many Irides of the Eyes of a yellowiſh green, encompaſſed with a black circle. </s><s> The legs and feet from yellow incline to <span class="highlight">red</span> . </s><s> Fuſcis, i. e. dark or dusky. </s><s> This Bird we ſaw at Milan in Italy, and thus deſcribed. </s><s> It is ſomething leſs than a Lapwing. </s></td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>44</td>
+                        <td>rare a sight. </s><s> Whill at the last, I chanced to call to minde </s><s> How that her nature, did resemble neir </s><s> To that of Phoenix which I <span class="highlight">red</span> . </s><s> Her kinde, </s><s> Her hewe, her shape, did mak it plaine appeir, </s><s> She was the same, which now was lighted heir. </s><s> This made me to</td>
+                        <td>NONE</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>45</td>
+                        <td>but whatſoeuer he be that dyd it, he hathe deſerued to be well thoughte of for his trauayle, for it is well worthe the <span class="highlight">red</span>ding . </s><s> It intreatethe of the warres betwene Amorathe the ſeconde, Mahomethe the ſecond his ſonne, Emperours of Turckye, and</td>
+                        <td>NONE</td>
+                        <td>NOUN</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>46</td>
+                        <td>hand of Worldly Cares are slaine. </s><s> But they do sting so sore the Poets Head, </s><s> His Mind is blister'd, and the Thoughts turn'd <span class="highlight">red</span> . </s><s> Nought can take out the burning heat, and paine, </s><s> But Pen, and Ink, to write on Paper plaine. </s><s> But take the Oile of Fame, and</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>47</td>
+                        <td>or diminution: and if it should perfect imperfect bodyes mingled with it by melting onely, it should be Elixir to <span class="highlight">red</span> . </s><s> Siluer is also a body almost perfect, and feminine, which if it should almost perfect imperfect bodyes by his common</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>48</td>
+                        <td>. </s><s> Sinópico, of or belonging to the <span class="highlight">red</span> ſtone ſinoper or ruddle. </s><s> Sinópio, ſinoper, <span class="highlight">red</span> leade, ruddle, <span class="highlight">red</span> okre, or <span class="highlight">red</span>ding . </s><s> Sintaſſi, construction, or order of conſtruction. </s><s> Alſo a volume of diuers works. </s><s> Sinterice, a conſumption</td>
+                        <td>NOUN</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>49</td>
+                        <td>of both. </s><s> The middle parts of the covert-feathers of the Back and Shoulders are black, the edges from green incline to <span class="highlight">red</span> . </s><s> The Rump is <span class="highlight">red</span>diſh. </s><s> The Female is all over paler, leſs yellow on the Head, leſs <span class="highlight">red</span> on the Breaſt and under the Wings. </s><s> The</td>
+                        <td>NOUN</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>50</td>
+                        <td>the flicht. </s><s> And wist not quhair to flie for haist, </s><s> Thus throw the toun be hes thame chaist. </s><s> Wer not Frenche men come to the <span class="highlight">red</span>ding . </s><s> Yair had bene me kill mair b ude shedding. </s><s> Of this journey I mak ane end, </s><s> Quhilk euerie Nobill did commend. </s><s> Quhen to the</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>51</td>
+                        <td>/ that is to ſay / dukes or erles / to be named in the counſayls or aſſembles of the Romaynes? </s><s> I do nat remembre / that euer I <span class="highlight">red</span> / any man / I do nat ſay onely beyng a Romayne / but alſo nat ſo moche as in the prouince belongynge to the Romaynes: to be</td>
+                        <td>NONE</td>
+                        <td>NONE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>52</td>
+                        <td>, wearing greene sharpe Turbants of felt, so making a difference betwixt them and the Persians, which weare them <span class="highlight">red</span> : and betwixt them two for diuersitie of opinions in Religion are continual warres, and disagreement about their</td>
+                        <td>NOUN</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>53</td>
+                        <td>̄gales / who had ben infourmed howe they wold ryde forth / and ſo he brought letters to ye Chanone Roberſarde whiche he <span class="highlight">red</span> : and founde therin / howe the kynge of Portyngale defended hym in any wyſe to ryde forthe: Sayeng further / howe he knewe</td>
+                        <td>NONE</td>
+                        <td>BE(COME)_RED</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>54</td>
+                        <td>. </s><s> For tell me I pray Ierusalem, there arose agreat persecution against it, insomuch as they were all dispersed and ca <span class="highlight">red</span> : And where or the church visible, when Christ was smitten, Iohn in his Reuelation expresly witnesse, Elias the prophe ?</td>
+                        <td>ADJECTIVE</td>
+                        <td>NONE</td>
+                        <td>❌</td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+        <div class="pagination" id="pagination"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Variables
+            const table = document.getElementById('annotationsTable');
+            const rows = table.getElementsByTagName('tr');
+            const searchInput = document.getElementById('searchInput');
+            const mismatchesCheckbox = document.getElementById('showMismatchesOnly');
+            const paginationContainer = document.getElementById('pagination');
+            
+            const rowsPerPage = 15;
+            let currentPage = 1;
+            let filteredRows = [];
+            
+            // Initial setup
+            function initializePagination() {
+                updateFilteredRows();
+                displayRows();
+                setupPagination();
+            }
+            
+            // Update filtered rows based on search and filter
+            function updateFilteredRows() {
+                filteredRows = [];
+                const searchTerm = searchInput.value.toLowerCase();
+                const showMismatchesOnly = mismatchesCheckbox.checked;
+                
+                // Start from index 1 to skip the header row
+                for (let i = 1; i < rows.length; i++) {
+                    const row = rows[i];
+                    const text = row.textContent.toLowerCase();
+                    const isMatch = row.classList.contains('match-true');
+                    
+                    // Apply filters
+                    const matchesSearch = !searchTerm || text.includes(searchTerm);
+                    const matchesMismatchFilter = !showMismatchesOnly || !isMatch;
+                    
+                    if (matchesSearch && matchesMismatchFilter) {
+                        filteredRows.push(row);
+                    }
+                    
+                    // Hide all rows initially
+                    row.style.display = 'none';
+                }
+            }
+            
+            // Display rows for current page
+            function displayRows() {
+                const start = (currentPage - 1) * rowsPerPage;
+                const end = start + rowsPerPage;
+                
+                for (let i = 0; i < filteredRows.length; i++) {
+                    if (i >= start && i < end) {
+                        filteredRows[i].style.display = '';
+                    } else {
+                        filteredRows[i].style.display = 'none';
+                    }
+                }
+            }
+            
+            // Setup pagination buttons
+            function setupPagination() {
+                paginationContainer.innerHTML = '';
+                const pageCount = Math.ceil(filteredRows.length / rowsPerPage);
+                
+                // No need for pagination if only one page
+                if (pageCount <= 1) {
+                    return;
+                }
+                
+                // Previous button
+                if (currentPage > 1) {
+                    const prevButton = document.createElement('button');
+                    prevButton.innerHTML = '&laquo; Prev';
+                    prevButton.addEventListener('click', function() {
+                        currentPage--;
+                        displayRows();
+                        setupPagination();
+                    });
+                    paginationContainer.appendChild(prevButton);
+                }
+                
+                // Page buttons
+                let startPage = Math.max(1, currentPage - 2);
+                let endPage = Math.min(pageCount, startPage + 4);
+                
+                if (endPage - startPage < 4) {
+                    startPage = Math.max(1, endPage - 4);
+                }
+                
+                for (let i = startPage; i <= endPage; i++) {
+                    const button = document.createElement('button');
+                    button.textContent = i;
+                    
+                    if (i === currentPage) {
+                        button.classList.add('active');
+                    }
+                    
+                    button.addEventListener('click', function() {
+                        currentPage = i;
+                        displayRows();
+                        setupPagination();
+                    });
+                    
+                    paginationContainer.appendChild(button);
+                }
+                
+                // Next button
+                if (currentPage < pageCount) {
+                    const nextButton = document.createElement('button');
+                    nextButton.innerHTML = 'Next &raquo;';
+                    nextButton.addEventListener('click', function() {
+                        currentPage++;
+                        displayRows();
+                        setupPagination();
+                    });
+                    paginationContainer.appendChild(nextButton);
+                }
+            }
+            
+            // Event listeners
+            searchInput.addEventListener('input', function() {
+                currentPage = 1;
+                initializePagination();
+            });
+            
+            mismatchesCheckbox.addEventListener('change', function() {
+                currentPage = 1;
+                initializePagination();
+            });
+            
+            // Initialize
+            initializePagination();
+        });
+    </script>
+
+    </div>
+</body>
+</html>

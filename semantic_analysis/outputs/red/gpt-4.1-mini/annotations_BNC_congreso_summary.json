@@ -1,0 +1,370 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "red",
+  "corpus": "BNC_congreso",
+  "date": "27/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": ", CAPITAL P </s><s> Among the logo-bearing lorries </s><s> we made our way to heaven, </s><s> garage-bunting flagging us off, </s><s> and a roundabout redded with poppies... </s><s> A Whitsun-gift, to be at home </s><s> in any new idiom: </s><s> words on stilts, triangle-language, </s><s> the hieroglyphs at",
+      "human_category": "BE(COME)_RED",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 2,
+      "text": "a good job right and and now she''s you know it''s not right but at the moment it gets us over a q over a quick fix </s><s> You can always red circle that salary at a later date and hold her increases down against other people. </s><s> There are all sorts of options </s><s> But as",
+      "human_category": "NONE",
+      "model_category": "NOUN",
+      "match": false
+    },
+    {
+      "id": 3,
+      "text": "all about you, and what you said about Big Norm, Sniffer, Uncle Billy, an'' that back in t'' seventies. </s><s> Serves you right you red nosed, gobshite, pissed-up old dosser. 44 days, 44 days... </s><s> From: </s><s> Date: Tue, 28 Sep 93 13:53 GMT </s><s> Subject: Uk trip...'' you",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": "cloves, crushed </s><s> 4 tbsp sunflower oil </s><s> 1⁄4 tsp chilli powder </s><s> 1⁄4 tsp ground cinnamon </s><s> 1⁄4 tsp grated nutmeg </s><s> 400g/14oz can red kidney beans, drained </s><s> 50g/2oz fresh breadcrumbs </s><s> 2 tbsp fresh coriander leaves </s><s> 1 egg yolk </s><s> 1 tbsp sesame seeds, to",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "interference colours, the bright colours of Plate 6.1b are produced by an amphibole mineral (pale colour to yellow to red ) and the black and white stripey pattern by the feldspar mineral plagioclase. </s><s> (These two minerals form a rock type",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 6,
+      "text": "painted over and ornamented in all kinds of ways. </s><s> There seems to have been a hierarchy of colours, ranging from grey, to red for the principal rooms. </s><s> It all took a lot of investigation, finding paint traces on plaster plugs in the timbers, for",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 7,
+      "text": "cream sundae </s><s> Treat yourself to this cool and extravagant dessert </s><s> Serves 4 </s><s> 300ml (1⁄2pt) whipping cream </s><s> 397g (14oz) can red cherry pie filling </s><s> 8 scoops vanilla ice cream </s><s> 60ml (4 tbsp) chocolate sauce </s><s> 4 strawberries, sliced </s><s> METHOD </s><s> Gently whip",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "particular favourite with my catering business. </s><s> 1 × 400g/14oz can borlotti beans, drained and rinsed 1 × 400g/14oz can red kidney beans, drained and rinsed 6–8 small dill cucumber pickles, diced 175g/6oz cherry tomatoes 2 × 15ml/tbsp",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": ", but do include red kidney beans. </s><s> 175g/6oz green beans 175g/6oz broad beans 1 × 400g/14oz chick peas 1 × 400g/14oz can red kidney beans 100ml/4fl oz vinaigrette dressing good pinch ground chilli salt and pepper to taste </s><s> 1. </s><s> Cook the green and",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "shutting a green eye and opening a red one. </s><s> In CD''s day railway signal-lights were normally kept at green, but changed to red when a train was actually in a station or about to enter it. </s><s> Thus Bella and John Harmon, seeing the signal change from",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "<s> 1 red pepper, seeded and chopped </s><s> 1 pkt taco seasoning or tsp chilli powder </s><s> 400g/14oz can plum tomatoes </s><s> 425g/15oz can red kidney beans, drained and rinsed </s><s> freshly ground black pepper </s><s> shredded lettuce, chopped tomatoes, chopped cucumber,",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 12,
+      "text": ". </s><s> When the guest departs, after settling the account, the cashier will press a switch and the light will go from off to red to indicate that the room is vacant and ready to be cleaned. </s><s> The housekeeper then has the room serviced and when it is",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 13,
+      "text": ", or, perhaps more romantically, that it is named after the sunset hues which turn the mountain here from a gentle rose to red each evening. </s><s> The original village, first made an appearance in the public records in 1056 when it donated land for a",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 14,
+      "text": "? </s><s> Oh that''s not bad is it? </s><s> No, oh, oh, oh, not not so bad! </s><s> No. </s><s> No, don''t get that one, it''s a red one that goes in there. </s><s> That, red ah </s><s> Red hole. </s><s> It can go in there. </s><s> That goes like that. </s><s> You . </s><s> Ah. </s><s> Oh alright, okay when you''re ready. </s><s> In there. </s><s> Okay. </s><s> Goes in",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": ". </s><s> Mm oh! . </s><s> Particularly at the front, there were hundreds! </s><s> Little grubs, you know? </s><s> Mm. </s><s> still covered blue </s><s> Yeah. </s><s> red do one red please? </s><s> Oh no, it''s the other way round, yes do a red please? </s><s> I can''t I can''t reach ! </s><s> Can''t reach what love? </s><s> What? </s><s> Here. </s>",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "<s> Alright? </s><s> but they''re all money, money, money aren''t they? </s><s> Yeah I know but </s><s> Do what? </s><s> boo </s><s> Hooray, come on </s><s> come on come on you reds </s><s> If they got, if they''re not gonna win tonight, if they don''t beat Bolton I''m gonna tear my season ticket up look ah </s><s> You''re",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "so </s><s> Yeah, yeah </s><s> They were also saying about how good he is when they were interviewing </s><s> Yeah that''s right, yeah </s><s> come on you reds , come on you reds </s><s> mind you as if </s><s> no I never saw him playing no </s><s> come on you reds </s><s> go on oh crikey in the first minute, bloody hell",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 18,
+      "text": "were also saying about how good he is when they were interviewing </s><s> Yeah that''s right, yeah </s><s> come on you reds, come on you reds </s><s> mind you as if </s><s> no I never saw him playing no </s><s> come on you reds </s><s> go on oh crikey in the first minute, bloody hell, come on then </s>",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": "<s> Yeah that''s right, yeah </s><s> come on you reds, come on you reds </s><s> mind you as if </s><s> no I never saw him playing no </s><s> come on you reds </s><s> go on oh crikey in the first minute, bloody hell, come on then </s><s> come on you reds </s><s> Go on </s><s> Go on Jason </s><s> Jason go on </s><s> yeah </s><s> No it''s </s><s> What? </s>",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 20,
+      "text": "as if </s><s> no I never saw him playing no </s><s> come on you reds </s><s> go on oh crikey in the first minute, bloody hell, come on then </s><s> come on you reds </s><s> Go on </s><s> Go on Jason </s><s> Jason go on </s><s> yeah </s><s> No it''s </s><s> What? </s><s> it''s offside </s><s> Joanne you warm enough? </s><s> Yeah </s><s> Alright </s><s> oh dear </s><s> well play, come on",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": "<s> Jason go on </s><s> yeah </s><s> No it''s </s><s> What? </s><s> it''s offside </s><s> Joanne you warm enough? </s><s> Yeah </s><s> Alright </s><s> oh dear </s><s> well play, come on then </s><s> come on you reds , come on you reds, come on you reds </s><s> That''s yours David come on now good throw that goes to waste </s><s> I just laugh </s><s> don''t miss it,",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 22,
+      "text": "it''s </s><s> What? </s><s> it''s offside </s><s> Joanne you warm enough? </s><s> Yeah </s><s> Alright </s><s> oh dear </s><s> well play, come on then </s><s> come on you reds, come on you reds , come on you reds </s><s> That''s yours David come on now good throw that goes to waste </s><s> I just laugh </s><s> don''t miss it, what a miss </s><s> Ah? </s><s> It",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 23,
+      "text": "offside </s><s> Joanne you warm enough? </s><s> Yeah </s><s> Alright </s><s> oh dear </s><s> well play, come on then </s><s> come on you reds, come on you reds, come on you reds </s><s> That''s yours David come on now good throw that goes to waste </s><s> I just laugh </s><s> don''t miss it, what a miss </s><s> Ah? </s><s> It''s alright come on </s>",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 24,
+      "text": "<s> I didn''t think you had any </s><s> Well I think Joanne''s put some in </s><s> come on we''re pretty quiet this side go on </s><s> Go on </s><s> Ooh come on you reds </s><s> Come on </s><s> oh go on </s><s> Whey hey </s><s> Actually Neil </s><s> Ah? </s><s> I think when we come down we stand </s><s> can''t you see? </s><s> Well no not quite </s><s> Do you want to",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 25,
+      "text": "<s> Go on Jesus bloody Christ how could he of missed that come on Tim bloody three year old wouldn''t of missed that </s><s> come on you reds , come on you reds, come on you reds </s><s> Oh, straight into his bloody arms oh there''s a bit of a curve on it, no he won''t get that </s><s> Go",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "Christ how could he of missed that come on Tim bloody three year old wouldn''t of missed that </s><s> come on you reds, come on you reds , come on you reds </s><s> Oh, straight into his bloody arms oh there''s a bit of a curve on it, no he won''t get that </s><s> Go on </s><s> what? </s><s> Come on </s>",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": "he of missed that come on Tim bloody three year old wouldn''t of missed that </s><s> come on you reds, come on you reds, come on you reds </s><s> Oh, straight into his bloody arms oh there''s a bit of a curve on it, no he won''t get that </s><s> Go on </s><s> what? </s><s> Come on </s><s> Come on, no, come",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 28,
+      "text": "that </s><s> Go on </s><s> what? </s><s> Come on </s><s> Come on, no, come on Neil go on, oh he''s </s><s> Oh when the saints, when the saints go marching in come on you reds , come on you reds, come on you reds </s><s> Come on </s><s> Yeah I know, yeah </s><s> Oh dear, come on </s><s> Go on </s><s> Ooh, Jesus wake up man </s><s> Come on </s><s> What the hell",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 29,
+      "text": "on </s><s> Come on, no, come on Neil go on, oh he''s </s><s> Oh when the saints, when the saints go marching in come on you reds, come on you reds , come on you reds </s><s> Come on </s><s> Yeah I know, yeah </s><s> Oh dear, come on </s><s> Go on </s><s> Ooh, Jesus wake up man </s><s> Come on </s><s> What the hell are they doing,",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 30,
+      "text": ", come on Neil go on, oh he''s </s><s> Oh when the saints, when the saints go marching in come on you reds, come on you reds, come on you reds </s><s> Come on </s><s> Yeah I know, yeah </s><s> Oh dear, come on </s><s> Go on </s><s> Ooh, Jesus wake up man </s><s> Come on </s><s> What the hell are they doing, oh for bloody hell",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 31,
+      "text": "annoyed, he''d been there twelve years </s><s> Ooh </s><s> there should be six of these, there''s only four </s><s> Oh well </s><s> What a bloody </s><s> Come on you reds , come on you reds </s><s> I don''t fucking believe it </s><s> come on your reds, come on you reds </s><s> must be happy now </s><s> Oh, go on </s><s> No </s><s> go on then </s><s> Go on </s>",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 32,
+      "text": "there twelve years </s><s> Ooh </s><s> there should be six of these, there''s only four </s><s> Oh well </s><s> What a bloody </s><s> Come on you reds, come on you reds </s><s> I don''t fucking believe it </s><s> come on your reds, come on you reds </s><s> must be happy now </s><s> Oh, go on </s><s> No </s><s> go on then </s><s> Go on </s><s> Well played </s><s> get",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 33,
+      "text": "''s only four </s><s> Oh well </s><s> What a bloody </s><s> Come on you reds, come on you reds </s><s> I don''t fucking believe it </s><s> come on your reds, come on you reds </s><s> must be happy now </s><s> Oh, go on </s><s> No </s><s> go on then </s><s> Go on </s><s> Well played </s><s> get out of it </s><s> Oh </s><s> Ha </s><s> Go on then, get in there </s><s> Come on </s><s> What happened",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 34,
+      "text": "dear </s><s> Feet high, bit high, keep those feet down </s><s> Come on </s><s> Go on </s><s> bloody hell </s><s> You''re a rubbish manager, go back to Reading ah you reds </s><s> Come on Shaun </s><s> Come on Shaun well done Alan, come on Noddy pull your socks up, come on </s><s> No I didn''t bring a picnic basket </s><s> You",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 35,
+      "text": "for me to get in </s><s> Oh can you see alright down there David? </s><s> What? </s><s> Can you see alright down there? </s><s> Yeah </s><s> Good oh </s><s> Boo come on you reds </s><s> Yeah, David you might </s><s> do you? </s><s> No </s><s> where''s all your </s><s> Hey </s><s> yeah come on, for Christ sake better luck Jason </s><s> We''re one now </s><s> What for",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 36,
+      "text": "<s> Oh when the saints </s><s> go marching in </s><s> oh when the saints go marching in, I wanna be in that number oh when the saints </s><s> come on you reds ha, come on </s><s> come on you reds, come on you reds </s><s> Come on </s><s> Did you see that? </s><s> Come on for Christ sakes get in there </s><s> Quick </s><s> Come on you",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 37,
+      "text": "in </s><s> oh when the saints go marching in, I wanna be in that number oh when the saints </s><s> come on you reds ha, come on </s><s> come on you reds , come on you reds </s><s> Come on </s><s> Did you see that? </s><s> Come on for Christ sakes get in there </s><s> Quick </s><s> Come on you reds, come on you reds </s><s> Get",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 38,
+      "text": "saints go marching in, I wanna be in that number oh when the saints </s><s> come on you reds ha, come on </s><s> come on you reds, come on you reds </s><s> Come on </s><s> Did you see that? </s><s> Come on for Christ sakes get in there </s><s> Quick </s><s> Come on you reds, come on you reds </s><s> Get in there, come on </s>",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 39,
+      "text": "ha, come on </s><s> come on you reds, come on you reds </s><s> Come on </s><s> Did you see that? </s><s> Come on for Christ sakes get in there </s><s> Quick </s><s> Come on you reds , come on you reds </s><s> Get in there, come on </s><s> Go </s><s> Go on </s><s> Where the bloody are you </s><s> Ah you pillock </s><s> Come on </s><s> Come on </s><s> This is a football",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 40,
+      "text": "you reds, come on you reds </s><s> Come on </s><s> Did you see that? </s><s> Come on for Christ sakes get in there </s><s> Quick </s><s> Come on you reds, come on you reds </s><s> Get in there, come on </s><s> Go </s><s> Go on </s><s> Where the bloody are you </s><s> Ah you pillock </s><s> Come on </s><s> Come on </s><s> This is a football match at Southampton",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 41,
+      "text": ", Southampton versus Bolton, mind the language twenty sixth of the second, ninety-two goal kick go on </s><s> Come on you reds , come on you reds, come on you reds </s><s> Go on, go on </s><s> Oh </s><s> No didn''t </s><s> get on with it </s><s> that''s right </s><s> Oh oh yes </s><s> Go on, go on </s><s> Ha idiot </s><s> Off, off,",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "versus Bolton, mind the language twenty sixth of the second, ninety-two goal kick go on </s><s> Come on you reds, come on you reds , come on you reds </s><s> Go on, go on </s><s> Oh </s><s> No didn''t </s><s> get on with it </s><s> that''s right </s><s> Oh oh yes </s><s> Go on, go on </s><s> Ha idiot </s><s> Off, off, off, off, off ah? </s>",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 43,
+      "text": ", mind the language twenty sixth of the second, ninety-two goal kick go on </s><s> Come on you reds, come on you reds, come on you reds </s><s> Go on, go on </s><s> Oh </s><s> No didn''t </s><s> get on with it </s><s> that''s right </s><s> Oh oh yes </s><s> Go on, go on </s><s> Ha idiot </s><s> Off, off, off, off, off ah? </s><s> come on </s><s> for half",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 44,
+      "text": ", off, off ah? </s><s> come on </s><s> for half an hour this </s><s> I''d better see how much </s><s> go on then, oh come on </s><s> come on </s><s> Come on </s><s> Pick it up </s><s> Come on you reds no </s><s> Come on you reds, come on you reds </s><s> Watch </s><s> Good boy </s><s> Come on </s><s> Far side, far side </s><s> No here we go, here we go </s><s> Oh Jesus I thought that",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 45,
+      "text": "on </s><s> for half an hour this </s><s> I''d better see how much </s><s> go on then, oh come on </s><s> come on </s><s> Come on </s><s> Pick it up </s><s> Come on you reds no </s><s> Come on you reds , come on you reds </s><s> Watch </s><s> Good boy </s><s> Come on </s><s> Far side, far side </s><s> No here we go, here we go </s><s> Oh Jesus I thought that was it what''s he",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 46,
+      "text": "this </s><s> I''d better see how much </s><s> go on then, oh come on </s><s> come on </s><s> Come on </s><s> Pick it up </s><s> Come on you reds no </s><s> Come on you reds, come on you reds </s><s> Watch </s><s> Good boy </s><s> Come on </s><s> Far side, far side </s><s> No here we go, here we go </s><s> Oh Jesus I thought that was it what''s he doing, get it up",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 47,
+      "text": "there </s><s> Come on Alan </s><s> Come on </s><s> Oh my god </s><s> What are they dead or what? </s><s> I don''t know hello what''s happening there then? </s><s> Come on you reds </s><s> Oh who are they, a ticket? </s><s> Yeah good </s><s> come on you reds, come on you reds, come on you reds </s><s> Come on son, come on </s><s> he''ll break his",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 48,
+      "text": "or what? </s><s> I don''t know hello what''s happening there then? </s><s> Come on you reds </s><s> Oh who are they, a ticket? </s><s> Yeah good </s><s> come on you reds , come on you reds, come on you reds </s><s> Come on son, come on </s><s> he''ll break his bloody leg </s><s> come on then </s><s> Well done </s><s> Cor it''s all play at",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 49,
+      "text": "know hello what''s happening there then? </s><s> Come on you reds </s><s> Oh who are they, a ticket? </s><s> Yeah good </s><s> come on you reds, come on you reds , come on you reds </s><s> Come on son, come on </s><s> he''ll break his bloody leg </s><s> come on then </s><s> Well done </s><s> Cor it''s all play at that bloody end",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 50,
+      "text": "''s happening there then? </s><s> Come on you reds </s><s> Oh who are they, a ticket? </s><s> Yeah good </s><s> come on you reds, come on you reds, come on you reds </s><s> Come on son, come on </s><s> he''ll break his bloody leg </s><s> come on then </s><s> Well done </s><s> Cor it''s all play at that bloody end innit? </s><s> come on",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.88,
+    "matches": 44,
+    "total": 50
+  },
+  "category_distribution": {
+    "NOUN": 40,
+    "ADJECTIVE": 8,
+    "NONE": 1,
+    "BE(COME)_RED": 1
+  }
+}

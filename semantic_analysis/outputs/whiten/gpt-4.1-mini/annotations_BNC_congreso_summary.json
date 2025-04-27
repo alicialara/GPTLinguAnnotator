@@ -1,0 +1,373 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "whiten",
+  "corpus": "BNC_congreso",
+  "date": "27/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "two names on it. </s><s> Sophie, my dear, it's a veterinary practice. </s><s> Two men – R. H. Sheldrake and I. C. Woodall.' </s><s> Sophie's face whitened and Joanna sat rigid with shock as Helen continued, 'It's awful, isn't it? </s><s> I was shaken to the core at first, then Betty –",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "morning,' she said huskily. </s><s> He nodded, eyes narrowing. </s><s> 'Just make sure you're never alone with the bastard.' </s><s> She whitened , appalled. </s><s> 'You don't think he'd try to –' </s><s> 'Seduce you?' </s><s> Jamie's voice was grim. </s><s> 'It's the smart move, Rachel. </s><s> You're",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "child into the cot, not taking her eyes from her exquisite face, Ruth stood gripping the sides of the cot with fingers whitened in an attempt at stopping them shaking. </s><s> Tears rivered down Ruth's face till she could see no longer. </s><s> This was Maria",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": "it is used as part of a structure or decoration, a tiny amount only of acetic acid or cream of tartar could be added. </s><s> To whiten and add elasticity to icing for piping purposes, a squeeze of lemon juice is used. </s><s> When making royal icing, ensure that",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "a moment on the latter. </s><s> He sounded even more angry, even more unfriendly. </s><s> Robyn gripped the fountain until her knuckles whitened and spoke with a great deal of effort, concentrating on forming her words so that they didn't sound slurred. </s><s> 'I dropped",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 6,
+      "text": "it? </s><s> It happened, but it... it wasn't meant to!' </s><s> She moved blindly to the door, gripping the handle until her knuckles whitened . </s><s> She knew she was handling this badly, acting like a fool, making a scene because she couldn't face the pretence, could",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": "a successful contest of the will? </s><s> I had not heard of it?' </s><s> 'No, I have not. </s><s> But I don't need to, Madam Harlot!' </s><s> Theda's lips whitened , but she gave no other sign of the distress this label caused her. </s><s> 'You are very free with your assumptions, and your –",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": ". </s><s> Matey might not work so hard as McAllister did, or perform such menial tasks, like scrubbing the kitchen floor and whitening the front doorstep – which was next on McAllister's list of duties – but she did her share and was never idle, even in her",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "white </s><s> The Nigerian government is fighting an uphill battle to discourage its people from using 'beauty' aids which whiten the skin. </s><s> Although 34 medicinal soaps and creams which contain bleaching agents such as mercury compounds have been",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "then they'd throw you to whatever man happened to be passing for the money you'd earn for them.' </s><s> Isabel knew her face had whitened ; the pictures conjured up by Ellen's speech awakened all her most terrifying memories. </s><s> But if she let fitzAlan carry",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "from the main gates up to the entrance of the compound, and the stones which marked the main track had all been specially whitened . </s><s> During the night there was torrential rain. </s><s> The students and staff were up at Sam re-painting the stones and filling up",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 12,
+      "text": "his office that I realized the plan was upside down. </s><s> Tel-boy was a worried man. </s><s> I could see that from the way his knuckles whitened around the telephone. </s><s> He wasn't saying much; mostly 'yessir' and 'certainly' and he ended with the words 'Very well, Mr",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "of him!' </s><s> For a moment, he reminded Melissa of Lou in his haste to defend a loved one, but she had seen how his knuckles whitened on hearing the story and guessed what he must be thinking. </s><s> Little by little, he was getting to know the true Angy. </s><s> She",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "relationship with Lou and Rick?' </s><s> 'Rick? </s><s> You mean that brute she ran away from? </s><s> Yes, of course I did.' </s><s> Eddie's knuckles whitened as she gripped the back of her chair. </s><s> 'Angy and I had supper together on the Monday evening but she never said that girl had",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": "and spelt out the sign </s><s> on the steel tag screwed to the window-frame: </s><s> NE JETEZ AUCUN OBJET PAR LA FENETRE. </s><s> Her knuckles whitened round the neck of the jar. </s><s> Some corner of a foreign field... he never </s><s> gave a toss for that. </s><s> He'd sold his medals </s><s> for coppers",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "set up and a school is in session (see below). </s><s> The smallest children bring a slate or a tathi. </s><s> A tathi is a wooden board, whitened with a chalky substance on which the child writes with a wooden pen dipped in black ink. </s><s> It is taken home every night to be",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "the new smell. </s><s> The whole South West </s><s> Was black as nightfall. </s><s> Trailing squall-smokes hung over the moor leaning </s><s> And whitening towards us, then the world blurred </s><s> And disappeared in forty-five degree hail </s><s> And a gate-jerking blast. </s><s> We got to cover. </s>",
+      "human_category": "NOUN",
+      "model_category": "BE(COME)_WHITE",
+      "match": false
+    },
+    {
+      "id": 18,
+      "text": "<s> Burning to frails of charcoal </s><s> Roar blind, and swing blindly, a hill-top </s><s> Helpless self-defence. </s><s> Snow </s><s> Is erasing them, whitening blanks </s><s> Against a dirty whiteness. </s><s> The new jolly lambs </s><s> Are pleased with their nursery. </s><s> A few cavorts </s><s> Keep trying their",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": "<s> to the music of Workers' Playtime. </s><s> At dusk the parachute packers </s><s> release their hair from its nets </s><s> and ride down lanes whitened by cow-parsley </s><s> to village halls, where the dances </s><s> and beer and the first cigarettes </s><s> expunge the clouds of parachute",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 20,
+      "text": "was burnt alive. </s><s> He had only one candle which was not powerful enough to start such a blaze so quickly whilst the fire was whitened ash.' </s><s> 'What about gunpowder?' </s><s> 'What do you mean?' </s><s> 'Well, a trail of gunpowder from the bed under the doorway, then",
+      "human_category": "ADJECTIVE",
+      "model_category": "BE(COME)_WHITE",
+      "match": false
+    },
+    {
+      "id": 21,
+      "text": "to go hunting. </s><s> So he'd rushed to the field, catching a sun-dazed pony, scrambling onto the broad back, hair and scurf whitening the new trousers, cantering over the paddocks and clattering into the yard where Peter and Andrew were almost ready. </s><s> He",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": false
+    },
+    {
+      "id": 22,
+      "text": "plot was so eminently forgettable, she could start again, once she was through. </s><s> She watched her bare toe rub against the whitened concrete of the balcony. </s><s> It was a nice toe, she decided. </s><s> Here's to you, toe, she said, raising her long clear glass of",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 23,
+      "text": "mother was born there.' </s><s> He pointed at a shell on the far side of the street. </s><s> 'They fired the thatch –' His hands gripped and whitened . </s><s> 'They fired every house and they ran the men down like deer. </s><s> The women and children had gone off to the caves –, 'Did you",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 24,
+      "text": "in 4kg sections and can be machine sliced. </s><s> Coffee creamer </s><s> COFFEE Rich is a frozen non-dairy creamer which can be used for whitening coffee or creaming sauces. </s><s> It is Kosher-approved and is available in half-ounce portions, 500g servings and 1kg",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 25,
+      "text": ". </s><s> Behind the house, a rotting clothes line stretched, a forked hazel bough still holding it aloft. </s><s> Bird droppings whitened a window sill, and from the bottom of the broken front door Winnie saw a mouse scurry for cover in the dead grass by the door",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "and her stays would allow. </s><s> 'Oh bother!' she allowed herself a wee expletive and reached for the telephone daintily with whitened fingers. </s><s> Cook had the afternoon off and she had been coming to grips with her occasional souffle, when the 'monster' had",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 27,
+      "text": "skin? </s><s> Our cosmetics and toiletries have come a long way since the days when Elizabeth I used highly toxic lead powder to whiten and enhance her complexion! </s><s> But some dermatologists believe that today's skin products can do more harm than good. </s>",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 28,
+      "text": "useful when brushing to lay them flat on the floor and to use a deck scrubber. </s><s> Finishing with hypochlorite is useful as it whitens the wood and removes stains thus improving appearance. </s><s> It should be noted that this type of shelf should be replaced",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 29,
+      "text": "wooden shelter was in place, already bleached by the sun. </s><s> In the refining sheds, the last of the cones stood, cooling and whitening , and dripping their slow, golden molasses into their jars. </s><s> There were not so many men about now. </s><s> Some had gone back to",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 30,
+      "text": "stay with her.' </s><s> A smell of hot soup filled the room. </s><s> Like the mark of a slap, an arc of pink sprang across each of the boy's whitened cheeks. </s><s> He watched the bowl, and seized it, and then, meeting the physician's eyes, took the spoon and fed himself,",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 31,
+      "text": ". </s><s> She had that stone chess table made too and put inside. </s><s> Chess was Hammond's passion. </s><s> Jack watched the swollen knuckles whiten as Jamie gripped the wheel. </s><s> 'It's a shame he didn't stick to chess instead of cards,' the old man finished. </s><s> 'Was there",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 32,
+      "text": "for Gairloch. </s><s> Streamers of snow blew from its sharp-toothed ridges. </s><s> At each de-veiling of sleeting showers more snow whitened the tops and yet there were still leaves on the trees at the roadside. </s><s> On Loch Maree the islands were dumpy, thick with",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 33,
+      "text": ": </s><s> 1. </s><s> Regular flossing of teeth is essential for healthy gums. </s><s> It helps to: a) strengthen teeth b) remove plaque c) whiten teeth </s><s> 2. </s><s> How many times a year do Jordan recommend that you change your toothbrush? a) 4 b) 1 c) 2 </s><s> 3. </s><s> In which Disney cartoon",
+      "human_category": "BLEACH",
+      "model_category": "BLEACH",
+      "match": true
+    },
+    {
+      "id": 34,
+      "text": "them.' </s><s> Murtach cocked a brow. </s><s> 'Indeed? </s><s> But then there are strange bedfellows about in these times, are there not?' </s><s> She whitened , and Riven saw the knuckles bunch on her riding whip. </s><s> But then she jerked her horse around savagely, and wheeled off with",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 35,
+      "text": "on the ground, and wisps of something immaterial. </s><s> The night went out. </s><s> Susan and I sat on the paling hillside as the sky whitened . </s><s> There was a slight breeze that riffled her hair. </s><s> As the dreamsun showed us the insubstantial outlines of the City down",
+      "human_category": "BE(COME)_WHITE",
+      "model_category": "BE(COME)_WHITE",
+      "match": true
+    },
+    {
+      "id": 36,
+      "text": "do what your father did, could you, Nigel? </s><s> Business, women, even crime. </s><s> You just never made it.' </s><s> Nigel Steen's knuckles whitened around the gun and Charles uttered another silent prayer. </s><s> He seemed to be getting very religious all of a sudden. </s><s> '",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 37,
+      "text": "class men played their part in the creation of a culture of respectability by the pride they took in their homes. </s><s> Freshly whitened steps signalled their status within the working class community and denoted the border of the respectable family's",
+      "human_category": "ADJECTIVE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": false
+    },
+    {
+      "id": 38,
+      "text": ", he said coldly: 'Not touch you? </s><s> I touch what's mine, if I so desire. </s><s> Do you think that you could stop me?' </s><s> Cassie's face whitened and she said, in a voice every bit as icy and disdainful as his own: </s><s> 'Where did you get hold of the idea that I was yours, John",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 39,
+      "text": "the kitchen stove which was nothing but steel: I had to do that down every morning till you could see yourself in it; and whiten the hearth. </s><s> I polished the steel with bath-brick; and I also had to do the morning-room stove. </s><s> And that was all copper,",
+      "human_category": "BLEACH",
+      "model_category": "COAT_WITH_WHITE",
+      "match": false
+    },
+    {
+      "id": 40,
+      "text": ", has produced colour of a unique depth and resonance. </s><s> The result was painstakingly achieved. </s><s> Working in the enclosed, whitened space which is integral to the piece, Bargh laboriously applied and reapplied the loaded pigment, sanding the surface",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 41,
+      "text": "BEAUTY </s><s> The juice of a raw potato contains anti-inflammatory properties which will soften, tighten and slightly whiten skin. </s><s> As a treat for puffy eyes and dark shadows, grate half a raw, peeled potato, then leave it on a saucer until the juice",
+      "human_category": "MAKE_WHITE",
+      "model_category": "BLEACH",
+      "match": false
+    },
+    {
+      "id": 42,
+      "text": ". </s><s> His use of skilled craftspeople to make his objects, his thorough-going professionalism, his choice of imagery – ' whitened ' black pop star Michael Jackson, porno-politician La Cicciolina – pose questions about the relationship between the",
+      "human_category": "ADJECTIVE",
+      "model_category": "MAKE_IDENTITY_WHITE",
+      "match": false
+    },
+    {
+      "id": 43,
+      "text": "and Hall; 1992, Pp. 275 –29.95, £47.50 </s><s> WHEN walking across the upland fells of Britain, it is not uncommon to find the whitened jawbone of a long-dead sheep, teeth rattling in its sockets. </s><s> Food for thought on a wet day for both the developmental and",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 44,
+      "text": "of terraced houses. </s><s> As she walked briskly along the turning in the cold morning air Nellie spotted Aggie Temple busily whitening her front doorstep and she smiled to herself. </s><s> Aggie was a spotlessly clean woman who prided herself on her housekeeping",
+      "human_category": "COAT_WITH_WHITE",
+      "model_category": "COAT_WITH_WHITE",
+      "match": true
+    },
+    {
+      "id": 45,
+      "text": "aroused, leaned on Athelstan's arm and, standing on tiptoe, peered over the rim of the cart. </s><s> She stared in horror at the whitened , frozen cadavers which lay there under a tattered, canvas sheet. </s><s> Their limbs hung all awry but round the neck of each was",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 46,
+      "text": "his eyes and breathed a prayer as he glimpsed the blue-black holes where the hungry ravens had pecked at the scrawny, whitening flesh. </s><s> 'God rest him!' </s><s> Cranston murmured. </s><s> 'Brother, there is nothing we can do.' </s><s> They moved on through a silent,",
+      "human_category": "ADJECTIVE",
+      "model_category": "BE(COME)_WHITE",
+      "match": false
+    },
+    {
+      "id": 47,
+      "text": "falter. </s><s> 'Guilty,' the aged tones knoll forth, </s><s> 'of innocence in the first degree.' </s><s> As today's soot blackens </s><s> The whitened case </s><s> It rattles as the carcass turns </s><s> Rootless </s><s> Breathless from play </s><s> As 10,000 brows furrow in disbelief. </s><s> A whispered, '",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 48,
+      "text": "that table is in It's been stripped. </s><s> Now the first er process after that, it's all sanded down, and then there's a sort of whitening mixture, stooking mixture, is all rubbed into that and you've to wait till it dries. </s><s> Then that's rubbed up, that's to",
+      "human_category": "NOUN",
+      "model_category": "COAT_WITH_WHITE",
+      "match": false
+    },
+    {
+      "id": 49,
+      "text": "of black greasy hair; as if to tug those and release an inner pressure. </s><s> And Yeremi Valence? </s><s> The runes on his cheeks had whitened . </s><s> Lexandro sensed homicidal – xenocidal – pheromones upon the air. </s><s> Another cadet – freckled Hake Bjortson – totally",
+      "human_category": "BE(COME)_PALE",
+      "model_category": "BE(COME)_PALE",
+      "match": true
+    },
+    {
+      "id": 50,
+      "text": "...' </s><s> Always when the snow had recently fallen there was a damp fog over the camp, a link between the low grey cloud and the whitened ground. </s><s> It was hard for the Major to see the little procession that moved away from the Administration block towards the",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.74,
+    "matches": 37,
+    "total": 50
+  },
+  "category_distribution": {
+    "BE(COME)_PALE": 19,
+    "ADJECTIVE": 9,
+    "MAKE_WHITE": 8,
+    "COAT_WITH_WHITE": 5,
+    "BLEACH": 5,
+    "NOUN": 2,
+    "BE(COME)_WHITE": 2
+  }
+}

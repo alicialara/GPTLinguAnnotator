@@ -1,0 +1,376 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "blacken",
+  "corpus": "BNC_congreso",
+  "date": "27/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "stud retrieved from history. I take out two bridges, goose-pimpled with rivets, and notice that a child has cleverly blackened the underside of one with smoke from a candle. There is a trunk, labelled WINDSOR, ENGLAND, EXPRESS, but the tracks were",
+      "human_category": "MAKE_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": ", our white ironwork garden furniture – Brobdingnag lace – has reacquired its sense of place against these shower- blackened flagstones. A winter's evening, but chairs and a wobbly table bring back something of summer: a pair of glasses, folded",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "my guess is that he was too much of a gentleman. He must have realised you didn't know about Paul and he wasn't prepared to blacken my name in any way.' She paused, and when she looked up her eyes were suspiciously bright. 'He's a great guy, you know,",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": "mythical beasts on it like that, around here, but also as to its colour cos although the original we found was actually blackened , when one took when I took a very powerful torch to it, you could actually see the colour in the crevices still, this red",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": false
+    },
+    {
+      "id": 5,
+      "text": "fire dogs for it. Smoke went out there. The original beam, black and that beam across there is the original beam which is blackened by all the smoke. Right, the arch braces of course had to be put in because they were if you look at it you'll see that they",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BURN",
+      "match": false
+    },
+    {
+      "id": 6,
+      "text": "justify her actions? All she had to do was admit to something she hadn't done. But in the morning the self-betrayal would blacken all memories. Lips twisting, she picked up her comb and began to pull it through her hair. 'I wish to God I'd never met you,",
+      "human_category": "MEMORY",
+      "model_category": "MEMORY",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": "you . But with all this soft talk of falling in love again you think a refusal wouldn't be a consideration.' His eyes blackened angrily and Ruth supposed she had been right and exposed him for what he was – a cool bastard. 'I haven't even got that far",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "down and as his mouth claimed hers so impassionately a flash of hope surged in her heart like a spear of lightning out of a blackened sky. Her senses reeled and she fell into his arms as his lips parted hers. The force and the power of his claim on her heart",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "you had to sit with neck bent or smash your head against the ceiling. All the inside surfaces were wood, the fire smoke had blackened them and the heat produced a rich resinous smell of burning pine. We sat on the bench looking out of the window that was the",
+      "human_category": "MAKE_BLACK",
+      "model_category": "BURN",
+      "match": false
+    },
+    {
+      "id": 10,
+      "text": "things has fallen in – these paprika patches on the factory floor are corrugated remnants of protective tin. Oddments blacken strangely on a nearby fence: rags, an old glove in a liquorice droop, wash leathers warp with dull black holly claws. It",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "in Lothian than snapping at his heels for a bigger share of Northumbria.' 'I agree with you,' Thorfinn had said. 'To blacken Lothian would do him no service. He must attack Wedale, yes; and the Norman lands to the west and any fortresses near. But",
+      "human_category": "BURN",
+      "model_category": "MAKE_BLACK",
+      "match": false
+    },
+    {
+      "id": 12,
+      "text": "threw his hands this way and that, as if urging the cottages to speak for themselves. Gouts of rain tippled off his hat and blackened the black of his cloak. 'Don't you know a plague town when you see one? Every soul in this place was carried off this last",
+      "human_category": "MAKE_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "to be in! On the one hand I could send us both to prison, shame my mother, beggar my brothers, scandalize the city and blacken the Miletti name for evermore. On the other hand, I could do, I did, exactly the opposite, keeping my father satisfied",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "on his side, after all. Because, after all, no-one had, as yet, told him that Presley City was going to be little more than blackened rubble in just two days time. Perhaps if they had he would have been trying just a little harder and not preparing himself",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 15,
+      "text": "it did so too. It was literally carbonized, lacking a roof and rattling noisily upon four tyreless rims. On the bare and blackened springs of what once had been the driver's seat, sat the bare and blackened remains of what once had been something or",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "upon four tyreless rims. On the bare and blackened springs of what once had been the driver's seat, sat the bare and blackened remains of what once had been something or other. It wasn't human and it wasn't nice. It was very angry though and in",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "at once. 'Oh bollocks,' muttered the Anti-Rex, 'Dee and Kelley, where are you?' 'Talked all night,' said Johnny Dee to blackened Bill. 'Waffle waffle waffle. All kinds of plots and plans and evil schemes. All crap, if you ask me. Ed and I had to go along",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 18,
+      "text": ". That's all you have to know. And in a little over nine hours you'll all be dead too. This city will be gone, nothing but blackened rubble. And do you know why?' The puzzled head-scratching continued in some quarters, but helpless shrugging had now",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": "ll be able to tell her hand on heart you kept the faith,' said Mallachy. 'It'll save you the trouble of telling lies, and blackening your soul, and paving the way for your long sojourn in hell.' Rory pulled the BMW over to the kerb. They were near the",
+      "human_category": "CORRUPT",
+      "model_category": "CORRUPT",
+      "match": true
+    },
+    {
+      "id": 20,
+      "text": ", soon lost among the trees. Morthen kicked the wild horse and galloped up to the earth wall. Her face was black. She had blackened her limbs and her shallow breast. Her hair was streaked white. She was wearing the rags of her old tunic, hanging in",
+      "human_category": "PAINT_BODY_BLACK",
+      "model_category": "PAINT_BODY_BLACK",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": ", he had referred to Tallis as the woman whom he loved, and Morthen had taken both statements to her young heart. She had blackened her body to signal the blackening of her spirit. 'How will she get across the marsh?' Tallis asked, and Wyn-rajathuk",
+      "human_category": "PAINT_BODY_BLACK",
+      "model_category": "PAINT_BODY_BLACK",
+      "match": true
+    },
+    {
+      "id": 22,
+      "text": "woman whom he loved, and Morthen had taken both statements to her young heart. She had blackened her body to signal the blackening of her spirit. 'How will she get across the marsh?' Tallis asked, and Wyn-rajathuk glanced at her, then cocked his head,",
+      "human_category": "NOUN",
+      "model_category": "PAINT_BODY_BLACK",
+      "match": false
+    },
+    {
+      "id": 23,
+      "text": "to the east. This new movement was the boy. He appeared on the grass. He held two tall staffs, one in each hand. His face was blackened , an echo of Morthen. Around his body were tied strips of greying cloth, and Tallis recognized the ragged shrouds of the",
+      "human_category": "BURN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 24,
+      "text": "overnight there, conscious that just yards away a biting winter was flaring and dying, the trees sprouting, then blackening again, as if the buds were tiny creatures, grasping and snatching at the light, then quickly tugging back into their",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": true
+    },
+    {
+      "id": 25,
+      "text": "edifices of the ancient place covering the canyon, seemingly hewn from the stone itself. Among those ruins, among the blackened oaks and thorns, fires burned. Now, when Tallis listened hard, she could hear a drum being beaten as a warning. It was a",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "down their lengths; and in the centre of each watching wood were the shrivelled greying sorrows of severed sex. Blood, blackening now, was the paint on the birchwood gods. Huge carrion birds gorged on the flesh. They rose in panic as Tallis blundered",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": "on wings of song. But he was smiling. He flailed around on the snow. He found Tallis and lifted her. He kissed her blackened face. He hugged her charred body. He stared at her through eyes that saw the shadows of many lands. He had absorbed Arak,",
+      "human_category": "ADJECTIVE",
+      "model_category": "BURN",
+      "match": false
+    },
+    {
+      "id": 28,
+      "text": "an hour later she was sitting cross-legged on the floor trying to come to terms with the lengths Jason Prior had gone to to blacken her reputation and safeguard his job. Luckily she had proof, because she didn't think it was going to take long before he",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 29,
+      "text": "bed, her legs crossed beneath her, and tried to hang on to her sanity. 'You can't ask me to leave just because someone has blackened my name –' Once more she was interrupted. 'I'm afraid we can, my dear. Look, we are all very sorry, but we have to think of",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    },
+    {
+      "id": 30,
+      "text": "a dressmaker!' 'And what made her run his mother in to Dublin to change her wedding outfit, a woman, moreover, who'd blackened the character of her beloved grandfather.' 'What?' she whispered. 'He wasn't Phena's father, was he? No,' he",
+      "human_category": "CORRUPT",
+      "model_category": "DEFAME",
+      "match": false
+    },
+    {
+      "id": 31,
+      "text": "light bulb. The halogen bulb's unique regenerative cycle means that the filament does not wear out, the glass does not blacken , and the bulb lasts much longer than ordinary bulbs in fact, for between 2000 and 400 hours – all of which makes the",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": true
+    },
+    {
+      "id": 32,
+      "text": "At this moment, she realised, all she felt was cold and stiff and tired and more than a little queasy. She glanced up at the blackened night sky, pin-pointed with stars so wondrous that it made her feel like crying, and wished she were home, warm and safe",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 33,
+      "text": ", her body as rigid as the pretty statuette she clung to. She stared down at the scattered glass shimmering in the blackened water, remembered stories of people drowning in only inches of water and acknowledged her condition with a sinking",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 34,
+      "text": "now struck a flutter of apprehension in her breast. For the bald trunks with their empty branches thrusting into the blackening sky echoed the bleak and eerie threat of the thicket that ran parallel down its length, bordering the estate. At the end",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 35,
+      "text": "of natural grass were collected from the author's garden, merely subjected to various conditions and placed on blackened baking trays. White and grey test cards, and the samples, were viewed vertically from 30cm, though the greater",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 36,
+      "text": "key in the lock, when I could emerge from the back, into the front, maybe, the dining-room. But now, as evening dust blackened the room, and my loose black hair pressed dead against the sheet, I lifted my hand and looked at it. There was nothing else",
+      "human_category": "MAKE_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": false
+    },
+    {
+      "id": 37,
+      "text": "day most machines were running. Intense heat had melted and buckled the twisting frame that caught fire. Charred and blackened cones of yarn, melted plastic and rubber mixing with the mess. It will not run again for some time, but from the human",
+      "human_category": "ADJECTIVE",
+      "model_category": "BURN",
+      "match": false
+    },
+    {
+      "id": 38,
+      "text": "away from the house, Carolyn stubbed her toe badly on a brick end and had to sit down to nurse it. There was a log beside the blackened site of an old bonfire. As she sat rubbing her foot a sense of the ground around her intruded on her anger; a sense of the",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 39,
+      "text": "sky. He blew out his cheeks in an exaggerated gesture of effort and grinned, his teeth gleaming whitely against his blackened features in the darkness below. Grant glanced out beyond the dangling figure. Thirty yards away, the pack were even",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 40,
+      "text": ", with the exception of his three buddies, Chuck, Jube and Red. He was still trying to find them among the milling blackened faces, when a sudden shout drew everyone's attention to a flicker of torch light weaving through the trees towards the",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 41,
+      "text": "figure pointing a shotgun straight at them. It was not until the oriental had addressed the armed newcomer with the blackened face, that the two youngsters had recognised him as the private detective Brett Grant. Now, stumbling through the",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 42,
+      "text": "the port for over a month. Progress of US-led military operations The first US troops, heavily armed and with faces blackened , waded ashore and dug in on Mogadishu beaches early on Dec. 9, to be met by media lights and scores of news reporters. A",
+      "human_category": "PAINT_BODY_BLACK",
+      "model_category": "PAINT_BODY_BLACK",
+      "match": true
+    },
+    {
+      "id": 43,
+      "text": "of Brazil is a land of many kinds of hungers, and of a formidable thirst. Infants who die of dehydration, their tongues blackened (their mothers say) and hanging from their mouths, compete for attention with equally brutal images of thirst-driven",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": true
+    },
+    {
+      "id": 44,
+      "text": ".' He sighed deeply but dared not disobey. Tenderly, she laid the first few bundles in the pail and sat back on her heels, blackened fingers curled, like a housewife waiting for the stove to light. In the bottom of the bucket the newspaper burned",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 45,
+      "text": "was no further sound except the steady suppuration of the fire. Then the landing window fell out in a rain of sparks and blackened timber and from the road came the terrifying, metallic clamour of the fire-engine bell. 'Emmie,' Oliver said. His",
+      "human_category": "ADJECTIVE",
+      "model_category": "BURN",
+      "match": false
+    },
+    {
+      "id": 46,
+      "text": "at Westminster, a Puritan, a lozenge of sanctified humility, got up from his arse and roared at me because I called him a blackened turd. 'Shallot,' he bellowed, 'you'll either die by hanging or die of the pox!' 'That, sir,' I coldly replied, 'depends",
+      "human_category": "NONE",
+      "model_category": "DEFAME",
+      "match": false
+    },
+    {
+      "id": 47,
+      "text": "still talking about the servant-girl's revelations when dawn broke on a grim picture. Windowless, roofless and with blackened walls, the manor house was still smoking and nobody dared go inside just yet. Dolly was one of the assembled crowd.",
+      "human_category": "ADJECTIVE",
+      "model_category": "BURN",
+      "match": false
+    },
+    {
+      "id": 48,
+      "text": "the army – he is an educated man, a graduate. He taught in a primary school near Basra. Mr. Al Sultan is now a shrivelled, blackened person. His poor hands are black claws with burns from napalm bombing. He has no eyelids. He cannot sleep. His eyelids",
+      "human_category": "ADJECTIVE",
+      "model_category": "BURN",
+      "match": false
+    },
+    {
+      "id": 49,
+      "text": "hotelware, earthenware, crockery and china may be used provided it does not have metallic decoration which will blacken and spoil if used with microwave energy. A Mealstream oven can be operated as a straightforward commercial microwave",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": true
+    },
+    {
+      "id": 50,
+      "text": "therapeutic undertaking, which was very very and institutionalized for therapy, and the black books had already been blackened , as it were. People were already tending to ignore these very works we're looking at, theomonoism we'll be looking at",
+      "human_category": "DEFAME",
+      "model_category": "ADJECTIVE",
+      "match": false
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.68,
+    "matches": 34,
+    "total": 50
+  },
+  "category_distribution": {
+    "ADJECTIVE": 21,
+    "BE(COME)_BLACK": 10,
+    "DEFAME": 5,
+    "MAKE_BLACK": 4,
+    "PAINT_BODY_BLACK": 3,
+    "BURN": 2,
+    "CORRUPT": 2,
+    "MEMORY": 1,
+    "NOUN": 1,
+    "NONE": 1
+  }
+}

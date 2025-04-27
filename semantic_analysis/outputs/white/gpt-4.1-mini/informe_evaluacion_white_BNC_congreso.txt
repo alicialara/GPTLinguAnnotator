@@ -1,0 +1,21 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: BNC_congreso
+Palabra: white
+Modelo: gpt-4.1-mini
+Accuracy global: 0.7941
+Cohen's Kappa: 0.6546 (Acuerdo substancial)
+Número de muestras: 34
+
+Métricas por categoría:
+  ADJECTIVE: Precision=0.8571, Recall=0.7059, F1=0.7742, Count=17.0
+  NOUN: Precision=0.8667, Recall=0.8667, F1=0.8667, Count=15.0
+  MAKE_WHITE: Precision=1.0000, Recall=1.0000, F1=1.0000, Count=2.0
+  CONCEAL: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=0.0
+
+Mejor categoría por F1: NOUN (F1: 0.8667)
+Peor categoría por F1: ADJECTIVE (F1: 0.7742)
+
+Patrones de confusión más comunes:
+  HUMANO: ADJECTIVE -> GPT: CONCEAL: 3 casos
+  HUMANO: ADJECTIVE -> GPT: NOUN: 2 casos
+  HUMANO: NOUN -> GPT: ADJECTIVE: 2 casos

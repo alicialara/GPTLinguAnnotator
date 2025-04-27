@@ -1,0 +1,26 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: COCA
+Palabra: redden
+Modelo: gpt-4.1-mini
+Accuracy global: 0.3922
+Cohen's Kappa: 0.3388 (Acuerdo justo)
+Número de muestras: 51
+
+Métricas por categoría:
+  NOUN: Precision=1.0000, Recall=0.0417, F1=0.0800, Count=24.0
+  BLUSH: Precision=0.9000, Recall=1.0000, F1=0.9474, Count=9.0
+  MAKE_RED: Precision=1.0000, Recall=0.4444, F1=0.6154, Count=9.0
+  BE(COME)_RED: Precision=0.7500, Recall=0.6000, F1=0.6667, Count=5.0
+  ADJECTIVE: Precision=0.2500, Recall=1.0000, F1=0.4000, Count=2.0
+  NONE: Precision=0.0417, Recall=1.0000, F1=0.0800, Count=1.0
+  REPEATED: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=1.0
+
+Mejor categoría por F1: BLUSH (F1: 0.9474)
+Peor categoría por F1: NOUN (F1: 0.0800)
+
+Patrones de confusión más comunes:
+  HUMANO: NOUN -> GPT: NONE: 23 casos
+  HUMANO: MAKE_RED -> GPT: ADJECTIVE: 4 casos
+  HUMANO: BE(COME)_RED -> GPT: ADJECTIVE: 2 casos
+  HUMANO: MAKE_RED -> GPT: BE(COME)_RED: 1 casos
+  HUMANO: REPEATED -> GPT: BLUSH: 1 casos

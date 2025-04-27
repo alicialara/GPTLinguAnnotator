@@ -1,0 +1,257 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "white",
+  "corpus": "BNC_congreso",
+  "date": "27/04/2025",
+  "total_samples": 34,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "so I think erm </s><s> Des describe them why in what way they're not attractive one. </s><s> Well they, they grow from this er green to white to red and then finally black, don't like black berries Stefan so that would be a no no as far as I was concerned in my garden",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "time paused and looked into her eyes. </s><s> 'It is a compliment.' </s><s> 'Then thank you.' </s><s> He smiled, and she thought how even and white his smile was. </s><s> 'Well done, Shelley. </s><s> You have accepted a compliment gracefully, without trying to pretend you don't",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "troubles. </s><s> 'Such a thing would never enter my head,' he said. </s><s> 'Since Rosie came along I've been lily-white. </s><s> The idea!' </s><s> 'A whited sepulchre,' Mallachy grunted. </s><s> 'Whatever one of them might be.' </s><s> He got out and jerked his bag out after him, from the back",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": "no phone, but I know where she works. </s><s> It's night, it must be night now. </s><s> I bathe and dress, and paste my face in gauzy liquid, whiting out the spots and the sweat. </s><s> I drive to Highbury. </s><s> The Oedipus Bull is a brightly lit pub full of architects and actors,",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 5,
+      "text": "the tomb of Archimedes by </s><s> a circle enclosed inside a cylinder. </s><s> What was lost, then found, was lost again. </s><s> The port was whited marble, an island of ghosts. </s><s> I thought of the lupara bianca, the exact </s><s> diameter lodged in the sawn-off shaft </s><s> then the",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 6,
+      "text": "solely for discussing cuisine, a mixture of reverence, excitement, practicality and anticipation. </s><s> 'True, boiled whiting alone is not a dish for a Icing. </s><s> But with the right sauce it might be transformed. </s><s> Who knows? </s><s> This is the infinite",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": ",' he said sadly, 'but it is eatable. </s><s> You will join us, Inspector?' </s><s> 'Thank you, no,' said Rose hastily. </s><s> 'Not if it's whiting .' </s><s> 'My grandmother says when they're curled up in a circle with their tails in their mouths, that's a symbol of eternity,",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "scarred world looks through their gaps. </s><s> I listen </s><s> With bleak eyeholes. </s><s> IV WINO </s><s> Grape is my mulatto mother </s><s> In this frozen whited country. </s><s> Her veined interior </s><s> Hangs hot open for me to re-enter </s><s> The blood-coloured glasshouse against which the stone",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "piled up against the water butt, how it lay like a blanket along the sills, how it changed the distance from bluey brown to white as far as you could see. </s><s> Her finger tips turned white as bone, her lips became chapped, and the air was so cold it hurt to",
+      "human_category": "ADJECTIVE",
+      "model_category": "NOUN",
+      "match": false
+    },
+    {
+      "id": 10,
+      "text": "was here until a minute ago. </s><s> Do sit down. </s><s> I'm just going through my list once more. </s><s> I think I've got everything except whiting for my cat. </s><s> It's usually rock salmon, you know, but I think she's expecting again and whiting must lie less heavily on the",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": ", and his aide-de-camp in the gardens after dinner. </s><s> Since then, racial tensions among the population (60:40 black to white ) have greatly eased, thanks to prosperity caused by tourism and, more recently, offshore financial services –",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 12,
+      "text": "pollack and a codling to 3 lb 8 oz. </s><s> Holyhead Breakwater, Chair Rock and Treaddur Bay yielding occasional cod to 7 lb. </s><s> Whiting to 1 lb and flats from the rocks at Ty Croes. </s><s> Dinas Dinlle for small codling and a few whiting. </s><s> SOUTH EAST </s><s> A combination of",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 13,
+      "text": "and rockling. </s><s> Dungeness beach yielded dabs to black lugworm. </s><s> High water in the evenings best. </s><s> Dengemarsh for pout, whiting dabs and flounder. </s><s> Dungeness boats produced cod to 15 lb with dogs, pout and whiting. </s><s> SOUTHWEST </s><s> Intense commercial",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 14,
+      "text": "too the impurity of transgressive desire, and most of all perhaps the impurity of dominant forms of identity, be they white , heterosexual, whatever. </s><s> The very impurity which the radical humanist seeks to transcend, only despairingly to",
+      "human_category": "ADJECTIVE",
+      "model_category": "NOUN",
+      "match": false
+    },
+    {
+      "id": 15,
+      "text": "for as long as anyone could remember power-station cooling stacks had blasted out steam day and night; the power went to white Johannesburg a few miles down the road. </s><s> No one thought it odd, just the way things were in the 'old' South Africa. </s><s> Today,",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 16,
+      "text": "leered behind upper windows. </s><s> A little house, surrounded by the same black trees, at the foot of which, his chops on the whited steps, his sinuous length curved around its corner in a dragon-clasp, the long wolf lay, whose hairs were cut in harmony",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 17,
+      "text": "back like a dancer's in the daytime and at night done up in coils with big silver pins. </s><s> Every night she greased her face, whited everything out and redrew it just as she had always done; a heavy coat of pale powder, black mascara, black eyeliner,",
+      "human_category": "MAKE_WHITE",
+      "model_category": "MAKE_WHITE",
+      "match": true
+    },
+    {
+      "id": 18,
+      "text": "Paul Pry observed of Coleman, now 'stricken with years', that 'Time has laid his temples bare And turned to white his once dark hair.' </s><s> According to the same writer, Coleman was a little below middle height. </s><s> His features were",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 19,
+      "text": "full grown male appeared on the skyline not fifty yards away. </s><s> It was a dirty grey white in colour. </s><s> 'Christ, it's one them white buggers,' yelped Billy. </s><s> 'Put the fawn down and move back,' Yanto commanded. </s><s> Molly hurriedly put the little animal back",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 20,
+      "text": "flower which twines into the roots of grasses to take nourishment. </s><s> It has a whole range of colours, from all white, to white with blue, purple or mauve spots. </s><s> The cuckoo flower was there too, a lovely pale pink or pastel mauve which was one of the",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 21,
+      "text": ". </s><s> I mean to stop hating, but to go on fighting for what is right for my people.' </s><s> Anderson felt he must speak, and said, 'We whites , by the way we have lived, are as responsible for the tragedy in our country.' </s><s> The Mau Mau men told him afterwards, 'Now we",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 22,
+      "text": "jelly must have made a ravishing little dessert dish: </s><s> \" You must pare them very close. </s><s> Part ye cloves, then scrape all ye white off, but have a care not to break ye cloves when you scrape them. </s><s> Take out all ye seeds, then weight them and take their",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 23,
+      "text": "wanted you to get? </s><s> I know what you're gonna do with them. </s><s> Keep them for school. </s><s> Right. </s><s> Your boots, or your braids, and them white ones for try the other one. </s><s> One foot's bigger than the other. </s><s> Try the two of them on. </s><s> Oh Christ! </s><s> She's sleeping in her room. </s>",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 24,
+      "text": "r the number changes to yellow and the colours come at the bottom when you normal </s><s> Marvellous </s><s> they disappear and it goes to white . </s><s> And do that when it gets to one two four again </s><s> Mm </s><s> the colours come up on the bottom again. </s><s> That's interesting, I didn't kn",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 25,
+      "text": "coach Greg Downs... he says his United fans are too quiet </s><s> Video-Taped report follows </s><s> Voice over </s><s> Gives a U. Come on you whites . </s><s> It takes a lot to get Hereford cheering. </s><s> They were happy enough when Leroy May ran in to make it 1-0 against Darlington on",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 26,
+      "text": "from Seaforth angler Mick Higgins in the Sharpe Tackle open. </s><s> Tony Mottram included an early codling in his catch of whiting to win the North West Association Winter Team League match at Seaforth Rocks. </s><s> It was a pegged-down contest and Tony,",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 27,
+      "text": "coaching black kids for more than 20 years. </s><s> In fact as rugby is concerned I am colour-blind: give me a rugby player, be it white , blue or yellow, with two hands, two legs and a bit of a brain and I love it', Cunningham said. </s><s> 'It's an uphill struggle to",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 28,
+      "text": ", 'Woe unto you, scribes and Pharisees, hypocrites!', including this devastating metaphor: 'for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness'. </s>",
+      "human_category": "ADJECTIVE",
+      "model_category": "CONCEAL",
+      "match": false
+    },
+    {
+      "id": 29,
+      "text": "quos possidet, quiescere non permittit .' </s><s> In Dante's Inferno the hypocrites are punished by wearing cloaks which are ' whited sepulchres' indeed, 'so gilded outside that they dazzle, but within, all of lead, and so heavy' that they can barely",
+      "human_category": "ADJECTIVE",
+      "model_category": "CONCEAL",
+      "match": false
+    },
+    {
+      "id": 30,
+      "text": "for complaints against Angelo. </s><s> This 'outward-sainted deputy', as Isabella calls him (in words that recall Christ's ' whited sepulchres'), who imagines that he has enjoyed the sister and killed the brother – thus breaking even the corrupt",
+      "human_category": "ADJECTIVE",
+      "model_category": "CONCEAL",
+      "match": false
+    },
+    {
+      "id": 31,
+      "text": "in the wider context of majority black participation in the sport which has, for so long, been predominantly whites only territory. </s><s> caption repeating text omitted </s><s> PARSON'S PERSPECTIVE </s><s> ARTHUR'S COURAGE </s><s> by JOHN PARSONS, Daily",
+      "human_category": "NOUN",
+      "model_category": "NOUN",
+      "match": true
+    },
+    {
+      "id": 32,
+      "text": "this out before you buy: some tend to give incomplete or premature fading of the sound, while others (a minority) fade to white instead of the more customary black. </s><s> For many years, video camera lenses have come with manual focus rings and zoom",
+      "human_category": "NOUN",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 33,
+      "text": "was replicated time and time again by black footballers, athletes and boxers. </s><s> Hope's manager, Terry Lawless, himself white , told me of how he first became aware of this. </s><s> During the 1950s, he talked to the handlers of a black American opponent of",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    },
+    {
+      "id": 34,
+      "text": "me into my clothes and stretchered me into the garden. </s><s> That's right. </s><s> Then with the jump leads, like two telephones ( white – white-hot), they zapped my chest. </s><s> Finally, before they went away, one of them kissed me. </s><s> I think I know the name of this",
+      "human_category": "ADJECTIVE",
+      "model_category": "ADJECTIVE",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.7941176470588235,
+    "matches": 27,
+    "total": 34
+  },
+  "category_distribution": {
+    "ADJECTIVE": 17,
+    "NOUN": 15,
+    "MAKE_WHITE": 2
+  }
+}

@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Annotations for 'red' - BNC_congreso (gpt-4.1-mini)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .metrics {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        .metric-card {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            flex: 1;
+            min-width: 200px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .annotations {
+            margin-bottom: 30px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        .match-true {
+            background-color: #d4edda;
+        }
+        .match-false {
+            background-color: #f8d7da;
+        }
+        .highlight {
+            font-weight: bold;
+            background-color: #ffeeba;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+        .category-distribution {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .category-chip {
+            background-color: #e9ecef;
+            padding: 8px 12px;
+            border-radius: 16px;
+            font-size: 14px;
+        }
+        #searchInput {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        .pagination {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+            margin-bottom: 40px;
+        }
+        .pagination button {
+            margin: 0 5px;
+            padding: 8px 15px;
+            background-color: #f8f9fa;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .pagination button.active {
+            background-color: #007bff;
+            color: white;
+            border-color: #007bff;
+        }
+        .pagination button:hover:not(.active) {
+            background-color: #e9ecef;
+        }
+        .controls {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Semantic Analysis: 'red' - BNC_congreso</h1>
+            <p>Model: <strong>gpt-4.1-mini</strong> | Date: 27/04/2025 | Samples: 50</p>
+        </div>
+
+        <h2>Global Metrics</h2>
+        <div class="metrics">
+
+            <div class="metric-card">
+                <h3>Accuracy</h3>
+                <p style="font-size: 24px; font-weight: bold;">0.8800</p>
+            </div>
+
+            <div class="metric-card">
+                <h3>Matches</h3>
+                <p style="font-size: 24px; font-weight: bold;">44</p>
+            </div>
+
+            <div class="metric-card">
+                <h3>Total</h3>
+                <p style="font-size: 24px; font-weight: bold;">50</p>
+            </div>
+
+        </div>
+
+        <h2>Category Distribution</h2>
+        <div class="category-distribution">
+
+            <div class="category-chip">
+                NOUN: 40
+            </div>
+
+            <div class="category-chip">
+                ADJECTIVE: 8
+            </div>
+
+            <div class="category-chip">
+                NONE: 1
+            </div>
+
+            <div class="category-chip">
+                BE(COME)_RED: 1
+            </div>
+
+        </div>
+
+        <h2>Annotations</h2>
+        <div class="controls">
+            <input type="text" id="searchInput" placeholder="Search in annotations...">
+            <div>
+                <label>
+                    <input type="checkbox" id="showMismatchesOnly"> 
+                    Show Mismatches Only
+                </label>
+            </div>
+        </div>
+        <div class="annotations">
+            <table id="annotationsTable">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Text</th>
+                        <th>Human Category</th>
+                        <th>Model Category</th>
+                        <th>Match</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr class="match-false">
+                        <td>1</td>
+                        <td>, CAPITAL P </s><s> Among the logo-bearing lorries </s><s> we made our way to heaven, </s><s> garage-bunting flagging us off, </s><s> and a roundabout <span class="highlight">red</span>ded with poppies... </s><s> A Whitsun-gift, to be at home </s><s> in any new idiom: </s><s> words on stilts, triangle-language, </s><s> the hieroglyphs at</td>
+                        <td>BE(COME)_RED</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>2</td>
+                        <td>a good job right and and now she''s you know it''s not right but at the moment it gets us over a q over a quick fix </s><s> You can always <span class="highlight">red</span> circle that salary at a later date and hold her increases down against other people. </s><s> There are all sorts of options </s><s> But as</td>
+                        <td>NONE</td>
+                        <td>NOUN</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>3</td>
+                        <td>all about you, and what you said about Big Norm, Sniffer, Uncle Billy, an'' that back in t'' seventies. </s><s> Serves you right you <span class="highlight">red</span> nosed, gobshite, pissed-up old dosser. 44 days, 44 days... </s><s> From: </s><s> Date: Tue, 28 Sep 93 13:53 GMT </s><s> Subject: Uk trip...'' you</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>4</td>
+                        <td>cloves, crushed </s><s> 4 tbsp sunflower oil </s><s> 1⁄4 tsp chilli powder </s><s> 1⁄4 tsp ground cinnamon </s><s> 1⁄4 tsp grated nutmeg </s><s> 400g/14oz can <span class="highlight">red</span> kidney beans, drained </s><s> 50g/2oz fresh breadcrumbs </s><s> 2 tbsp fresh coriander leaves </s><s> 1 egg yolk </s><s> 1 tbsp sesame seeds, to</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>5</td>
+                        <td>interference colours, the bright colours of Plate 6.1b are produced by an amphibole mineral (pale colour to yellow to <span class="highlight">red</span> ) and the black and white stripey pattern by the feldspar mineral plagioclase. </s><s> (These two minerals form a rock type</td>
+                        <td>NOUN</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>6</td>
+                        <td>painted over and ornamented in all kinds of ways. </s><s> There seems to have been a hierarchy of colours, ranging from grey, to <span class="highlight">red</span> for the principal rooms. </s><s> It all took a lot of investigation, finding paint traces on plaster plugs in the timbers, for</td>
+                        <td>NOUN</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>7</td>
+                        <td>cream sundae </s><s> Treat yourself to this cool and extravagant dessert </s><s> Serves 4 </s><s> 300ml (1⁄2pt) whipping cream </s><s> 397g (14oz) can <span class="highlight">red</span> cherry pie filling </s><s> 8 scoops vanilla ice cream </s><s> 60ml (4 tbsp) chocolate sauce </s><s> 4 strawberries, sliced </s><s> METHOD </s><s> Gently whip</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>8</td>
+                        <td>particular favourite with my catering business. </s><s> 1 × 400g/14oz can borlotti beans, drained and rinsed 1 × 400g/14oz can <span class="highlight">red</span> kidney beans, drained and rinsed 6–8 small dill cucumber pickles, diced 175g/6oz cherry tomatoes 2 × 15ml/tbsp</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>9</td>
+                        <td>, but do include <span class="highlight">red</span> kidney beans. </s><s> 175g/6oz green beans 175g/6oz broad beans 1 × 400g/14oz chick peas 1 × 400g/14oz can <span class="highlight">red</span> kidney beans 100ml/4fl oz vinaigrette dressing good pinch ground chilli salt and pepper to taste </s><s> 1. </s><s> Cook the green and</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>10</td>
+                        <td>shutting a green eye and opening a <span class="highlight">red</span> one. </s><s> In CD''s day railway signal-lights were normally kept at green, but changed to <span class="highlight">red</span> when a train was actually in a station or about to enter it. </s><s> Thus Bella and John Harmon, seeing the signal change from</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>11</td>
+                        <td><s> 1 <span class="highlight">red</span> pepper, seeded and chopped </s><s> 1 pkt taco seasoning or tsp chilli powder </s><s> 400g/14oz can plum tomatoes </s><s> 425g/15oz can <span class="highlight">red</span> kidney beans, drained and rinsed </s><s> freshly ground black pepper </s><s> sh<span class="highlight">red</span>ded lettuce, chopped tomatoes, chopped cucumber,</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>12</td>
+                        <td>. </s><s> When the guest departs, after settling the account, the cashier will press a switch and the light will go from off to <span class="highlight">red</span> to indicate that the room is vacant and ready to be cleaned. </s><s> The housekeeper then has the room serviced and when it is</td>
+                        <td>NOUN</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-false">
+                        <td>13</td>
+                        <td>, or, perhaps more romantically, that it is named after the sunset hues which turn the mountain here from a gentle rose to <span class="highlight">red</span> each evening. </s><s> The original village, first made an appearance in the public records in 1056 when it donated land for a</td>
+                        <td>NOUN</td>
+                        <td>ADJECTIVE</td>
+                        <td>❌</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>14</td>
+                        <td>? </s><s> Oh that''s not bad is it? </s><s> No, oh, oh, oh, not not so bad! </s><s> No. </s><s> No, don''t get that one, it''s a <span class="highlight">red</span> one that goes in there. </s><s> That, <span class="highlight">red</span> ah </s><s> <span class="highlight">Red</span> hole. </s><s> It can go in there. </s><s> That goes like that. </s><s> You . </s><s> Ah. </s><s> Oh alright, okay when you''re ready. </s><s> In there. </s><s> Okay. </s><s> Goes in</td>
+                        <td>ADJECTIVE</td>
+                        <td>ADJECTIVE</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>15</td>
+                        <td>. </s><s> Mm oh! . </s><s> Particularly at the front, there were hund<span class="highlight">red</span>s! </s><s> Little grubs, you know? </s><s> Mm. </s><s> still cove<span class="highlight">red</span> blue </s><s> Yeah. </s><s> <span class="highlight">red</span> do one <span class="highlight">red</span> please? </s><s> Oh no, it''s the other way round, yes do a <span class="highlight">red</span> please? </s><s> I can''t I can''t reach ! </s><s> Can''t reach what love? </s><s> What? </s><s> Here. </s></td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>16</td>
+                        <td><s> Alright? </s><s> but they''re all money, money, money aren''t they? </s><s> Yeah I know but </s><s> Do what? </s><s> boo </s><s> Hooray, come on </s><s> come on come on you <span class="highlight">red</span>s </s><s> If they got, if they''re not gonna win tonight, if they don''t beat Bolton I''m gonna tear my season ticket up look ah </s><s> You''re</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>17</td>
+                        <td>so </s><s> Yeah, yeah </s><s> They were also saying about how good he is when they were interviewing </s><s> Yeah that''s right, yeah </s><s> come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s </s><s> mind you as if </s><s> no I never saw him playing no </s><s> come on you <span class="highlight">red</span>s </s><s> go on oh crikey in the first minute, bloody hell</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>18</td>
+                        <td>were also saying about how good he is when they were interviewing </s><s> Yeah that''s right, yeah </s><s> come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> mind you as if </s><s> no I never saw him playing no </s><s> come on you <span class="highlight">red</span>s </s><s> go on oh crikey in the first minute, bloody hell, come on then </s></td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>19</td>
+                        <td><s> Yeah that''s right, yeah </s><s> come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> mind you as if </s><s> no I never saw him playing no </s><s> come on you <span class="highlight">red</span>s </s><s> go on oh crikey in the first minute, bloody hell, come on then </s><s> come on you <span class="highlight">red</span>s </s><s> Go on </s><s> Go on Jason </s><s> Jason go on </s><s> yeah </s><s> No it''s </s><s> What? </s></td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>20</td>
+                        <td>as if </s><s> no I never saw him playing no </s><s> come on you <span class="highlight">red</span>s </s><s> go on oh crikey in the first minute, bloody hell, come on then </s><s> come on you <span class="highlight">red</span>s </s><s> Go on </s><s> Go on Jason </s><s> Jason go on </s><s> yeah </s><s> No it''s </s><s> What? </s><s> it''s offside </s><s> Joanne you warm enough? </s><s> Yeah </s><s> Alright </s><s> oh dear </s><s> well play, come on</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>21</td>
+                        <td><s> Jason go on </s><s> yeah </s><s> No it''s </s><s> What? </s><s> it''s offside </s><s> Joanne you warm enough? </s><s> Yeah </s><s> Alright </s><s> oh dear </s><s> well play, come on then </s><s> come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> That''s yours David come on now good throw that goes to waste </s><s> I just laugh </s><s> don''t miss it,</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>22</td>
+                        <td>it''s </s><s> What? </s><s> it''s offside </s><s> Joanne you warm enough? </s><s> Yeah </s><s> Alright </s><s> oh dear </s><s> well play, come on then </s><s> come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s </s><s> That''s yours David come on now good throw that goes to waste </s><s> I just laugh </s><s> don''t miss it, what a miss </s><s> Ah? </s><s> It</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>23</td>
+                        <td>offside </s><s> Joanne you warm enough? </s><s> Yeah </s><s> Alright </s><s> oh dear </s><s> well play, come on then </s><s> come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> That''s yours David come on now good throw that goes to waste </s><s> I just laugh </s><s> don''t miss it, what a miss </s><s> Ah? </s><s> It''s alright come on </s></td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>24</td>
+                        <td><s> I didn''t think you had any </s><s> Well I think Joanne''s put some in </s><s> come on we''re pretty quiet this side go on </s><s> Go on </s><s> Ooh come on you <span class="highlight">red</span>s </s><s> Come on </s><s> oh go on </s><s> Whey hey </s><s> Actually Neil </s><s> Ah? </s><s> I think when we come down we stand </s><s> can''t you see? </s><s> Well no not quite </s><s> Do you want to</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>25</td>
+                        <td><s> Go on Jesus bloody Christ how could he of missed that come on Tim bloody three year old wouldn''t of missed that </s><s> come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Oh, straight into his bloody arms oh there''s a bit of a curve on it, no he won''t get that </s><s> Go</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>26</td>
+                        <td>Christ how could he of missed that come on Tim bloody three year old wouldn''t of missed that </s><s> come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s </s><s> Oh, straight into his bloody arms oh there''s a bit of a curve on it, no he won''t get that </s><s> Go on </s><s> what? </s><s> Come on </s></td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>27</td>
+                        <td>he of missed that come on Tim bloody three year old wouldn''t of missed that </s><s> come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Oh, straight into his bloody arms oh there''s a bit of a curve on it, no he won''t get that </s><s> Go on </s><s> what? </s><s> Come on </s><s> Come on, no, come</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>28</td>
+                        <td>that </s><s> Go on </s><s> what? </s><s> Come on </s><s> Come on, no, come on Neil go on, oh he''s </s><s> Oh when the saints, when the saints go marching in come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Come on </s><s> Yeah I know, yeah </s><s> Oh dear, come on </s><s> Go on </s><s> Ooh, Jesus wake up man </s><s> Come on </s><s> What the hell</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>29</td>
+                        <td>on </s><s> Come on, no, come on Neil go on, oh he''s </s><s> Oh when the saints, when the saints go marching in come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s </s><s> Come on </s><s> Yeah I know, yeah </s><s> Oh dear, come on </s><s> Go on </s><s> Ooh, Jesus wake up man </s><s> Come on </s><s> What the hell are they doing,</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>30</td>
+                        <td>, come on Neil go on, oh he''s </s><s> Oh when the saints, when the saints go marching in come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Come on </s><s> Yeah I know, yeah </s><s> Oh dear, come on </s><s> Go on </s><s> Ooh, Jesus wake up man </s><s> Come on </s><s> What the hell are they doing, oh for bloody hell</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>31</td>
+                        <td>annoyed, he''d been there twelve years </s><s> Ooh </s><s> there should be six of these, there''s only four </s><s> Oh well </s><s> What a bloody </s><s> Come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s </s><s> I don''t fucking believe it </s><s> come on your <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> must be happy now </s><s> Oh, go on </s><s> No </s><s> go on then </s><s> Go on </s></td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>32</td>
+                        <td>there twelve years </s><s> Ooh </s><s> there should be six of these, there''s only four </s><s> Oh well </s><s> What a bloody </s><s> Come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> I don''t fucking believe it </s><s> come on your <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> must be happy now </s><s> Oh, go on </s><s> No </s><s> go on then </s><s> Go on </s><s> Well played </s><s> get</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>33</td>
+                        <td>''s only four </s><s> Oh well </s><s> What a bloody </s><s> Come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> I don''t fucking believe it </s><s> come on your <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> must be happy now </s><s> Oh, go on </s><s> No </s><s> go on then </s><s> Go on </s><s> Well played </s><s> get out of it </s><s> Oh </s><s> Ha </s><s> Go on then, get in there </s><s> Come on </s><s> What happened</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>34</td>
+                        <td>dear </s><s> Feet high, bit high, keep those feet down </s><s> Come on </s><s> Go on </s><s> bloody hell </s><s> You''re a rubbish manager, go back to Reading ah you <span class="highlight">red</span>s </s><s> Come on Shaun </s><s> Come on Shaun well done Alan, come on Noddy pull your socks up, come on </s><s> No I didn''t bring a picnic basket </s><s> You</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>35</td>
+                        <td>for me to get in </s><s> Oh can you see alright down there David? </s><s> What? </s><s> Can you see alright down there? </s><s> Yeah </s><s> Good oh </s><s> Boo come on you <span class="highlight">red</span>s </s><s> Yeah, David you might </s><s> do you? </s><s> No </s><s> where''s all your </s><s> Hey </s><s> yeah come on, for Christ sake better luck Jason </s><s> We''re one now </s><s> What for</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>36</td>
+                        <td><s> Oh when the saints </s><s> go marching in </s><s> oh when the saints go marching in, I wanna be in that number oh when the saints </s><s> come on you <span class="highlight">red</span>s ha, come on </s><s> come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Come on </s><s> Did you see that? </s><s> Come on for Christ sakes get in there </s><s> Quick </s><s> Come on you</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>37</td>
+                        <td>in </s><s> oh when the saints go marching in, I wanna be in that number oh when the saints </s><s> come on you <span class="highlight">red</span>s ha, come on </s><s> come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s </s><s> Come on </s><s> Did you see that? </s><s> Come on for Christ sakes get in there </s><s> Quick </s><s> Come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Get</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>38</td>
+                        <td>saints go marching in, I wanna be in that number oh when the saints </s><s> come on you <span class="highlight">red</span>s ha, come on </s><s> come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Come on </s><s> Did you see that? </s><s> Come on for Christ sakes get in there </s><s> Quick </s><s> Come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Get in there, come on </s></td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>39</td>
+                        <td>ha, come on </s><s> come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Come on </s><s> Did you see that? </s><s> Come on for Christ sakes get in there </s><s> Quick </s><s> Come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s </s><s> Get in there, come on </s><s> Go </s><s> Go on </s><s> Where the bloody are you </s><s> Ah you pillock </s><s> Come on </s><s> Come on </s><s> This is a football</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>40</td>
+                        <td>you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Come on </s><s> Did you see that? </s><s> Come on for Christ sakes get in there </s><s> Quick </s><s> Come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Get in there, come on </s><s> Go </s><s> Go on </s><s> Where the bloody are you </s><s> Ah you pillock </s><s> Come on </s><s> Come on </s><s> This is a football match at Southampton</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>41</td>
+                        <td>, Southampton versus Bolton, mind the language twenty sixth of the second, ninety-two goal kick go on </s><s> Come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Go on, go on </s><s> Oh </s><s> No didn''t </s><s> get on with it </s><s> that''s right </s><s> Oh oh yes </s><s> Go on, go on </s><s> Ha idiot </s><s> Off, off,</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>42</td>
+                        <td>versus Bolton, mind the language twenty sixth of the second, ninety-two goal kick go on </s><s> Come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s </s><s> Go on, go on </s><s> Oh </s><s> No didn''t </s><s> get on with it </s><s> that''s right </s><s> Oh oh yes </s><s> Go on, go on </s><s> Ha idiot </s><s> Off, off, off, off, off ah? </s></td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>43</td>
+                        <td>, mind the language twenty sixth of the second, ninety-two goal kick go on </s><s> Come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Go on, go on </s><s> Oh </s><s> No didn''t </s><s> get on with it </s><s> that''s right </s><s> Oh oh yes </s><s> Go on, go on </s><s> Ha idiot </s><s> Off, off, off, off, off ah? </s><s> come on </s><s> for half</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>44</td>
+                        <td>, off, off ah? </s><s> come on </s><s> for half an hour this </s><s> I''d better see how much </s><s> go on then, oh come on </s><s> come on </s><s> Come on </s><s> Pick it up </s><s> Come on you <span class="highlight">red</span>s no </s><s> Come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Watch </s><s> Good boy </s><s> Come on </s><s> Far side, far side </s><s> No here we go, here we go </s><s> Oh Jesus I thought that</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>45</td>
+                        <td>on </s><s> for half an hour this </s><s> I''d better see how much </s><s> go on then, oh come on </s><s> come on </s><s> Come on </s><s> Pick it up </s><s> Come on you <span class="highlight">red</span>s no </s><s> Come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s </s><s> Watch </s><s> Good boy </s><s> Come on </s><s> Far side, far side </s><s> No here we go, here we go </s><s> Oh Jesus I thought that was it what''s he</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>46</td>
+                        <td>this </s><s> I''d better see how much </s><s> go on then, oh come on </s><s> come on </s><s> Come on </s><s> Pick it up </s><s> Come on you <span class="highlight">red</span>s no </s><s> Come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Watch </s><s> Good boy </s><s> Come on </s><s> Far side, far side </s><s> No here we go, here we go </s><s> Oh Jesus I thought that was it what''s he doing, get it up</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>47</td>
+                        <td>there </s><s> Come on Alan </s><s> Come on </s><s> Oh my god </s><s> What are they dead or what? </s><s> I don''t know hello what''s happening there then? </s><s> Come on you <span class="highlight">red</span>s </s><s> Oh who are they, a ticket? </s><s> Yeah good </s><s> come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Come on son, come on </s><s> he''ll break his</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>48</td>
+                        <td>or what? </s><s> I don''t know hello what''s happening there then? </s><s> Come on you <span class="highlight">red</span>s </s><s> Oh who are they, a ticket? </s><s> Yeah good </s><s> come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Come on son, come on </s><s> he''ll break his bloody leg </s><s> come on then </s><s> Well done </s><s> Cor it''s all play at</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>49</td>
+                        <td>know hello what''s happening there then? </s><s> Come on you <span class="highlight">red</span>s </s><s> Oh who are they, a ticket? </s><s> Yeah good </s><s> come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s , come on you <span class="highlight">red</span>s </s><s> Come on son, come on </s><s> he''ll break his bloody leg </s><s> come on then </s><s> Well done </s><s> Cor it''s all play at that bloody end</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                    <tr class="match-true">
+                        <td>50</td>
+                        <td>''s happening there then? </s><s> Come on you <span class="highlight">red</span>s </s><s> Oh who are they, a ticket? </s><s> Yeah good </s><s> come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s, come on you <span class="highlight">red</span>s </s><s> Come on son, come on </s><s> he''ll break his bloody leg </s><s> come on then </s><s> Well done </s><s> Cor it''s all play at that bloody end innit? </s><s> come on</td>
+                        <td>NOUN</td>
+                        <td>NOUN</td>
+                        <td>✅</td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+        <div class="pagination" id="pagination"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Variables
+            const table = document.getElementById('annotationsTable');
+            const rows = table.getElementsByTagName('tr');
+            const searchInput = document.getElementById('searchInput');
+            const mismatchesCheckbox = document.getElementById('showMismatchesOnly');
+            const paginationContainer = document.getElementById('pagination');
+            
+            const rowsPerPage = 15;
+            let currentPage = 1;
+            let filteredRows = [];
+            
+            // Initial setup
+            function initializePagination() {
+                updateFilteredRows();
+                displayRows();
+                setupPagination();
+            }
+            
+            // Update filtered rows based on search and filter
+            function updateFilteredRows() {
+                filteredRows = [];
+                const searchTerm = searchInput.value.toLowerCase();
+                const showMismatchesOnly = mismatchesCheckbox.checked;
+                
+                // Start from index 1 to skip the header row
+                for (let i = 1; i < rows.length; i++) {
+                    const row = rows[i];
+                    const text = row.textContent.toLowerCase();
+                    const isMatch = row.classList.contains('match-true');
+                    
+                    // Apply filters
+                    const matchesSearch = !searchTerm || text.includes(searchTerm);
+                    const matchesMismatchFilter = !showMismatchesOnly || !isMatch;
+                    
+                    if (matchesSearch && matchesMismatchFilter) {
+                        filteredRows.push(row);
+                    }
+                    
+                    // Hide all rows initially
+                    row.style.display = 'none';
+                }
+            }
+            
+            // Display rows for current page
+            function displayRows() {
+                const start = (currentPage - 1) * rowsPerPage;
+                const end = start + rowsPerPage;
+                
+                for (let i = 0; i < filteredRows.length; i++) {
+                    if (i >= start && i < end) {
+                        filteredRows[i].style.display = '';
+                    } else {
+                        filteredRows[i].style.display = 'none';
+                    }
+                }
+            }
+            
+            // Setup pagination buttons
+            function setupPagination() {
+                paginationContainer.innerHTML = '';
+                const pageCount = Math.ceil(filteredRows.length / rowsPerPage);
+                
+                // No need for pagination if only one page
+                if (pageCount <= 1) {
+                    return;
+                }
+                
+                // Previous button
+                if (currentPage > 1) {
+                    const prevButton = document.createElement('button');
+                    prevButton.innerHTML = '&laquo; Prev';
+                    prevButton.addEventListener('click', function() {
+                        currentPage--;
+                        displayRows();
+                        setupPagination();
+                    });
+                    paginationContainer.appendChild(prevButton);
+                }
+                
+                // Page buttons
+                let startPage = Math.max(1, currentPage - 2);
+                let endPage = Math.min(pageCount, startPage + 4);
+                
+                if (endPage - startPage < 4) {
+                    startPage = Math.max(1, endPage - 4);
+                }
+                
+                for (let i = startPage; i <= endPage; i++) {
+                    const button = document.createElement('button');
+                    button.textContent = i;
+                    
+                    if (i === currentPage) {
+                        button.classList.add('active');
+                    }
+                    
+                    button.addEventListener('click', function() {
+                        currentPage = i;
+                        displayRows();
+                        setupPagination();
+                    });
+                    
+                    paginationContainer.appendChild(button);
+                }
+                
+                // Next button
+                if (currentPage < pageCount) {
+                    const nextButton = document.createElement('button');
+                    nextButton.innerHTML = 'Next &raquo;';
+                    nextButton.addEventListener('click', function() {
+                        currentPage++;
+                        displayRows();
+                        setupPagination();
+                    });
+                    paginationContainer.appendChild(nextButton);
+                }
+            }
+            
+            // Event listeners
+            searchInput.addEventListener('input', function() {
+                currentPage = 1;
+                initializePagination();
+            });
+            
+            mismatchesCheckbox.addEventListener('change', function() {
+                currentPage = 1;
+                initializePagination();
+            });
+            
+            // Initialize
+            initializePagination();
+        });
+    </script>
+
+    </div>
+</body>
+</html>

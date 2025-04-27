@@ -1,0 +1,33 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: COHA
+Palabra: blacken
+Modelo: gpt-4.1-mini
+Accuracy global: 0.5400
+Cohen's Kappa: 0.4307 (Acuerdo moderado)
+Número de muestras: 50
+
+Métricas por categoría:
+  MAKE_BLACK: Precision=0.8182, Recall=0.4737, F1=0.6000, Count=19.0
+  BE(COME)_BLACK: Precision=0.6667, Recall=0.5714, F1=0.6154, Count=14.0
+  ADJECTIVE: Precision=0.4000, Recall=0.5714, F1=0.4706, Count=7.0
+  CORRUPT: Precision=0.6667, Recall=0.6667, F1=0.6667, Count=3.0
+  DEFAME: Precision=0.5000, Recall=0.6667, F1=0.5714, Count=3.0
+  PAINT_BODY_BLACK: Precision=0.5000, Recall=0.6667, F1=0.5714, Count=3.0
+  BO_COVER: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=1.0
+  BURN: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=0.0
+  MEMORY: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=0.0
+
+Mejor categoría por F1: BE(COME)_BLACK (F1: 0.6154)
+Peor categoría por F1: ADJECTIVE (F1: 0.4706)
+
+Patrones de confusión más comunes:
+  HUMANO: MAKE_BLACK -> GPT: ADJECTIVE: 4 casos
+  HUMANO: BE(COME)_BLACK -> GPT: BURN: 3 casos
+  HUMANO: ADJECTIVE -> GPT: BE(COME)_BLACK: 2 casos
+  HUMANO: BE(COME)_BLACK -> GPT: ADJECTIVE: 2 casos
+  HUMANO: MAKE_BLACK -> GPT: BURN: 2 casos
+  HUMANO: MAKE_BLACK -> GPT: PAINT_BODY_BLACK: 1 casos
+  HUMANO: BE(COME)_BLACK -> GPT: MAKE_BLACK: 1 casos
+  HUMANO: MAKE_BLACK -> GPT: BE(COME)_BLACK: 1 casos
+  HUMANO: BO_COVER -> GPT: BE(COME)_BLACK: 1 casos
+  HUMANO: MAKE_BLACK -> GPT: DEFAME: 1 casos

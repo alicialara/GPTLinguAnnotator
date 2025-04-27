@@ -1,0 +1,19 @@
+
+
+========== CONSOLIDATED PERFORMANCE SUMMARY ==========
+
+Word: red
+Model: gpt-4.1-mini
+Categories used: 4 categories for 'red'
+
+Corpus          Accuracy   Kappa      Best Category (F1)        Worst Category (F1)      
+-------------------------------------------------------------------------------------
+COCA            N/A        N/A        N/A (N/A)                 N/A (N/A)                
+COHA            0.8788     0.4000     NONE (NONE ()             NONE (NONE ()            
+BNC_congreso    0.8800     0.6725     NOUN (NOUN ()             ADJECTIVE (ADJECTIVE ()  
+EHCB            0.4630     0.2990     ADJECTIVE (ADJECTIVE ()   NONE (NONE ()            
+
+Kappa Interpretation:
+COHA            Acuerdo moderado
+BNC_congreso    Acuerdo substancial
+EHCB            Acuerdo justo

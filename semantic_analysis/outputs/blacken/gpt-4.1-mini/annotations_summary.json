@@ -1,0 +1,90 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "blacken",
+  "date": "26/04/2025",
+  "total_samples": 50,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "not be dulled. </s><s> Dendroide, a kind of ſpurge. </s><s> Denegare, to denie, to refuſe. </s><s> Denigrare, to obſcure, to darken, to taxe, to blacken , to blemiſh. </s><s> Denominare, to nominate, to name by. </s><s> Denominatione, a denomination. </s><s> Denominatiuo, that is deriued of a",
+      "human_category": "DEFAME",
+      "model_category": "MAKE_BLACK",
+      "match": false
+    },
+    {
+      "id": 2,
+      "text": "if pardons preuaile not, for that they reach neither quicke nor dead: why doe wee listen to these vngodly Sirens? who blacken the ayre with the fogge of their dearne diuinitie, and driue away al comfort from distressed soules, with these wofull",
+      "human_category": "CORRUPT",
+      "model_category": "CORRUPT",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": ", their bulles are divulged, their antichristian doctrine is traduced by Symancha, Costerus and Dolman, who haue blackened the aire with their derne diuinitie, whilest they auerre that subiects may rise, rebell, & kill their kings, if they be",
+      "human_category": "CORRUPT",
+      "model_category": "CORRUPT",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": ", Vignols, Eſurgni: Carkanets of iron, and of gold. </s><s> CHAP. </s><s> XIII. </s><s> Of mariage: The Iewes cuſtome: The widdowes do blacken their faces: the proſtituting of Maidens: the continency of the Souriquois women: the maner to make ſute to a maid for",
+      "human_category": "BO_COVER",
+      "model_category": "PAINT_BODY_BLACK",
+      "match": false
+    },
+    {
+      "id": 5,
+      "text": "my selfe, so neare am I to the brinke: yet see what light thoughts sparkle out of this dead Turffe! </s><s> My eyes darken; my teeth blacken ; my heart heateth; my hoarse throat ruttleth; my countenance hath lost her colour; all my powers and motions their",
+      "human_category": "BE(COME)_BLACK",
+      "model_category": "BE(COME)_BLACK",
+      "match": true
+    },
+    {
+      "id": 6,
+      "text": "they are all wicked. </s><s> Seeing the Pope can haue no more right; thē a Teacher, if he were learned: al frō him is like an hand blackened with pitch. </s><s> And S. Paul taught the Romans; that euery ſoule ſhould ſubmitt himſelfe to the higher power. </s><s> Nero was then in",
+      "human_category": "MAKE_BLACK",
+      "model_category": "CORRUPT",
+      "match": false
+    },
+    {
+      "id": 7,
+      "text": "& cōtinueth in doing wel, but truſteth not in her merits or weldoings, but reioyceth in them, becauſe the Sun doth blacken & darken thē, whileſt that ſhee frō time to time doth mortifie the old man, by humbling her ſelf, & voluntary ſuffering",
+      "human_category": "MAKE_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": true
+    },
+    {
+      "id": 8,
+      "text": "in the State: wherein many acts of iniustice, by the sway of power and passion, were committed, which did much blacken that time of peace, and made a good man (not by doing, but induring ill) held to be a bad king. </s><s> And it is sayd, that Emme the",
+      "human_category": "MAKE_BLACK",
+      "model_category": "DEFAME",
+      "match": false
+    },
+    {
+      "id": 9,
+      "text": ", or near the effect of common Salt: It gave a Red with Tincture of Logwood (as Cellar-salt but more red) which Vitriol blackens and Alum purples. </s><s> With Syrup of Cloves it gave a dull pale with a blewish cast, as Alkalies do, but more like to Saltpetres",
+      "human_category": "MAKE_BLACK",
+      "model_category": "MAKE_BLACK",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "that which our Reformers taught in oppoſition to the Church of Rome; and after all the Endeavours that have been uſed to blacken them by the moſt horrid Calumnies, as well as to deſtroy them by the cruelleſt Inquiſitions and Croiſades, the",
+      "human_category": "DEFAME",
+      "model_category": "DEFAME",
+      "match": true
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.86,
+    "matches": 43,
+    "total": 50
+  },
+  "category_distribution": {
+    "DEFAME": 38,
+    "MAKE_BLACK": 5,
+    "CORRUPT": 4,
+    "BE(COME)_BLACK": 2,
+    "BO_COVER": 1
+  }
+}

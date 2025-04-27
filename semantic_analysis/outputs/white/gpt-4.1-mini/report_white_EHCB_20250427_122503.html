@@ -1,0 +1,513 @@
+
+    <!DOCTYPE html>
+    <html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Informe de Evaluación - white_EHCB</title>
+        <style>
+            body {
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                margin: 0;
+                padding: 0;
+                color: #333;
+                background-color: #f5f5f5;
+                line-height: 1.6;
+            }
+            
+            .container {
+                max-width: 1200px;
+                margin: 0 auto;
+                padding: 20px;
+            }
+            
+            header {
+                background-color: #305a72;
+                color: white;
+                padding: 20px;
+                margin-bottom: 20px;
+                border-radius: 5px;
+            }
+            
+            h1, h2, h3 {
+                margin-top: 0;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+            
+            .card {
+                background-color: white;
+                border-radius: 5px;
+                box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+                padding: 20px;
+                margin-bottom: 20px;
+            }
+            
+            .metrics {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+                gap: 20px;
+                margin-bottom: 20px;
+            }
+            
+            .metric {
+                background-color: #f2f7f9;
+                border-radius: 5px;
+                padding: 15px;
+                text-align: center;
+            }
+            
+            .metric h3 {
+                margin: 0 0 10px 0;
+                color: #305a72;
+            }
+            
+            .metric p {
+                font-size: 1.5em;
+                font-weight: bold;
+                margin: 0;
+            }
+            
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                margin-bottom: 20px;
+            }
+            
+            table, th, td {
+                border: 1px solid #ddd;
+            }
+            
+            th, td {
+                padding: 12px;
+                text-align: left;
+            }
+            
+            th {
+                background-color: #305a72;
+                color: white;
+            }
+            
+            tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+            
+            .image-container {
+                text-align: center;
+                margin: 20px 0;
+            }
+            
+            .image-container img {
+                max-width: 100%;
+                height: auto;
+                border-radius: 5px;
+                box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            }
+            
+            .example {
+                background-color: #f9f9f9;
+                border-left: 4px solid #305a72;
+                padding: 10px 15px;
+                margin-bottom: 10px;
+            }
+            
+            .example p {
+                margin: 5px 0;
+            }
+            
+            footer {
+                text-align: center;
+                margin-top: 20px;
+                padding: 10px;
+                font-size: 0.9em;
+                color: #666;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <h1>Informe de Evaluación - white_EHCB</h1>
+                <p>Generado el 27/04/2025 12:25:03</p>
+            </header>
+            
+            <div class="card">
+                <h2>Métricas Globales</h2>
+                <div class="metrics">
+                    <div class="metric">
+                        <h3>Accuracy</h3>
+                        <p>0.5000</p>
+                    </div>
+                    <div class="metric">
+                        <h3>Cohen's Kappa</h3>
+                        <p>0.3207</p>
+                    </div>
+                    <div class="metric">
+                        <h3>Muestras</h3>
+                        <p>50</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <h2>Imágenes de Análisis</h2>
+                <p>Las siguientes imágenes muestran diferentes aspectos del análisis:</p>
+                
+                <div class="image-container">
+                    <h3>Matriz de Confusión</h3>
+                    <img src="confusion_matrix_white_EHCB.png" alt="Matriz de Confusión">
+                </div>
+                
+                <div class="image-container">
+                    <h3>Distribución de Categorías</h3>
+                    <img src="category_distribution_white_EHCB.png" alt="Distribución de Categorías">
+                </div>
+                
+                <div class="image-container">
+                    <h3>Métricas por Categoría</h3>
+                    <img src="category_metrics_white_EHCB.png" alt="Métricas por Categoría">
+                </div>
+            </div>
+            
+            <div class="card">
+                <h2>Métricas por Categoría</h2>
+                <table>
+                    <tr>
+                        <th>Categoría</th>
+                        <th>Muestras</th>
+                        <th>Precisión</th>
+                        <th>Recall</th>
+                        <th>F1</th>
+                    </tr>
+    
+                    <tr>
+                        <td>ADJECTIVE</td>
+                        <td>23.0</td>
+                        <td>0.6667</td>
+                        <td>0.6087</td>
+                        <td>0.6364</td>
+                    </tr>
+        
+                    <tr>
+                        <td>COAT_WITH_WHITE</td>
+                        <td>10.0</td>
+                        <td>0.5714</td>
+                        <td>0.8000</td>
+                        <td>0.6667</td>
+                    </tr>
+        
+                    <tr>
+                        <td>MAKE_WHITE</td>
+                        <td>7.0</td>
+                        <td>0.3333</td>
+                        <td>0.1429</td>
+                        <td>0.2000</td>
+                    </tr>
+        
+                    <tr>
+                        <td>MAKE_PURE</td>
+                        <td>3.0</td>
+                        <td>1.0000</td>
+                        <td>0.3333</td>
+                        <td>0.5000</td>
+                    </tr>
+        
+                    <tr>
+                        <td>BLEACH</td>
+                        <td>2.0</td>
+                        <td>0.0000</td>
+                        <td>0.0000</td>
+                        <td>0.0000</td>
+                    </tr>
+        
+                    <tr>
+                        <td>NOUN</td>
+                        <td>2.0</td>
+                        <td>1.0000</td>
+                        <td>0.5000</td>
+                        <td>0.6667</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CONCEAL</td>
+                        <td>1.0</td>
+                        <td>0.0000</td>
+                        <td>0.0000</td>
+                        <td>0.0000</td>
+                    </tr>
+        
+                    <tr>
+                        <td>NONE</td>
+                        <td>1.0</td>
+                        <td>0.0000</td>
+                        <td>0.0000</td>
+                        <td>0.0000</td>
+                    </tr>
+        
+                    <tr>
+                        <td>REPEATED</td>
+                        <td>1.0</td>
+                        <td>0.0000</td>
+                        <td>0.0000</td>
+                        <td>0.0000</td>
+                    </tr>
+        
+                </table>
+            </div>
+            
+            <div class="card">
+                <h2>Distribución de Categorías</h2>
+                <table>
+                    <tr>
+                        <th>Categoría</th>
+                        <th>Humano</th>
+                        <th>GPT</th>
+                        <th>Diferencia</th>
+                    </tr>
+    
+                    <tr>
+                        <td>ADJECTIVE</td>
+                        <td>23</td>
+                        <td>21</td>
+                        <td>-2</td>
+                    </tr>
+        
+                    <tr>
+                        <td>BLEACH</td>
+                        <td>2</td>
+                        <td>1</td>
+                        <td>-1</td>
+                    </tr>
+        
+                    <tr>
+                        <td>COAT_WITH_WHITE</td>
+                        <td>10</td>
+                        <td>14</td>
+                        <td>4</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CONCEAL</td>
+                        <td>1</td>
+                        <td>9</td>
+                        <td>8</td>
+                    </tr>
+        
+                    <tr>
+                        <td>MAKE_PURE</td>
+                        <td>3</td>
+                        <td>1</td>
+                        <td>-2</td>
+                    </tr>
+        
+                    <tr>
+                        <td>MAKE_WHITE</td>
+                        <td>7</td>
+                        <td>3</td>
+                        <td>-4</td>
+                    </tr>
+        
+                    <tr>
+                        <td>NONE</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td>-1</td>
+                    </tr>
+        
+                    <tr>
+                        <td>NOUN</td>
+                        <td>2</td>
+                        <td>1</td>
+                        <td>-1</td>
+                    </tr>
+        
+                    <tr>
+                        <td>REPEATED</td>
+                        <td>1</td>
+                        <td>0</td>
+                        <td>-1</td>
+                    </tr>
+        
+                </table>
+            </div>
+            
+            <div class="card">
+                <h2>Patrones de Confusión Comunes</h2>
+                <table>
+                    <tr>
+                        <th>Categoría Humano</th>
+                        <th>Categoría GPT</th>
+                        <th>Frecuencia</th>
+                    </tr>
+    
+                    <tr>
+                        <td>ADJECTIVE</td>
+                        <td>CONCEAL</td>
+                        <td>7</td>
+                    </tr>
+        
+                    <tr>
+                        <td>MAKE_WHITE</td>
+                        <td>ADJECTIVE</td>
+                        <td>3</td>
+                    </tr>
+        
+                    <tr>
+                        <td>MAKE_WHITE</td>
+                        <td>COAT_WITH_WHITE</td>
+                        <td>2</td>
+                    </tr>
+        
+                    <tr>
+                        <td>COAT_WITH_WHITE</td>
+                        <td>CONCEAL</td>
+                        <td>2</td>
+                    </tr>
+        
+                    <tr>
+                        <td>BLEACH</td>
+                        <td>COAT_WITH_WHITE</td>
+                        <td>2</td>
+                    </tr>
+        
+                    <tr>
+                        <td>MAKE_PURE</td>
+                        <td>COAT_WITH_WHITE</td>
+                        <td>1</td>
+                    </tr>
+        
+                    <tr>
+                        <td>NONE</td>
+                        <td>MAKE_WHITE</td>
+                        <td>1</td>
+                    </tr>
+        
+                    <tr>
+                        <td>ADJECTIVE</td>
+                        <td>COAT_WITH_WHITE</td>
+                        <td>1</td>
+                    </tr>
+        
+                    <tr>
+                        <td>ADJECTIVE</td>
+                        <td>MAKE_WHITE</td>
+                        <td>1</td>
+                    </tr>
+        
+                    <tr>
+                        <td>REPEATED</td>
+                        <td>ADJECTIVE</td>
+                        <td>1</td>
+                    </tr>
+        
+                    <tr>
+                        <td>NOUN</td>
+                        <td>ADJECTIVE</td>
+                        <td>1</td>
+                    </tr>
+        
+                    <tr>
+                        <td>MAKE_PURE</td>
+                        <td>ADJECTIVE</td>
+                        <td>1</td>
+                    </tr>
+        
+                    <tr>
+                        <td>MAKE_WHITE</td>
+                        <td>BLEACH</td>
+                        <td>1</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CONCEAL</td>
+                        <td>ADJECTIVE</td>
+                        <td>1</td>
+                    </tr>
+        
+                </table>
+            </div>
+            
+            <div class="card">
+                <h2>Ejemplos de Errores</h2>
+    
+                <div class="example">
+                    <p><strong>Ejemplo 1</strong></p>
+                    <p><strong>Texto:</strong> , who it is that makes this criminall Accusation; then, against whom it is made: painted, but rotten Sepulchres, whited , but stinking Dunghills; against him that was blamelesse in his life, and in his Doctrine diuine and heauenly. </s><s> The</p>
+                    <p><strong>Categoría Humano:</strong> ADJECTIVE</p>
+                    <p><strong>Categoría GPT:</strong> CONCEAL</p>
+                </div>
+        
+                <div class="example">
+                    <p><strong>Ejemplo 2</strong></p>
+                    <p><strong>Texto:</strong> buſineſſes on the Sabbath day, and pleads conſcience, wilt thou ſmite him and whip him? </s><s> God will ſmite thee, thou whited wall. </s><s> How dareſt thou ſmite him, and ſo cauſe him to doe that for which God will whip him worſer? </s><s> Shew mercy to thoſe under</p>
+                    <p><strong>Categoría Humano:</strong> ADJECTIVE</p>
+                    <p><strong>Categoría GPT:</strong> CONCEAL</p>
+                </div>
+        
+                <div class="example">
+                    <p><strong>Ejemplo 3</strong></p>
+                    <p><strong>Texto:</strong> of minde: drerie. </s><s> Afare? </s><s> Afare ſia, nay, if it be ſo? do your worſt, I care not for you. </s><s> Affare, as Confare. </s><s> Affarinare, to white with flower or meale. </s><s> Affarſi, to beſeeme, to be ſeemely, to be conuenient, to agree with. </s><s> Affaſciare, to ſwathe, to</p>
+                    <p><strong>Categoría Humano:</strong> MAKE_WHITE</p>
+                    <p><strong>Categoría GPT:</strong> ADJECTIVE</p>
+                </div>
+        
+                <div class="example">
+                    <p><strong>Ejemplo 4</strong></p>
+                    <p><strong>Texto:</strong> beholding that inestimable Iewell, which as farre excelled all the rest of the Ladies as the Sunne doth the Moone, or white his contrary: who with such comely modesty behaued her self, that her looke did rightly resemble a countenance ful of</p>
+                    <p><strong>Categoría Humano:</strong> MAKE_WHITE</p>
+                    <p><strong>Categoría GPT:</strong> ADJECTIVE</p>
+                </div>
+        
+                <div class="example">
+                    <p><strong>Ejemplo 5</strong></p>
+                    <p><strong>Texto:</strong> ſon Feu. </s><s> Bathe there bright Beauties: Honors Paradiſe </s><s> To thoſe high Mountaines well may you entiſe. </s><s> Mountaines all whited with eternall Snowe </s><s> Flancke the one part; Immortall verdures flowe, </s><s> Vpon a Plaine, that''s louely Beauties pride: </s><s> The</p>
+                    <p><strong>Categoría Humano:</strong> MAKE_WHITE</p>
+                    <p><strong>Categoría GPT:</strong> COAT_WITH_WHITE</p>
+                </div>
+        
+                <div class="example">
+                    <p><strong>Ejemplo 6</strong></p>
+                    <p><strong>Texto:</strong> presence of ye throne of god. </s><s> Brist. saith, this word therefore, is referred to their comming out of affliction, and so whited their stoles: And yet this gloser (saith he of me) taketh it away from the affliction, whereas that whiting was nothing</p>
+                    <p><strong>Categoría Humano:</strong> MAKE_WHITE</p>
+                    <p><strong>Categoría GPT:</strong> COAT_WITH_WHITE</p>
+                </div>
+        
+                <div class="example">
+                    <p><strong>Ejemplo 7</strong></p>
+                    <p><strong>Texto:</strong> a Brother, and heire with Christ, and to apply a name appropriate to Gods Saints unto such, as they esteeme no better then whited tombes, and painted sepulchers. </s><s> And because folly is the especiall object of contempt, they are come to that height of</p>
+                    <p><strong>Categoría Humano:</strong> COAT_WITH_WHITE</p>
+                    <p><strong>Categoría GPT:</strong> CONCEAL</p>
+                </div>
+        
+                <div class="example">
+                    <p><strong>Ejemplo 8</strong></p>
+                    <p><strong>Texto:</strong> the world, were asked, how he would turne these wordes into Hebrue, Similes estis sepulchris dealbatis: you are like to whited graues: And, Sepulchrum eius apud vos est: His graue is among you: would any Hebrue I say translate it by this Hebrue</p>
+                    <p><strong>Categoría Humano:</strong> COAT_WITH_WHITE</p>
+                    <p><strong>Categoría GPT:</strong> CONCEAL</p>
+                </div>
+        
+                <div class="example">
+                    <p><strong>Ejemplo 9</strong></p>
+                    <p><strong>Texto:</strong> the ſame.Iovinian the Emperour travelling towards Rome in the Winter-ſeaſon, by the way was lodged in a roome newly whited with lime, in the which, to aire the roome, was made a great fire of char-coale, and the next morning this Emperour was</p>
+                    <p><strong>Categoría Humano:</strong> BLEACH</p>
+                    <p><strong>Categoría GPT:</strong> COAT_WITH_WHITE</p>
+                </div>
+        
+                <div class="example">
+                    <p><strong>Ejemplo 10</strong></p>
+                    <p><strong>Texto:</strong> , and comfort the patients weake ſpirits. </s><s> The colour of the walls come alſo here within our conſideration; which if whited with lime or chaulke, are likewiſe offenſive;Hippocrates. </s><s> That it is not ſufficient for the Phyſitian to play his part</p>
+                    <p><strong>Categoría Humano:</strong> BLEACH</p>
+                    <p><strong>Categoría GPT:</strong> COAT_WITH_WHITE</p>
+                </div>
+        
+            </div>
+            
+            <footer>
+                <p>Informe generado automáticamente por el sistema de análisis semántico.</p>
+            </footer>
+        </div>
+    </body>
+    </html>
+    

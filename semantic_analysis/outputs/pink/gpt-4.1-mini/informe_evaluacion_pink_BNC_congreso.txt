@@ -1,0 +1,24 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: BNC_congreso
+Palabra: pink
+Modelo: gpt-4.1-mini
+Accuracy global: 0.7045
+Cohen's Kappa: 0.5794 (Acuerdo moderado)
+Número de muestras: 44
+
+Métricas por categoría:
+  NONE: Precision=1.0000, Recall=0.9500, F1=0.9744, Count=20.0
+  NOUN: Precision=1.0000, Recall=0.3750, F1=0.5455, Count=16.0
+  ADJECTIVE: Precision=0.3750, Recall=1.0000, F1=0.5455, Count=6.0
+  BE(COME)_PINK: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=2.0
+  BLUSH: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=0.0
+
+Mejor categoría por F1: NONE (F1: 0.9744)
+Peor categoría por F1: ADJECTIVE (F1: 0.5455)
+
+Patrones de confusión más comunes:
+  HUMANO: NOUN -> GPT: ADJECTIVE: 8 casos
+  HUMANO: NOUN -> GPT: BE(COME)_PINK: 2 casos
+  HUMANO: BE(COME)_PINK -> GPT: ADJECTIVE: 1 casos
+  HUMANO: BE(COME)_PINK -> GPT: BLUSH: 1 casos
+  HUMANO: NONE -> GPT: ADJECTIVE: 1 casos

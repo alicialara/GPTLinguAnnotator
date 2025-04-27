@@ -1,0 +1,33 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: EHCB
+Palabra: white
+Modelo: gpt-4.1-mini
+Accuracy global: 0.5000
+Cohen's Kappa: 0.3294 (Acuerdo justo)
+Número de muestras: 50
+
+Métricas por categoría:
+  ADJECTIVE: Precision=0.6364, Recall=0.6087, F1=0.6222, Count=23.0
+  COAT_WITH_WHITE: Precision=0.7143, Recall=0.5000, F1=0.5882, Count=10.0
+  MAKE_WHITE: Precision=0.6000, Recall=0.4286, F1=0.5000, Count=7.0
+  MAKE_PURE: Precision=0.5000, Recall=0.6667, F1=0.5714, Count=3.0
+  BLEACH: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=2.0
+  NOUN: Precision=1.0000, Recall=0.5000, F1=0.6667, Count=2.0
+  CONCEAL: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=1.0
+  NONE: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=1.0
+  REPEATED: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=1.0
+
+Mejor categoría por F1: ADJECTIVE (F1: 0.6222)
+Peor categoría por F1: MAKE_WHITE (F1: 0.5000)
+
+Patrones de confusión más comunes:
+  HUMANO: ADJECTIVE -> GPT: CONCEAL: 7 casos
+  HUMANO: MAKE_WHITE -> GPT: ADJECTIVE: 3 casos
+  HUMANO: COAT_WITH_WHITE -> GPT: CONCEAL: 3 casos
+  HUMANO: BLEACH -> GPT: COAT_WITH_WHITE: 2 casos
+  HUMANO: MAKE_PURE -> GPT: CONCEAL: 1 casos
+  HUMANO: ADJECTIVE -> GPT: MAKE_PURE: 1 casos
+  HUMANO: NONE -> GPT: ADJECTIVE: 1 casos
+  HUMANO: COAT_WITH_WHITE -> GPT: ADJECTIVE: 1 casos
+  HUMANO: COAT_WITH_WHITE -> GPT: MAKE_WHITE: 1 casos
+  HUMANO: ADJECTIVE -> GPT: MAKE_WHITE: 1 casos

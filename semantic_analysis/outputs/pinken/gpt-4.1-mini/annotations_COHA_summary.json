@@ -1,0 +1,102 @@
+{
+  "model": "gpt-4.1-mini",
+  "word_analyzed": "pinken",
+  "corpus": "COHA",
+  "date": "27/04/2025",
+  "total_samples": 12,
+  "annotations": [
+    {
+      "id": 1,
+      "text": "tears from the irritating gas still streaked her face and her skin seemed to be pinkened a little from the same cause. Thorn swung around. His weapons were gone",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 2,
+      "text": "other side of town, Sherry stood and shaved before a mirror, his body pinkened from a shower, a grayish bath-towel wrapped about his middle. There was the",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 3,
+      "text": "crackled and then began to roar, and the white walls of the lounge were pinkened , then black-shadowed by the flames. The manager, frock-coated, stripedtrousered, arrived",
+      "human_category": "MAKE_PINK",
+      "model_category": "MAKE_PINK",
+      "match": true
+    },
+    {
+      "id": 4,
+      "text": "setting off their handsome darkness and the whiteness of her skin, although it was pinkened a little by the wind, even through the veil. | Aunt Clara managed",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 5,
+      "text": "with her kind, \" the woman said, tight-lipped, the thin cheekbones surprisingly pinkened . Charley tilted his chair back and laughed and didn't remind Ruth that one",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 6,
+      "text": "silliest line of the year (so far): \" Camilla's cheeks prettily pinkened . \" # The Deal, by G. William Marshall (511 pages; Bartholomew",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 7,
+      "text": "successful and kindly and in perpetual joyful motion like her father. His hands were pinkened as if with a fresh surge of blood. \" No need to look so",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "ADJECTIVE",
+      "match": false
+    },
+    {
+      "id": 8,
+      "text": "if you kiss me like that, \" he said huskily. Heather's face pinkened . The kiss had held some surprises for her, too, for she had",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "BE(COME)_PINK",
+      "match": true
+    },
+    {
+      "id": 9,
+      "text": "to see, \" Trent says. \" The ground is blackened, whitened and pinkened by the multitude of birds that fly in. \" # For many travellers,",
+      "human_category": "MAKE_PINK",
+      "model_category": "MAKE_PINK",
+      "match": true
+    },
+    {
+      "id": 10,
+      "text": "in the way a chilly breeze moved Francis's hair or how the cold had pinkened his face and made his eyes wet as he stood, alive, just a",
+      "human_category": "MAKE_PINK",
+      "model_category": "MAKE_PINK",
+      "match": true
+    },
+    {
+      "id": 11,
+      "text": "brightened Georgiana's eyes and loosened tendrils of honey-blond hair that fluttered becomingly around cheeks pinkened by the persistent sea breeze -- or perhaps by consciousness of being the object of",
+      "human_category": "MAKE_PINK",
+      "model_category": "MAKE_PINK",
+      "match": true
+    },
+    {
+      "id": 12,
+      "text": "wind howled as if across an opened pop bottle; the flesh on my hands pinkened and chapped. # A young woman approaching me smiled. Winter for her was as",
+      "human_category": "BE(COME)_PINK",
+      "model_category": "ADJECTIVE",
+      "match": false
+    }
+  ],
+  "global_metrics": {
+    "accuracy": 0.75,
+    "matches": 9,
+    "total": 12
+  },
+  "category_distribution": {
+    "BE(COME)_PINK": 8,
+    "MAKE_PINK": 4
+  }
+}

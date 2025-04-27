@@ -1,0 +1,27 @@
+===== RESULTADOS DE EVALUACIÓN =====
+Corpus: COHA
+Palabra: pink
+Modelo: gpt-4.1-mini
+Accuracy global: 0.7400
+Cohen's Kappa: 0.4946 (Acuerdo moderado)
+Número de muestras: 50
+
+Métricas por categoría:
+  NONE: Precision=1.0000, Recall=0.8611, F1=0.9254, Count=36.0
+  BE(COME)_PINK: Precision=0.5000, Recall=0.5556, F1=0.5263, Count=9.0
+  MAKE_PINK: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=4.0
+  ADJECTIVE: Precision=0.2500, Recall=1.0000, F1=0.4000, Count=1.0
+  BLUSH: Precision=0.0000, Recall=0.0000, F1=0.0000, Count=0.0
+
+Mejor categoría por F1: NONE (F1: 0.9254)
+Peor categoría por F1: BE(COME)_PINK (F1: 0.5263)
+
+Patrones de confusión más comunes:
+  HUMANO: MAKE_PINK -> GPT: BE(COME)_PINK: 3 casos
+  HUMANO: BE(COME)_PINK -> GPT: BLUSH: 3 casos
+  HUMANO: NONE -> GPT: BE(COME)_PINK: 2 casos
+  HUMANO: NONE -> GPT: BLUSH: 1 casos
+  HUMANO: NONE -> GPT: ADJECTIVE: 1 casos
+  HUMANO: MAKE_PINK -> GPT: ADJECTIVE: 1 casos
+  HUMANO: NONE -> GPT: MAKE_PINK: 1 casos
+  HUMANO: BE(COME)_PINK -> GPT: ADJECTIVE: 1 casos
