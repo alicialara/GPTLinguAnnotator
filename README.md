@@ -1,32 +1,32 @@
-# Semantic Analysis Project
+# GPTLinguAnnotator
 
-Este proyecto realiza análisis semántico de palabras relacionadas con colores utilizando diferentes modelos de lenguaje como GPT-41-mini de OpenAI.
+This project performs semantic analysis of color-related words using different language models such as OpenAI's GPT-41-mini.
 
-## Palabras Analizadas
+## Analyzed Words
 
-- **black/blacken**: Análisis de múltiples significados como "BE(COME)_BLACK", "MAKE_BLACK", "APPLY_BLACKING", categorías de oscurecimiento (BO_*), etc.
-- **white/whiten**: Análisis de significados como "BE(COME)_WHITE", "MAKE_WHITE", "COAT_WITH_WHITE", "BLEACH", "MAKE_PURE", etc.
-- **red/redden**: Análisis de significados como "BE(COME)_RED", "MAKE_RED", "BLUSH", "EYES_RED", etc.
-- **pink/pinken**: Análisis de significados como "BE(COME)_PINK", "MAKE_PINK", "BLUSH", etc.
+- **black/blacken**: Analysis of multiple meanings such as "BE(COME)_BLACK", "MAKE_BLACK", "APPLY_BLACKING", darkening categories (BO_*), etc.
+- **white/whiten**: Analysis of meanings such as "BE(COME)_WHITE", "MAKE_WHITE", "COAT_WITH_WHITE", "BLEACH", "MAKE_PURE", etc.
+- **red/redden**: Analysis of meanings such as "BE(COME)_RED", "MAKE_RED", "BLUSH", "EYES_RED", etc.
+- **pink/pinken**: Analysis of meanings such as "BE(COME)_PINK", "MAKE_PINK", "BLUSH", etc.
 
-## Estructura del Proyecto
+## Project Structure
 
 ```
 semantic_analysis/
 ├── config/
-│   └── config.py         # Configuración global
-├── data/                 # Directorio para archivos de entrada
-├── outputs/              # Directorio para resultados
+│   └── config.py         # Global configuration
+├── data/                 # Directory for input files
+├── outputs/              # Directory for results
 ├── docs/
-│   ├── eng/              # Documentación en inglés
+│   ├── eng/              # English documentation
 │   ├── documentacion_tecnica.md
 │   ├── README.md
 │   └── recomendaciones_futuras.md
 ├── src/
-│   ├── data_processor.py # Procesamiento de datos
-│   ├── experiment.py     # Lógica de experimentos
-│   ├── model.py          # Interacción con OpenAI/Claude
-│   └── prompts/          # Configuración de prompts
+│   ├── data_processor.py # Data processing
+│   ├── experiment.py     # Experiment logic
+│   ├── model.py          # OpenAI/Claude interaction
+│   └── prompts/          # Prompt configurations
 │       ├── __init__.py
 │       ├── black_prompt.py
 │       ├── blacken_prompt.py
@@ -36,175 +36,175 @@ semantic_analysis/
 │       ├── redden_prompt.py
 │       ├── pink_prompt.py
 │       └── pinken_prompt.py
-├── main.py               # Script principal
-├── run_all_words.py      # Ejecuta análisis para todas las palabras
-├── comparative_analysis.py # Análisis comparativo entre modelos
-├── evaluation.py         # Evaluación de resultados
-├── setup.py              # Configuración de instalación
-└── requirements.txt      # Dependencias
+├── main.py               # Main script
+├── run_all_words.py      # Runs analysis for all words
+├── comparative_analysis.py # Comparative analysis between models
+├── evaluation.py         # Results evaluation
+├── setup.py              # Installation configuration
+└── requirements.txt      # Dependencies
 ```
 
-## Requisitos
+## Requirements
 
 - Python 3.8+
-- OpenAI API Key (solo para usar GPT-4o-mini)
-- LLM Studio con Claude expuesto en API (para usar Claude 3.7 Sonnet)
+- OpenAI API Key (only for using GPT-4o-mini)
+- LLM Studio with Claude exposed via API (for using Claude 3.7 Sonnet)
 - Pandas
 - OpenAI Python SDK
 - Requests
 
-## Instalación
+## Installation
 
-1. Clonar el repositorio
-2. Instalar el paquete en modo desarrollo:
+1. Clone the repository
+2. Install the package in development mode:
    ```bash
-   cd /ruta/a/semantic_analysis
+   cd /path/to/semantic_analysis
    pip install -e .
    ```
-   Esto instalará las dependencias y configurará el paquete para importaciones correctas.
+   This will install the dependencies and configure the package for correct imports.
    
-3. Crear un archivo `.env` en el directorio raíz con tu API key de OpenAI (solo si vas a usar GPT-4o-mini):
+3. Create a `.env` file in the root directory with your OpenAI API key (only if you're going to use GPT-4o-mini):
    ```
-   OPENAI_API_KEY=tu_api_key_aquí
+   OPENAI_API_KEY=your_api_key_here
    ```
 
-4. Asegúrate de que LLM Studio está ejecutándose y sirviendo Claude 3.7 Sonnet en la URL configurada (`http://172.20.128.1:1234/v1` por defecto), si quieres usar este modelo.
+4. Make sure that LLM Studio is running and serving Claude 3.7 Sonnet at the configured URL (`http://172.20.128.1:1234/v1` by default), if you want to use this model.
 
-## Modelos Disponibles
+## Available Models
 
-Actualmente, el sistema soporta dos modelos:
+Currently, the system supports two models:
 
-- **gpt-4o-mini**: Modelo de OpenAI (requiere API key)
-- **claude-3.7-sonnet**: Modelo de Anthropic servido localmente mediante LLM Studio
+- **gpt-4o-mini**: OpenAI model (requires API key)
+- **claude-3.7-sonnet**: Anthropic model served locally via LLM Studio
 
-Para listar los modelos disponibles:
+To list the available models:
 
 ```bash
 python semantic_analysis/main.py --list-models
 ```
 
-## Ejecutando Experimentos
+## Running Experiments
 
-### Ejecutar experimentos con un modelo específico
+### Run experiments with a specific model
 
-Para ejecutar todos los experimentos con un modelo específico:
+To run all experiments with a specific model:
 
 ```bash
-# Usando GPT-4o-mini (por defecto)
+# Using GPT-4o-mini (default)
 python semantic_analysis/main.py
 
-# Usando Claude 3.7 Sonnet
+# Using Claude 3.7 Sonnet
 python semantic_analysis/main.py --model claude-3.7-sonnet
 ```
 
-### Ejecutar experimentos para un corpus específico
+### Run experiments for a specific corpus
 
-Si solo quieres procesar un corpus en particular:
+If you only want to process a particular corpus:
 
 ```bash
-# Procesando solo el corpus BNC_congreso con GPT-4o-mini
+# Processing only the BNC_congreso corpus with GPT-4o-mini
 python semantic_analysis/main.py --corpus BNC_congreso
 
-# Procesando solo el corpus COCA con Claude
+# Processing only the COCA corpus with Claude
 python semantic_analysis/main.py --model claude-3.7-sonnet --corpus COCA
 ```
 
-Los corpus disponibles son: BNC_congreso, COCA, COHA, EHCB
+The available corpora are: BNC_congreso, COCA, COHA, EHCB
 
-### Ejecutar experimentos para todas las palabras
+### Run experiments for all words
 
-Para ejecutar análisis para todas las palabras de colores:
+To run analysis for all color words:
 
 ```bash
-# Usando GPT-4o-mini (por defecto)
+# Using GPT-4o-mini (default)
 python semantic_analysis/run_all_words.py
 
-# Usando otro modelo
+# Using another model
 python semantic_analysis/run_all_words.py claude-3.7-sonnet
 ```
 
-## Evaluación de Resultados
+## Results Evaluation
 
-Después de ejecutar los experimentos, puedes evaluar los resultados comparándolos con las anotaciones humanas:
+After running the experiments, you can evaluate the results by comparing them with human annotations:
 
 ```bash
-# Evaluar los resultados de GPT-4o-mini para el corpus COCA
+# Evaluate GPT-4o-mini results for the COCA corpus
 python semantic_analysis/evaluation.py --corpus COCA
 
-# Evaluar los resultados de Claude para el corpus COCA
+# Evaluate Claude results for the COCA corpus
 python semantic_analysis/evaluation.py --corpus COCA --model claude-3.7-sonnet
 
-# Generar también informe HTML
+# Also generate HTML report
 python semantic_analysis/evaluation.py --corpus COCA --model claude-3.7-sonnet --html
 ```
 
-## Análisis Comparativo
+## Comparative Analysis
 
-Para comparar los resultados de diferentes modelos y corpus:
+To compare results from different models and corpora:
 
 ```bash
-# Generar análisis comparativo
+# Generate comparative analysis
 python semantic_analysis/comparative_analysis.py --html
 
-# Modo de depuración para ver más información
+# Debug mode to see more information
 python semantic_analysis/comparative_analysis.py --html --debug
 ```
 
-Esto generará:
-- Un informe textual (`informe_comparativo.txt`)  
-- Un informe HTML (`informe_comparativo.html`)
-- Visualizaciones comparativas:
-  - Métricas por corpus (`comparative_metrics.png`)
-  - Distribución global de categorías (`global_category_distribution.png`)
-  - Rendimiento por categoría (`category_f1_heatmap.png` y `category_f1_comparison.png`)
+This will generate:
+- A text report (`informe_comparativo.txt`)  
+- An HTML report (`informe_comparativo.html`)
+- Comparative visualizations:
+  - Metrics by corpus (`comparative_metrics.png`)
+  - Global category distribution (`global_category_distribution.png`)
+  - Performance by category (`category_f1_heatmap.png` and `category_f1_comparison.png`)
 
-## Estructura de los Resultados
+## Results Structure
 
-Los resultados de los experimentos se guardan en el directorio `outputs/` con la siguiente estructura:
-- `outputs/{palabra}/{modelo}/`
-  - `annotations_{corpus}_GENERIC.xlsx`: Resultados directos de los experimentos.
-  - `evaluacion_{corpus}_GENERIC.xlsx`: Evaluación detallada de los resultados.
-  - `informe_evaluacion_{corpus}.txt`: Informe textual de la evaluación.
-  - `informe_evaluacion_{corpus}.html`: Informe HTML de la evaluación.
-  - `annotations_{corpus}_viewer.html`: Visualización HTML interactiva.
-  - Visualizaciones: Matrices de confusión, distribución de categorías, métricas, etc.
+The experiment results are saved in the `outputs/` directory with the following structure:
+- `outputs/{word}/{model}/`
+  - `annotations_{corpus}_GENERIC.xlsx`: Direct results from the experiments.
+  - `evaluacion_{corpus}_GENERIC.xlsx`: Detailed evaluation of the results.
+  - `informe_evaluacion_{corpus}.txt`: Text report of the evaluation.
+  - `informe_evaluacion_{corpus}.html`: HTML report of the evaluation.
+  - `annotations_{corpus}_viewer.html`: Interactive HTML visualization.
+  - Visualizations: Confusion matrices, category distribution, metrics, etc.
 
-## Definir Experimentos
+## Defining Experiments
 
-Los experimentos están configurados en `config/config.py`. Cada palabra tiene configuraciones específicas para sus diferentes corpus:
+Experiments are configured in `config/config.py`. Each word has specific configurations for its different corpora:
 
 ```python
 EXPERIMENTS = [
-    # Experimentos para black
+    # Experiments for black
     ExperimentConfig(
         word="black",
         file_path=DATA_DIR / "2 black_full_CF_CL.xlsx",
         sheet_name="BNC_congreso"
     ),
-    # ... otros corpus para black
+    # ... other corpora for black
     
-    # Experimentos para white
+    # Experiments for white
     ExperimentConfig(
         word="white",
         file_path=DATA_DIR / "0 white_full_CF_CL.xlsx",
         sheet_name="BNC_congreso"
     ),
-    # ... otros corpus y palabras
+    # ... other corpora and words
 ]
 ```
 
-## Configuración
+## Configuration
 
-Puedes modificar los siguientes parámetros en `config/config.py`:
-- Modelos disponibles y sus configuraciones
-- Diccionarios disponibles
-- Experimentos a ejecutar
-- Rutas de archivos
-- Categorías para diferentes tipos de experimentos
+You can modify the following parameters in `config/config.py`:
+- Available models and their configurations
+- Available dictionaries
+- Experiments to run
+- File paths
+- Categories for different types of experiments
 
-### Agregar Nuevos Modelos
+### Adding New Models
 
-Para agregar un nuevo modelo, modifica la configuración en `config/config.py`:
+To add a new model, modify the configuration in `config/config.py`:
 
 ```python
 AVAILABLE_MODELS = {
@@ -213,6 +213,6 @@ AVAILABLE_MODELS = {
         "api_type": "openai",
         "base_url": None  # Use default OpenAI URL
     },
-    # Agrega tu nuevo modelo aquí
+    # Add your new model here
 }
 ``` 
